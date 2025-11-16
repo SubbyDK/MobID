@@ -1,0 +1,15 @@
+## Interface: 11200
+## Title: MobID
+## Author: Subby
+## Notes: Collect all mobs in the game so we can make some ID's.
+## Version: 0.1
+## X-Date: 2025-11-01
+## X-Website: https://github.com/SubbyDK/MobID
+## DefaultState: enabled
+## Dependencies: 
+## OptionalDeps: 
+## SavedVariables: MOB_LIST, MISSING_MOB_ID
+## SavedVariablesPerCharacter: 
+
+Import.lua
+MobID.lua

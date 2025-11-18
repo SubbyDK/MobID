@@ -13,6 +13,12 @@ You can help by simply installing this addon! From time to time, please send a f
 The file you need to send is located here:
 `\Turtle WoW\WTF\Account\[YOUR ACCOUNT NAME]\SavedVariables\MobID.lua`
 
+## ⏰ When should I send the file?
+
+When you log in to the game, you will receive a message showing you how many mobs are currently missing an ID in your local file.
+
+Please send the file when you feel you have collected a good amount, but **don't wait** until you have thousands!
+
 ## ⚙️ How does it work?
 
 The addon collects the **mob name**, **mob level**, and the **zone** you are currently in.

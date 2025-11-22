@@ -68,8 +68,12 @@ f:SetScript("OnUpdate", function()
             return;
         end
 
+        -- Check if there is updates to us from Import.lua
+        ImportNewMobs()
+
         -- Split the list so we easy can add the missing ID's.
         UpdateMobIDs()
+
         -- A small info about how many mobs have ID and how many there is missing.
         WhoIsMissingID()
 
@@ -398,8 +402,7 @@ function UpdateMobIDs()
     if (updatedCount > 0) then
         DEFAULT_CHAT_FRAME:AddMessage(legendaryColor .. AddonName .. resetColor .. ": " .. updatedCount .. " new ID(s) have been added to " .. AddonName .. ".");
     end
-    -- Check if there is updates to us from Import.lua
-    ImportNewMobs()
+
 end
 
 -- ====================================================================================================

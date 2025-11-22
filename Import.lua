@@ -55,92 +55,92 @@ IMPORT_MOB_ID = {
 		["Name"] = "Acolyte Fenrick",
 		["Zone"] = "The Barrens",
 		["ID"] = 6253,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
 	[8] = {
 		["Name"] = "Acolyte Magaz",
 		["Zone"] = "The Barrens",
 		["ID"] = 6252,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
 	[9] = {
 		["Name"] = "Acolyte Wytula",
 		["Zone"] = "The Barrens",
 		["ID"] = 6254,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
 	[10] = {
 		["Name"] = "Adder",
-		["Zone"] = "The Barrens",
+		["Zone"] = "Durotar",
 		["ID"] = 3300,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
 	[11] = {
 		["Name"] = "Adder",
-		["Zone"] = "Durotar",
+		["Zone"] = "The Barrens",
 		["ID"] = 3300,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
 	[12] = {
 		["Name"] = "Adult Plainstrider",
 		["Zone"] = "Mulgore",
 		["ID"] = 2956,
-		["maxLevel"] = 7,
 		["minLevel"] = 6,
+		["maxLevel"] = 7,
 	},
 	[13] = {
 		["Name"] = "Adult Plainstrider",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 2956,
-		["maxLevel"] = 7,
 		["minLevel"] = 7,
+		["maxLevel"] = 7,
 	},
 	[14] = {
 		["Name"] = "Aelienne Summerbreeze",
 		["Zone"] = "Tanaris",
 		["ID"] = 80992,
-		["maxLevel"] = 51,
 		["minLevel"] = 51,
+		["maxLevel"] = 51,
 	},
 	[15] = {
 		["Name"] = "Aethalas",
 		["Zone"] = "Darnassus",
 		["ID"] = 2302,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
 	[16] = {
 		["Name"] = "Agne",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 80602,
-		["maxLevel"] = 37,
 		["minLevel"] = 37,
+		["maxLevel"] = 37,
 	},
 	[17] = {
 		["Name"] = "Ahanu",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 8359,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
 	[18] = {
 		["Name"] = "Ainethil",
 		["Zone"] = "Darnassus",
 		["ID"] = 4160,
-		["maxLevel"] = 46,
 		["minLevel"] = 46,
+		["maxLevel"] = 46,
 	},
 	[19] = {
 		["Name"] = "Ak'Zeloth",
 		["Zone"] = "The Barrens",
 		["ID"] = 3521,
-		["maxLevel"] = 22,
 		["minLevel"] = 22,
+		["maxLevel"] = 22,
 	},
 	[20] = {
 		["Name"] = "Alah'Thalas Citizen",
@@ -171,14631 +171,16061 @@ IMPORT_MOB_ID = {
 		["minLevel"] = 55,
 	},
 	[24] = {
-		["Name"] = "Alassin",
+		["Name"] = "Alaindia",
 		["Zone"] = "Darnassus",
-		["ID"] = 10056,
+		["ID"] = 3562,
 		["maxLevel"] = 30,
 		["minLevel"] = 30,
 	},
 	[25] = {
+		["Name"] = "Alassin",
+		["Zone"] = "Darnassus",
+		["ID"] = 10056,
+		["minLevel"] = 30,
+		["maxLevel"] = 30,
+	},
+	[26] = {
 		["Name"] = "Alchemist Pestlezugg",
 		["Zone"] = "Tanaris",
 		["ID"] = 5594,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[26] = {
+	[27] = {
 		["Name"] = "Alegorn",
 		["Zone"] = "Darnassus",
 		["ID"] = 4210,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[27] = {
+	[28] = {
 		["Name"] = "Alexi Barov",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 11022,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
-	},
-	[28] = {
-		["Name"] = "Alliance Brigadier General",
-		["Zone"] = "Darnassus",
-		["ID"] = 15351,
 		["maxLevel"] = 60,
-		["minLevel"] = 60,
 	},
 	[29] = {
 		["Name"] = "Alliance Brigadier General",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 15351,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
 	[30] = {
+		["Name"] = "Alliance Brigadier General",
+		["Zone"] = "Darnassus",
+		["ID"] = 15351,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[31] = {
 		["Name"] = "Alormion",
 		["Zone"] = "Tanaris",
 		["ID"] = 65018,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[31] = {
+	[32] = {
 		["Name"] = "Alowicious Czervik",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 14480,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[32] = {
+	[33] = {
 		["Name"] = "Amara Highbreeze",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61808,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[33] = {
+	[34] = {
 		["Name"] = "Amathion Seawhisper",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 62093,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[34] = {
+	[35] = {
 		["Name"] = "Ambassador Malcin",
 		["Zone"] = "Thousand Needles",
 		["ID"] = 12865,
-		["maxLevel"] = 36,
 		["minLevel"] = 36,
+		["maxLevel"] = 36,
 	},
-	[35] = {
+	[36] = {
 		["Name"] = "Ambassador Malcin",
 		["Zone"] = "The Barrens",
 		["ID"] = 12865,
-		["maxLevel"] = 36,
 		["minLevel"] = 36,
+		["maxLevel"] = 36,
 	},
-	[36] = {
+	[37] = {
 		["Name"] = "Anadyia",
 		["Zone"] = "Darnassus",
 		["ID"] = 4172,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[37] = {
+	[38] = {
+		["Name"] = "Anara",
+		["Zone"] = "Orgrimmar",
+		["ID"] = 61920,
+		["minLevel"] = 25,
+		["maxLevel"] = 25,
+	},
+	[39] = {
 		["Name"] = "Ancient Core Hound",
 		["Zone"] = "Molten Core",
 		["ID"] = 11673,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[38] = {
+	[40] = {
 		["Name"] = "Ancient Protector",
 		["Zone"] = "Darnassus",
 		["ID"] = 2041,
-		["minLevel"] = 60,
 		["maxLevel"] = 60,
+		["minLevel"] = 60,
 	},
-	[39] = {
+	[41] = {
 		["Name"] = "Ancient of Arcane",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61843,
 		["maxLevel"] = 60,
 		["minLevel"] = 60,
 	},
-	[40] = {
+	[42] = {
 		["Name"] = "Ancient of Lore",
 		["Zone"] = "Darnassus",
 		["ID"] = 3468,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[41] = {
+	[43] = {
 		["Name"] = "Ancient of War",
 		["Zone"] = "Darnassus",
 		["ID"] = 3469,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[42] = {
+	[44] = {
 		["Name"] = "Andi Lynn",
 		["Zone"] = "Tanaris",
 		["ID"] = 11758,
-		["maxLevel"] = 48,
 		["minLevel"] = 48,
+		["maxLevel"] = 48,
 	},
-	[43] = {
+	[45] = {
 		["Name"] = "Andre Firebeard",
 		["Zone"] = "Tanaris",
 		["ID"] = 7883,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[44] = {
+	[46] = {
 		["Name"] = "Andrelas Thas'danil",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 80457,
 		["maxLevel"] = 30,
 		["minLevel"] = 30,
 	},
-	[45] = {
+	[47] = {
 		["Name"] = "Androd Fadran",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2816,
-		["maxLevel"] = 37,
 		["minLevel"] = 37,
+		["maxLevel"] = 37,
 	},
-	[46] = {
+	[48] = {
 		["Name"] = "Androl Oakhand",
 		["Zone"] = "Teldrassil",
 		["ID"] = 3607,
-		["maxLevel"] = 37,
 		["minLevel"] = 37,
+		["maxLevel"] = 37,
 	},
-	[47] = {
+	[49] = {
 		["Name"] = "Andrus",
 		["Zone"] = "Darnassus",
 		["ID"] = 4234,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[48] = {
+	[50] = {
 		["Name"] = "Animated Oil",
 		["Zone"] = "Tanaris",
 		["ID"] = 62612,
-		["maxLevel"] = 51,
 		["minLevel"] = 49,
+		["maxLevel"] = 51,
 	},
-	[49] = {
+	[51] = {
 		["Name"] = "Anisalah Starcaller",
 		["Zone"] = "Darnassus",
 		["ID"] = 80959,
-		["maxLevel"] = 11,
 		["minLevel"] = 11,
+		["maxLevel"] = 11,
 	},
-	[50] = {
+	[52] = {
 		["Name"] = "Anishar",
 		["Zone"] = "Darnassus",
 		["ID"] = 4215,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[51] = {
+	[53] = {
 		["Name"] = "Annesastrasza",
 		["Zone"] = "Hyjal",
 		["ID"] = 61577,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[52] = {
+	[54] = {
 		["Name"] = "Ansekhwa",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 11869,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[53] = {
+	[55] = {
 		["Name"] = "Ansela Dawnshield",
 		["Zone"] = "Ironforge",
 		["ID"] = 60877,
 		["minLevel"] = 28,
 		["maxLevel"] = 28,
 	},
-	[54] = {
+	[56] = {
 		["Name"] = "Anub'Rekhan",
 		["Zone"] = "Naxxramas",
 		["ID"] = 15956,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[55] = {
+	[57] = {
 		["Name"] = "Anubisath Defender",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15277,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[56] = {
+	[58] = {
 		["Name"] = "Anubisath Sentinel",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15264,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[57] = {
+	[59] = {
 		["Name"] = "Anubisath Swarmguard",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15538,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[58] = {
+	[60] = {
 		["Name"] = "Anubisath Warder",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15311,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[59] = {
+	[61] = {
 		["Name"] = "Anubisath Warrior",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15537,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[60] = {
+	[62] = {
 		["Name"] = "Apothecary Dithers",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 11057,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[61] = {
+	[63] = {
 		["Name"] = "Apothecary Helbrim",
 		["Zone"] = "The Barrens",
 		["ID"] = 3390,
-		["maxLevel"] = 22,
 		["minLevel"] = 22,
+		["maxLevel"] = 22,
 	},
-	[62] = {
+	[64] = {
 		["Name"] = "Apothecary Jorell",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2733,
-		["maxLevel"] = 36,
 		["minLevel"] = 36,
+		["maxLevel"] = 36,
 	},
-	[63] = {
+	[65] = {
 		["Name"] = "Apothecary Zamah",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3419,
-		["maxLevel"] = 22,
 		["minLevel"] = 22,
+		["maxLevel"] = 22,
 	},
-	[64] = {
+	[66] = {
 		["Name"] = "Apprentice Archery Target",
 		["Zone"] = "Darnassus",
 		["ID"] = 50517,
-		["minLevel"] = 1,
-		["maxLevel"] = 1,
-	},
-	[65] = {
-		["Name"] = "Apprentice Kryten",
-		["Zone"] = "Arathi Highlands",
-		["ID"] = 2788,
-		["maxLevel"] = 30,
-		["minLevel"] = 30,
-	},
-	[66] = {
-		["Name"] = "Apprentice Training Dummy",
-		["Zone"] = "Stranglethorn Vale",
-		["ID"] = 50515,
 		["maxLevel"] = 1,
 		["minLevel"] = 1,
 	},
 	[67] = {
-		["Name"] = "Apprentice Training Dummy",
-		["Zone"] = "The Barrens",
-		["ID"] = 50515,
-		["maxLevel"] = 1,
-		["minLevel"] = 1,
+		["Name"] = "Apprentice Kryten",
+		["Zone"] = "Arathi Highlands",
+		["ID"] = 2788,
+		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
 	[68] = {
 		["Name"] = "Apprentice Training Dummy",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 50515,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
 	[69] = {
 		["Name"] = "Apprentice Training Dummy",
-		["Zone"] = "Ironforge",
+		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 50515,
 		["minLevel"] = 1,
 		["maxLevel"] = 1,
 	},
 	[70] = {
 		["Name"] = "Apprentice Training Dummy",
-		["Zone"] = "Darnassus",
+		["Zone"] = "Ironforge",
 		["ID"] = 50515,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
 	[71] = {
+		["Name"] = "Apprentice Training Dummy",
+		["Zone"] = "Dustwallow Marsh",
+		["ID"] = 50515,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[72] = {
+		["Name"] = "Apprentice Training Dummy",
+		["Zone"] = "The Barrens",
+		["ID"] = 50515,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[73] = {
+		["Name"] = "Apprentice Training Dummy",
+		["Zone"] = "Darnassus",
+		["ID"] = 50515,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[74] = {
 		["Name"] = "Araj the Summoner",
 		["Zone"] = "Western Plaguelands",
 		["ID"] = 1852,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[72] = {
+	[75] = {
 		["Name"] = "Arayna Softwind",
 		["Zone"] = "Hyjal",
 		["ID"] = 61563,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[73] = {
+	[76] = {
 		["Name"] = "Arcane Guardian",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 80506,
 		["maxLevel"] = 60,
 		["minLevel"] = 60,
 	},
-	[74] = {
+	[77] = {
 		["Name"] = "Arcanist Anu'delen",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 80231,
 		["maxLevel"] = 62,
 		["minLevel"] = 62,
 	},
-	[75] = {
+	[78] = {
 		["Name"] = "Arch Druid Dreamwind",
 		["Zone"] = "Hyjal",
 		["ID"] = 61512,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[76] = {
+	[79] = {
 		["Name"] = "Arch Druid Fandral Staghelm",
 		["Zone"] = "Darnassus",
 		["ID"] = 3516,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[77] = {
+	[80] = {
 		["Name"] = "Archmage Shymm",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3047,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[78] = {
+	[81] = {
 		["Name"] = "Archmage Tarsis Kir-Moldir",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16381,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[79] = {
+	[82] = {
 		["Name"] = "Are",
 		["Zone"] = "Orgrimmar",
 		["ID"] = "Missing",
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[80] = {
+	[83] = {
 		["Name"] = "Argent Defender",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 11194,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[81] = {
+	[84] = {
 		["Name"] = "Argent Guard Manados",
 		["Zone"] = "Darnassus",
 		["ID"] = 4784,
-		["maxLevel"] = 23,
 		["minLevel"] = 23,
+		["maxLevel"] = 23,
 	},
-	[82] = {
+	[85] = {
+		["Name"] = "Argent Medic",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 16284,
+		["minLevel"] = 58,
+		["maxLevel"] = 58,
+	},
+	[86] = {
 		["Name"] = "Argent Officer Garush",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 10839,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[83] = {
+	[87] = {
 		["Name"] = "Argent Quartermaster Hasana",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 10856,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[84] = {
+	[88] = {
+		["Name"] = "Argent Rider",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 11102,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[89] = {
 		["Name"] = "Argent Sentry",
 		["Zone"] = "Eastern Plaguelands",
 		["ID"] = 16378,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[85] = {
+	[90] = {
 		["Name"] = "Arias'ta Bladesinger",
 		["Zone"] = "Darnassus",
 		["ID"] = 4087,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[86] = {
+	[91] = {
 		["Name"] = "Arisha Sunblade",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 80210,
 		["maxLevel"] = 5,
 		["minLevel"] = 5,
 	},
-	[87] = {
+	[92] = {
 		["Name"] = "Ariyell Skyshadow",
 		["Zone"] = "Darnassus",
 		["ID"] = 4203,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[88] = {
-		["Name"] = "Armored Scorpid",
-		["Zone"] = "Durotar",
-		["ID"] = 3126,
-		["maxLevel"] = 8,
-		["minLevel"] = 7,
-	},
-	[89] = {
+	[93] = {
 		["Name"] = "Armored Scorpid",
 		["Zone"] = "The Barrens",
 		["ID"] = 3126,
 		["maxLevel"] = 8,
 		["minLevel"] = 7,
 	},
-	[90] = {
+	[94] = {
+		["Name"] = "Armored Scorpid",
+		["Zone"] = "Durotar",
+		["ID"] = 3126,
+		["minLevel"] = 7,
+		["maxLevel"] = 8,
+	},
+	[95] = {
 		["Name"] = "Armored Thalassian Unicorn",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 40043,
 		["maxLevel"] = 2,
 		["minLevel"] = 2,
 	},
-	[91] = {
+	[96] = {
 		["Name"] = "Arnok",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3373,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[92] = {
+	[97] = {
 		["Name"] = "Artist",
 		["Zone"] = "The Barrens",
 		["ID"] = 60647,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[93] = {
-		["Name"] = "Ashenvale Bear",
-		["Zone"] = "Ashenvale",
-		["ID"] = 3809,
-		["maxLevel"] = 22,
-		["minLevel"] = 21,
-	},
-	[94] = {
+	[98] = {
 		["Name"] = "Ashenvale Bear",
 		["Zone"] = "The Barrens",
 		["ID"] = 3809,
-		["maxLevel"] = 21,
 		["minLevel"] = 21,
+		["maxLevel"] = 21,
 	},
-	[95] = {
+	[99] = {
+		["Name"] = "Ashenvale Bear",
+		["Zone"] = "Ashenvale",
+		["ID"] = 3809,
+		["minLevel"] = 21,
+		["maxLevel"] = 22,
+	},
+	[100] = {
 		["Name"] = "Ashenvale Sentinel",
 		["Zone"] = "Ashenvale",
 		["ID"] = 8015,
 		["maxLevel"] = 40,
 		["minLevel"] = 40,
 	},
-	[96] = {
+	[101] = {
 		["Name"] = "Ashmane Boar",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 5992,
-		["maxLevel"] = 49,
 		["minLevel"] = 48,
+		["maxLevel"] = 49,
 	},
-	[97] = {
+	[102] = {
 		["Name"] = "Ashylah Starcaller",
 		["Zone"] = "Darnassus",
 		["ID"] = 80242,
-		["maxLevel"] = 47,
 		["minLevel"] = 46,
+		["maxLevel"] = 47,
 	},
-	[98] = {
+	[103] = {
 		["Name"] = "Aska Mistrunner",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3026,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[99] = {
+	[104] = {
 		["Name"] = "Asoran",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 61918,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[100] = {
+	[105] = {
 		["Name"] = "Astaia",
 		["Zone"] = "Darnassus",
 		["ID"] = 4156,
-		["minLevel"] = 35,
 		["maxLevel"] = 35,
+		["minLevel"] = 35,
 	},
-	[101] = {
+	[106] = {
 		["Name"] = "Astalor Sunsworn",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61803,
 		["maxLevel"] = 60,
 		["minLevel"] = 60,
 	},
-	[102] = {
+	[107] = {
 		["Name"] = "Astarii Starseeker",
 		["Zone"] = "Darnassus",
 		["ID"] = 4090,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[103] = {
+	[108] = {
+		["Name"] = "Atal'ai Exile",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 5598,
+		["minLevel"] = 45,
+		["maxLevel"] = 45,
+	},
+	[109] = {
 		["Name"] = "Atepa",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 8357,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[104] = {
+	[110] = {
 		["Name"] = "Aturk the Anvil",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 7792,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[105] = {
+	[111] = {
 		["Name"] = "Auctioneer Beardo",
 		["Zone"] = "Tanaris",
 		["ID"] = 8661,
 		["maxLevel"] = 50,
 		["minLevel"] = 50,
 	},
-	[106] = {
+	[112] = {
 		["Name"] = "Auctioneer Buckler",
 		["Zone"] = "Ironforge",
 		["ID"] = 8671,
 		["minLevel"] = 50,
 		["maxLevel"] = 50,
 	},
-	[107] = {
+	[113] = {
 		["Name"] = "Auctioneer Cazarez",
 		["Zone"] = "Darnassus",
 		["ID"] = 15679,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[108] = {
+	[114] = {
 		["Name"] = "Auctioneer Golothas",
 		["Zone"] = "Darnassus",
 		["ID"] = 8723,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[109] = {
+	[115] = {
 		["Name"] = "Auctioneer Graves",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 15677,
 		["minLevel"] = 50,
 		["maxLevel"] = 50,
 	},
-	[110] = {
+	[116] = {
 		["Name"] = "Auctioneer Grimful",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 9856,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[111] = {
+	[117] = {
 		["Name"] = "Auctioneer Gullem",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 8722,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[112] = {
+	[118] = {
 		["Name"] = "Auctioneer Kresky",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 9858,
 		["minLevel"] = 50,
 		["maxLevel"] = 50,
 	},
-	[113] = {
+	[119] = {
 		["Name"] = "Auctioneer Kuzzlin",
 		["Zone"] = "The Barrens",
 		["ID"] = 50075,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[114] = {
+	[120] = {
 		["Name"] = "Auctioneer Lympkin",
 		["Zone"] = "Ironforge",
 		["ID"] = 9859,
 		["minLevel"] = 50,
 		["maxLevel"] = 50,
 	},
-	[115] = {
+	[121] = {
 		["Name"] = "Auctioneer O'reely",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 15681,
 		["minLevel"] = 50,
 		["maxLevel"] = 50,
 	},
-	[116] = {
+	[122] = {
 		["Name"] = "Auctioneer Redmuse",
 		["Zone"] = "Ironforge",
 		["ID"] = 8720,
 		["minLevel"] = 50,
 		["maxLevel"] = 50,
 	},
-	[117] = {
+	[123] = {
 		["Name"] = "Auctioneer Reilin",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61875,
 		["maxLevel"] = 50,
 		["minLevel"] = 50,
 	},
-	[118] = {
+	[124] = {
 		["Name"] = "Auctioneer Stampi",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 8674,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[119] = {
+	[125] = {
 		["Name"] = "Auctioneer Thathung",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 8673,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[120] = {
+	[126] = {
 		["Name"] = "Auctioneer Tolon",
 		["Zone"] = "Darnassus",
 		["ID"] = 8669,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[121] = {
+	[127] = {
 		["Name"] = "Auctioneer Wabang",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 8724,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[122] = {
+	[128] = {
 		["Name"] = "Auld Stonespire",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 4451,
-		["maxLevel"] = 28,
 		["minLevel"] = 28,
+		["maxLevel"] = 28,
 	},
-	[123] = {
+	[129] = {
 		["Name"] = "Azmela Shadowcrest",
 		["Zone"] = "Ashenvale",
 		["ID"] = 61140,
 		["maxLevel"] = 30,
 		["minLevel"] = 30,
 	},
-	[124] = {
+	[130] = {
 		["Name"] = "Azshara Sentinel",
 		["Zone"] = "Azshara",
 		["ID"] = 11276,
 		["maxLevel"] = 44,
 		["minLevel"] = 44,
 	},
-	[125] = {
+	[131] = {
 		["Name"] = "Baby Shark",
 		["Zone"] = "Tanaris",
 		["ID"] = 15661,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[126] = {
+	[132] = {
 		["Name"] = "Bael'dun Excavator",
 		["Zone"] = "The Barrens",
 		["ID"] = 3374,
-		["maxLevel"] = 22,
 		["minLevel"] = 21,
+		["maxLevel"] = 22,
 	},
-	[127] = {
+	[133] = {
 		["Name"] = "Bael'dun Foreman",
 		["Zone"] = "The Barrens",
 		["ID"] = 3375,
-		["maxLevel"] = 23,
 		["minLevel"] = 22,
+		["maxLevel"] = 23,
 	},
-	[128] = {
+	[134] = {
 		["Name"] = "Bael'dun Officer",
 		["Zone"] = "The Barrens",
 		["ID"] = 3378,
-		["maxLevel"] = 26,
 		["minLevel"] = 26,
+		["maxLevel"] = 26,
 	},
-	[129] = {
+	[135] = {
 		["Name"] = "Bael'dun Rifleman",
 		["Zone"] = "The Barrens",
 		["ID"] = 3377,
-		["maxLevel"] = 25,
 		["minLevel"] = 24,
+		["maxLevel"] = 25,
 	},
-	[130] = {
+	[136] = {
 		["Name"] = "Bael'dun Soldier",
 		["Zone"] = "The Barrens",
 		["ID"] = 3376,
-		["maxLevel"] = 24,
 		["minLevel"] = 23,
+		["maxLevel"] = 24,
 	},
-	[131] = {
+	[137] = {
 		["Name"] = "Bagaroh",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 60760,
-		["maxLevel"] = 54,
 		["minLevel"] = 54,
+		["maxLevel"] = 54,
 	},
-	[132] = {
+	[138] = {
 		["Name"] = "Baggle Hackrust",
 		["Zone"] = "Tanaris",
 		["ID"] = 60957,
-		["maxLevel"] = 44,
 		["minLevel"] = 44,
+		["maxLevel"] = 44,
 	},
-	[133] = {
+	[139] = {
 		["Name"] = "Bailey Stonemantle",
 		["Zone"] = "Ironforge",
 		["ID"] = 2461,
 		["minLevel"] = 45,
 		["maxLevel"] = 45,
 	},
-	[134] = {
+	[140] = {
 		["Name"] = "Banker Shalanna",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61876,
 		["maxLevel"] = 45,
 		["minLevel"] = 45,
 	},
-	[135] = {
+	[141] = {
 		["Name"] = "Barak Kodobane",
 		["Zone"] = "The Barrens",
 		["ID"] = 3394,
-		["maxLevel"] = 16,
 		["minLevel"] = 16,
+		["maxLevel"] = 16,
 	},
-	[136] = {
+	[142] = {
 		["Name"] = "Bardu Sharpeye",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 11608,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[137] = {
+	[143] = {
 		["Name"] = "Barg",
 		["Zone"] = "The Barrens",
 		["ID"] = 3481,
-		["maxLevel"] = 14,
 		["minLevel"] = 14,
+		["maxLevel"] = 14,
 	},
-	[138] = {
+	[144] = {
 		["Name"] = "Barkeep Morag",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5611,
-		["maxLevel"] = 13,
 		["minLevel"] = 13,
+		["maxLevel"] = 13,
 	},
-	[139] = {
+	[145] = {
 		["Name"] = "Barkskin Avenger",
 		["Zone"] = "Hyjal",
 		["ID"] = 61344,
-		["maxLevel"] = 62,
 		["minLevel"] = 61,
+		["maxLevel"] = 62,
 	},
-	[140] = {
+	[146] = {
 		["Name"] = "Barkskin Den Watcher",
 		["Zone"] = "Hyjal",
 		["ID"] = 61346,
-		["maxLevel"] = 62,
 		["minLevel"] = 61,
+		["maxLevel"] = 62,
 	},
-	[141] = {
+	[147] = {
 		["Name"] = "Barkskin Gardener",
 		["Zone"] = "Hyjal",
 		["ID"] = 61345,
-		["maxLevel"] = 62,
 		["minLevel"] = 61,
+		["maxLevel"] = 62,
 	},
-	[142] = {
+	[148] = {
 		["Name"] = "Barkskin Pathfinder",
 		["Zone"] = "Hyjal",
 		["ID"] = 61343,
-		["maxLevel"] = 62,
 		["minLevel"] = 61,
+		["maxLevel"] = 62,
 	},
-	[143] = {
+	[149] = {
 		["Name"] = "Barkskin Ursa",
 		["Zone"] = "Hyjal",
 		["ID"] = 61342,
-		["maxLevel"] = 62,
 		["minLevel"] = 61,
+		["maxLevel"] = 62,
 	},
-	[144] = {
+	[150] = {
 		["Name"] = "Barkskin Windtalker",
 		["Zone"] = "Hyjal",
 		["ID"] = 61347,
-		["maxLevel"] = 62,
 		["minLevel"] = 61,
+		["maxLevel"] = 62,
 	},
-	[145] = {
+	[151] = {
 		["Name"] = "Baron Geddon",
 		["Zone"] = "Molten Core",
 		["ID"] = 12056,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[146] = {
+	[152] = {
 		["Name"] = "Baron Longshore",
 		["Zone"] = "The Barrens",
 		["ID"] = 3467,
-		["maxLevel"] = 16,
 		["minLevel"] = 16,
+		["maxLevel"] = 16,
 	},
-	[147] = {
+	[153] = {
 		["Name"] = "Baron Revilgaz",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2496,
 		["minLevel"] = 60,
 		["maxLevel"] = 60,
 	},
-	[148] = {
+	[154] = {
+		["Name"] = "Baron Rivendare",
+		["Zone"] = "Orgrimmar",
+		["ID"] = 50519,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[155] = {
 		["Name"] = "Barrens Giraffe",
 		["Zone"] = "Durotar",
 		["ID"] = 3248,
 		["maxLevel"] = 16,
 		["minLevel"] = 16,
 	},
-	[149] = {
+	[156] = {
 		["Name"] = "Barrens Giraffe",
 		["Zone"] = "The Barrens",
 		["ID"] = 3248,
-		["maxLevel"] = 16,
 		["minLevel"] = 15,
+		["maxLevel"] = 16,
 	},
-	[150] = {
+	[157] = {
+		["Name"] = "Barrens Guard",
+		["Zone"] = "The Barrens",
+		["ID"] = 8016,
+		["minLevel"] = 40,
+		["maxLevel"] = 40,
+	},
+	[158] = {
 		["Name"] = "Barrens Guard",
 		["Zone"] = "Thousand Needles",
 		["ID"] = 8016,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[151] = {
+	[159] = {
 		["Name"] = "Barrens Guard",
 		["Zone"] = "Ashenvale",
 		["ID"] = 8016,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
-	},
-	[152] = {
-		["Name"] = "Barrens Guard",
-		["Zone"] = "The Barrens",
-		["ID"] = 8016,
 		["maxLevel"] = 40,
-		["minLevel"] = 40,
 	},
-	[153] = {
+	[160] = {
 		["Name"] = "Barrens Kodo",
 		["Zone"] = "The Barrens",
 		["ID"] = 3236,
-		["maxLevel"] = 20,
 		["minLevel"] = 19,
+		["maxLevel"] = 20,
 	},
-	[154] = {
+	[161] = {
 		["Name"] = "Barrus",
 		["Zone"] = "Ironforge",
 		["ID"] = 15119,
 		["minLevel"] = 50,
 		["maxLevel"] = 50,
 	},
-	[155] = {
+	[162] = {
 		["Name"] = "Bartolo Ginsetti",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 2438,
-		["maxLevel"] = 32,
 		["minLevel"] = 32,
+		["maxLevel"] = 32,
 	},
-	[156] = {
+	[163] = {
 		["Name"] = "Basalthar",
 		["Zone"] = "Molten Core",
 		["ID"] = 65020,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[157] = {
+	[164] = {
 		["Name"] = "Battle Chicken",
 		["Zone"] = "Naxxramas",
 		["ID"] = 8836,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[158] = {
+	[165] = {
 		["Name"] = "Battleguard Sartura",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15516,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[159] = {
+	[166] = {
 		["Name"] = "Bazz Eagerblast",
 		["Zone"] = "Durotar",
 		["ID"] = 91209,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
+		["maxLevel"] = 5,
 	},
-	[160] = {
+	[167] = {
 		["Name"] = "Bazzalan",
 		["Zone"] = "Ragefire Chasm",
 		["ID"] = 11519,
-		["maxLevel"] = 16,
 		["minLevel"] = 16,
+		["maxLevel"] = 16,
 	},
-	[161] = {
+	[168] = {
 		["Name"] = "Beaten Corpse",
 		["Zone"] = "The Barrens",
 		["ID"] = 10668,
-		["maxLevel"] = 16,
 		["minLevel"] = 16,
+		["maxLevel"] = 16,
 	},
-	[162] = {
+	[169] = {
 		["Name"] = "Beetle",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15475,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[163] = {
+	[170] = {
 		["Name"] = "Belgrashh",
 		["Zone"] = "Hyjal",
 		["ID"] = 61508,
-		["maxLevel"] = 57,
 		["minLevel"] = 57,
+		["maxLevel"] = 57,
 	},
-	[164] = {
+	[171] = {
 		["Name"] = "Belgrom Rockmaul",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 4485,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[165] = {
+	[172] = {
 		["Name"] = "Belgrush Daggerfist",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 60456,
 		["maxLevel"] = 45,
 		["minLevel"] = 45,
 	},
-	[166] = {
+	[173] = {
 		["Name"] = "Belwyth Redbrand",
 		["Zone"] = "Ironforge",
 		["ID"] = 61008,
 		["minLevel"] = 50,
 		["maxLevel"] = 50,
 	},
-	[167] = {
+	[174] = {
 		["Name"] = "Ben Goldflame",
 		["Zone"] = "Tanaris",
 		["ID"] = 80993,
-		["maxLevel"] = 51,
 		["minLevel"] = 51,
+		["maxLevel"] = 51,
 	},
-	[168] = {
+	[175] = {
 		["Name"] = "Bena Winterhoof",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3009,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[169] = {
+	[176] = {
 		["Name"] = "Bengus Deepforge",
 		["Zone"] = "Ironforge",
 		["ID"] = 4258,
 		["minLevel"] = 45,
 		["maxLevel"] = 45,
 	},
-	[170] = {
+	[177] = {
 		["Name"] = "Bera Stonehammer",
 		["Zone"] = "Tanaris",
 		["ID"] = 7823,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[171] = {
+	[178] = {
 		["Name"] = "Beram Skychaser",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3032,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[172] = {
+	[179] = {
+		["Name"] = "Bethelon Wildwhisper",
+		["Zone"] = "Feralas",
+		["ID"] = 61587,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[180] = {
+		["Name"] = "Betina Bigglezink",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 11035,
+		["minLevel"] = 57,
+		["maxLevel"] = 57,
+	},
+	[181] = {
 		["Name"] = "Big Fraggle",
 		["Zone"] = "Durotar",
 		["ID"] = 91274,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[173] = {
+	[182] = {
 		["Name"] = "Bile Retcher",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16018,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[174] = {
+	[183] = {
 		["Name"] = "Bile Sludge",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16142,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[175] = {
+	[184] = {
 		["Name"] = "Bimble Longberry",
 		["Zone"] = "Ironforge",
 		["ID"] = 7978,
 		["minLevel"] = 30,
 		["maxLevel"] = 30,
 	},
-	[176] = {
+	[185] = {
 		["Name"] = "Birgitte Cranston",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 5957,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[177] = {
+	[186] = {
 		["Name"] = "Bizzle Cracksaw",
 		["Zone"] = "Durotar",
 		["ID"] = 91257,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[178] = {
+	[187] = {
 		["Name"] = "Black Drakonid",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 14265,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[179] = {
+	[188] = {
 		["Name"] = "Black Kingsnake",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 7565,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[180] = {
+	[189] = {
 		["Name"] = "Black Rat",
 		["Zone"] = "Scholomance",
 		["ID"] = 2110,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[181] = {
+	[190] = {
 		["Name"] = "Black Rat",
 		["Zone"] = "Western Plaguelands",
 		["ID"] = 2110,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[182] = {
+	[191] = {
 		["Name"] = "Black Slayer",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 5982,
-		["maxLevel"] = 48,
 		["minLevel"] = 46,
+		["maxLevel"] = 48,
 	},
-	[183] = {
+	[192] = {
 		["Name"] = "Blackwing Guardsman",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 14456,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[184] = {
+	[193] = {
 		["Name"] = "Blackwing Legionnaire",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 12416,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[185] = {
+	[194] = {
 		["Name"] = "Blackwing Mage",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 12420,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[186] = {
+	[195] = {
 		["Name"] = "Blackwing Spellbinder",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 12457,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[187] = {
+	[196] = {
 		["Name"] = "Blackwing Taskmaster",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 12458,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[188] = {
+	[197] = {
 		["Name"] = "Blackwing Technician",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 13996,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[189] = {
+	[198] = {
 		["Name"] = "Blackwing Warlock",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 12459,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[190] = {
+	[199] = {
 		["Name"] = "Blaxbi",
 		["Zone"] = "Tanaris",
 		["ID"] = 62683,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[191] = {
+	[200] = {
 		["Name"] = "Bleakheart Hellcaller",
 		["Zone"] = "Ashenvale",
 		["ID"] = 3771,
 		["maxLevel"] = 27,
 		["minLevel"] = 27,
 	},
-	[192] = {
+	[201] = {
 		["Name"] = "Bleakheart Satyr",
 		["Zone"] = "Ashenvale",
 		["ID"] = 3765,
 		["maxLevel"] = 26,
 		["minLevel"] = 26,
 	},
-	[193] = {
+	[202] = {
 		["Name"] = "Bleakheart Trickster",
 		["Zone"] = "Ashenvale",
 		["ID"] = 3767,
 		["maxLevel"] = 28,
 		["minLevel"] = 27,
 	},
-	[194] = {
+	[203] = {
 		["Name"] = "Bleeding Horror",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 1529,
-		["maxLevel"] = 9,
 		["minLevel"] = 9,
+		["maxLevel"] = 9,
 	},
-	[195] = {
+	[204] = {
 		["Name"] = "Blisterpaw Hyena",
 		["Zone"] = "Tanaris",
 		["ID"] = 5426,
-		["maxLevel"] = 45,
 		["minLevel"] = 44,
+		["maxLevel"] = 45,
 	},
-	[196] = {
+	[205] = {
 		["Name"] = "Blizrik Buckshot",
 		["Zone"] = "Tanaris",
 		["ID"] = 8131,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[197] = {
+	[206] = {
+		["Name"] = "Blood Ring Gladiator",
+		["Zone"] = "Orgrimmar",
+		["ID"] = 20121,
+		["minLevel"] = 30,
+		["maxLevel"] = 30,
+	},
+	[207] = {
 		["Name"] = "Blood Ring Gladiator",
 		["Zone"] = "Darnassus",
 		["ID"] = 20121,
 		["minLevel"] = 30,
 		["maxLevel"] = 30,
 	},
-	[198] = {
-		["Name"] = "Blood Ring Gladiator",
-		["Zone"] = "Orgrimmar",
-		["ID"] = 20121,
-		["maxLevel"] = 30,
-		["minLevel"] = 30,
-	},
-	[199] = {
+	[208] = {
 		["Name"] = "Blood Steward of Kirtonos",
 		["Zone"] = "Scholomance",
 		["ID"] = 14861,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[200] = {
+	[209] = {
 		["Name"] = "Bloodmage Drazial",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 7505,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[201] = {
+	[210] = {
 		["Name"] = "Bloodmage Lynnore",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 7506,
-		["maxLevel"] = 53,
 		["minLevel"] = 53,
+		["maxLevel"] = 53,
 	},
-	[202] = {
+	[211] = {
+		["Name"] = "Bloodpetal Flayer",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6510,
+		["minLevel"] = 51,
+		["maxLevel"] = 52,
+	},
+	[212] = {
+		["Name"] = "Bloodpetal Lasher",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6509,
+		["minLevel"] = 48,
+		["maxLevel"] = 49,
+	},
+	[213] = {
+		["Name"] = "Bloodpetal Pest",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9157,
+		["minLevel"] = 40,
+		["maxLevel"] = 40,
+	},
+	[214] = {
+		["Name"] = "Bloodpetal Thresher",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6511,
+		["minLevel"] = 49,
+		["maxLevel"] = 50,
+	},
+	[215] = {
+		["Name"] = "Bloodpetal Trapper",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6512,
+		["minLevel"] = 52,
+		["maxLevel"] = 53,
+	},
+	[216] = {
 		["Name"] = "Bloodsail Deckhand",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 4505,
-		["minLevel"] = 43,
 		["maxLevel"] = 44,
+		["minLevel"] = 43,
 	},
-	[203] = {
+	[217] = {
 		["Name"] = "Bloodsail Elder Magus",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 1653,
-		["minLevel"] = 44,
 		["maxLevel"] = 45,
+		["minLevel"] = 44,
 	},
-	[204] = {
+	[218] = {
 		["Name"] = "Bloodsail Mage",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 1562,
 		["minLevel"] = 40,
 		["maxLevel"] = 41,
 	},
-	[205] = {
+	[219] = {
 		["Name"] = "Bloodsail Raider",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 1561,
 		["minLevel"] = 40,
 		["maxLevel"] = 41,
 	},
-	[206] = {
+	[220] = {
 		["Name"] = "Bloodsail Sea Dog",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 1565,
-		["minLevel"] = 43,
 		["maxLevel"] = 45,
+		["minLevel"] = 43,
 	},
-	[207] = {
+	[221] = {
 		["Name"] = "Bloodsail Swabby",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 4506,
-		["minLevel"] = 43,
 		["maxLevel"] = 44,
+		["minLevel"] = 43,
 	},
-	[208] = {
+	[222] = {
 		["Name"] = "Bloodsail Swashbuckler",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 1563,
-		["minLevel"] = 41,
 		["maxLevel"] = 43,
+		["minLevel"] = 41,
 	},
-	[209] = {
+	[223] = {
 		["Name"] = "Bloodsail Warlock",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 1564,
 		["minLevel"] = 41,
 		["maxLevel"] = 43,
 	},
-	[210] = {
-		["Name"] = "Bloodtalon Scythemaw",
-		["Zone"] = "Durotar",
-		["ID"] = 3123,
-		["maxLevel"] = 10,
-		["minLevel"] = 8,
-	},
-	[211] = {
+	[224] = {
 		["Name"] = "Bloodtalon Scythemaw",
 		["Zone"] = "The Barrens",
 		["ID"] = 3123,
 		["maxLevel"] = 10,
 		["minLevel"] = 8,
 	},
-	[212] = {
+	[225] = {
+		["Name"] = "Bloodtalon Scythemaw",
+		["Zone"] = "Durotar",
+		["ID"] = 3123,
+		["minLevel"] = 8,
+		["maxLevel"] = 10,
+	},
+	[226] = {
 		["Name"] = "Bloodtalon Taillasher",
 		["Zone"] = "Durotar",
 		["ID"] = 3122,
-		["maxLevel"] = 8,
 		["minLevel"] = 6,
+		["maxLevel"] = 8,
 	},
-	[213] = {
+	[227] = {
 		["Name"] = "Blue Rocket Car",
 		["Zone"] = "Durotar",
 		["ID"] = 80300,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[214] = {
+	[228] = {
 		["Name"] = "Bluff Runner Windstrider",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 10881,
-		["maxLevel"] = 3,
 		["minLevel"] = 3,
+		["maxLevel"] = 3,
 	},
-	[215] = {
+	[229] = {
 		["Name"] = "Bluffwatcher",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3084,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[216] = {
+	[230] = {
 		["Name"] = "Bony Construct",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16167,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[217] = {
+	[231] = {
 		["Name"] = "Booty Bay Bruiser",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 4624,
 		["minLevel"] = 57,
 		["maxLevel"] = 57,
 	},
-	[218] = {
+	[232] = {
 		["Name"] = "Borelgore",
 		["Zone"] = "Eastern Plaguelands",
 		["ID"] = 11896,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[219] = {
+	[233] = {
 		["Name"] = "Borgosh Corebender",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 11178,
-		["maxLevel"] = 51,
 		["minLevel"] = 51,
+		["maxLevel"] = 51,
 	},
-	[220] = {
+	[234] = {
 		["Name"] = "Borstan",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3368,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[221] = {
+	[235] = {
 		["Name"] = "Borya",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3364,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[222] = {
+	[236] = {
 		["Name"] = "Boss Copperplug",
 		["Zone"] = "The Barrens",
 		["ID"] = 9336,
-		["maxLevel"] = 19,
 		["minLevel"] = 19,
+		["maxLevel"] = 19,
 	},
-	[223] = {
+	[237] = {
 		["Name"] = "Bounty Hunter Kolark",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 14182,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[224] = {
+	[238] = {
 		["Name"] = "Bragok",
 		["Zone"] = "The Barrens",
 		["ID"] = 16227,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[225] = {
+	[239] = {
 		["Name"] = "Brakgul Deathbringer",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3890,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[226] = {
+	[240] = {
 		["Name"] = "Brave Moonhorn",
 		["Zone"] = "Thousand Needles",
 		["ID"] = 10079,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[227] = {
+	[241] = {
 		["Name"] = "Brave Moonhorn",
 		["Zone"] = "The Barrens",
 		["ID"] = 10079,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[228] = {
+	[242] = {
 		["Name"] = "Braxo Gearfuse",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 50541,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[229] = {
+	[243] = {
 		["Name"] = "Brek Stonehoof",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3001,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[230] = {
+	[244] = {
 		["Name"] = "Brewmaster Drohn",
 		["Zone"] = "The Barrens",
 		["ID"] = 3292,
-		["maxLevel"] = 9,
 		["minLevel"] = 9,
+		["maxLevel"] = 9,
 	},
-	[231] = {
+	[245] = {
 		["Name"] = "Breyk",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 6026,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[232] = {
+	[246] = {
 		["Name"] = "Briella Brightsun",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61810,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[233] = {
-		["Name"] = "Brilliant Mana Wyrm",
-		["Zone"] = "Alah'Thalas",
-		["ID"] = 61774,
-		["maxLevel"] = 7,
-		["minLevel"] = 7,
-	},
-	[234] = {
+	[247] = {
 		["Name"] = "Brilliant Mana Wyrm",
 		["Zone"] = "Thalassian Highlands",
 		["ID"] = 61774,
 		["maxLevel"] = 7,
 		["minLevel"] = 7,
 	},
-	[235] = {
+	[248] = {
+		["Name"] = "Brilliant Mana Wyrm",
+		["Zone"] = "Alah'Thalas",
+		["ID"] = 61774,
+		["maxLevel"] = 7,
+		["minLevel"] = 7,
+	},
+	[249] = {
 		["Name"] = "Brindel Morningsun",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61882,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[236] = {
+	[250] = {
 		["Name"] = "Brine",
 		["Zone"] = "The Barrens",
 		["ID"] = 5899,
-		["maxLevel"] = 23,
 		["minLevel"] = 23,
+		["maxLevel"] = 23,
 	},
-	[237] = {
+	[251] = {
 		["Name"] = "Brinna Valanaar",
 		["Zone"] = "Azshara",
 		["ID"] = 14301,
 		["maxLevel"] = 45,
 		["minLevel"] = 45,
 	},
-	[238] = {
+	[252] = {
 		["Name"] = "Bristleback Geomancer",
 		["Zone"] = "The Barrens",
 		["ID"] = 3263,
-		["maxLevel"] = 20,
 		["minLevel"] = 19,
+		["maxLevel"] = 20,
 	},
-	[239] = {
+	[253] = {
 		["Name"] = "Bristleback Hunter",
 		["Zone"] = "The Barrens",
 		["ID"] = 3258,
-		["maxLevel"] = 18,
 		["minLevel"] = 17,
+		["maxLevel"] = 18,
 	},
-	[240] = {
+	[254] = {
 		["Name"] = "Bristleback Thornweaver",
 		["Zone"] = "The Barrens",
 		["ID"] = 3261,
-		["maxLevel"] = 19,
 		["minLevel"] = 18,
+		["maxLevel"] = 19,
 	},
-	[241] = {
+	[255] = {
 		["Name"] = "Bristleback Water Seeker",
 		["Zone"] = "The Barrens",
 		["ID"] = 3260,
-		["maxLevel"] = 17,
 		["minLevel"] = 16,
+		["maxLevel"] = 17,
 	},
-	[242] = {
+	[256] = {
 		["Name"] = "Brizclang Spuckettool",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 91280,
 		["minLevel"] = 11,
 		["maxLevel"] = 11,
 	},
-	[243] = {
+	[257] = {
 		["Name"] = "Brogun Stoneshield",
 		["Zone"] = "Darnassus",
 		["ID"] = 5118,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[244] = {
+	[258] = {
+		["Name"] = "Brok Thunderforge",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 61756,
+		["minLevel"] = 44,
+		["maxLevel"] = 44,
+	},
+	[259] = {
 		["Name"] = "Broken Arcane Golem",
 		["Zone"] = "Ironforge",
 		["ID"] = 60876,
 		["minLevel"] = 13,
 		["maxLevel"] = 13,
 	},
-	[245] = {
+	[260] = {
 		["Name"] = "Brolthan Ironglade",
 		["Zone"] = "Ashenvale",
 		["ID"] = 61147,
 		["maxLevel"] = 48,
 		["minLevel"] = 48,
 	},
-	[246] = {
+	[261] = {
 		["Name"] = "Brombar Higgleby",
 		["Zone"] = "Ironforge",
 		["ID"] = 3842,
 		["minLevel"] = 40,
 		["maxLevel"] = 40,
 	},
-	[247] = {
+	[262] = {
 		["Name"] = "Bronze Drake",
 		["Zone"] = "Tanaris",
 		["ID"] = 50113,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[248] = {
+	[263] = {
 		["Name"] = "Bronze Drakonid",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 14263,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[249] = {
+	[264] = {
 		["Name"] = "Brood Queen Araxxna",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61221,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[250] = {
+	[265] = {
 		["Name"] = "Broodlord Lashlayer",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 12017,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[251] = {
+	[266] = {
+		["Name"] = "Brother Karman",
+		["Zone"] = "Dustwallow Marsh",
+		["ID"] = 8140,
+		["minLevel"] = 45,
+		["maxLevel"] = 45,
+	},
+	[267] = {
 		["Name"] = "Brown Riding Ram",
 		["Zone"] = "Tanaris",
 		["ID"] = 4779,
-		["maxLevel"] = 2,
 		["minLevel"] = 1,
+		["maxLevel"] = 2,
 	},
-	[252] = {
+	[268] = {
 		["Name"] = "Brown Riding Wolf",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5195,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[253] = {
+	[269] = {
 		["Name"] = "Brown Snake",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 7562,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[254] = {
+	[270] = {
 		["Name"] = "Brutish Bouncer",
 		["Zone"] = "Ironforge",
 		["ID"] = 61931,
 		["minLevel"] = 53,
 		["maxLevel"] = 53,
 	},
-	[255] = {
+	[271] = {
 		["Name"] = "Bulkrek Ragefist",
 		["Zone"] = "Tanaris",
 		["ID"] = 7824,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[256] = {
+	[272] = {
 		["Name"] = "Bulrug",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 10054,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[257] = {
+	[273] = {
 		["Name"] = "Burning Blade Acolyte",
 		["Zone"] = "The Barrens",
 		["ID"] = 3380,
-		["maxLevel"] = 12,
 		["minLevel"] = 11,
+		["maxLevel"] = 12,
 	},
-	[258] = {
+	[274] = {
 		["Name"] = "Burning Blade Apprentice",
 		["Zone"] = "Durotar",
 		["ID"] = 3198,
-		["maxLevel"] = 11,
 		["minLevel"] = 10,
+		["maxLevel"] = 11,
 	},
-	[259] = {
+	[275] = {
 		["Name"] = "Burning Blade Bruiser",
 		["Zone"] = "The Barrens",
 		["ID"] = 3379,
-		["maxLevel"] = 11,
 		["minLevel"] = 10,
+		["maxLevel"] = 11,
 	},
-	[260] = {
+	[276] = {
 		["Name"] = "Burning Blade Cultist",
 		["Zone"] = "Durotar",
 		["ID"] = 3199,
-		["maxLevel"] = 11,
 		["minLevel"] = 10,
+		["maxLevel"] = 11,
 	},
-	[261] = {
+	[277] = {
 		["Name"] = "Burning Blade Fanatic",
 		["Zone"] = "Durotar",
 		["ID"] = 3197,
-		["maxLevel"] = 10,
 		["minLevel"] = 9,
+		["maxLevel"] = 10,
 	},
-	[262] = {
+	[278] = {
 		["Name"] = "Burning Blade Neophyte",
 		["Zone"] = "Durotar",
 		["ID"] = 3196,
-		["maxLevel"] = 10,
 		["minLevel"] = 9,
+		["maxLevel"] = 10,
 	},
-	[263] = {
+	[279] = {
 		["Name"] = "Burning Blade Thug",
 		["Zone"] = "Durotar",
 		["ID"] = 3195,
-		["maxLevel"] = 9,
 		["minLevel"] = 8,
+		["maxLevel"] = 9,
 	},
-	[264] = {
+	[280] = {
 		["Name"] = "Buthok Cloudhorn",
 		["Zone"] = "Hyjal",
 		["ID"] = 61561,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[265] = {
+	[281] = {
 		["Name"] = "Buzzek Bracketswing",
 		["Zone"] = "Tanaris",
 		["ID"] = 8736,
-		["maxLevel"] = 53,
 		["minLevel"] = 53,
+		["maxLevel"] = 53,
 	},
-	[266] = {
+	[282] = {
 		["Name"] = "C'Thun",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15727,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[267] = {
+	[283] = {
 		["Name"] = "Cairne Bloodhoof",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3057,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[268] = {
+	[284] = {
+		["Name"] = "Calaran Windseeker",
+		["Zone"] = "Feralas",
+		["ID"] = 61151,
+		["minLevel"] = 42,
+		["maxLevel"] = 42,
+	},
+	[285] = {
 		["Name"] = "Calhir Dawnchaser",
 		["Zone"] = "Thalassian Highlands",
 		["ID"] = 61811,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[269] = {
+	[286] = {
 		["Name"] = "Calina Highwing",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 62095,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[270] = {
+	[287] = {
 		["Name"] = "Caliph Scorpidsting",
 		["Zone"] = "Tanaris",
 		["ID"] = 7847,
 		["maxLevel"] = 46,
 		["minLevel"] = 46,
 	},
-	[271] = {
+	[288] = {
 		["Name"] = "Canaga Earthcaller",
 		["Zone"] = "Durotar",
 		["ID"] = 5887,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[272] = {
+	[289] = {
 		["Name"] = "Cannibal Ghoul",
 		["Zone"] = "Eastern Plaguelands",
 		["ID"] = 8530,
-		["maxLevel"] = 54,
 		["minLevel"] = 54,
+		["maxLevel"] = 54,
 	},
-	[273] = {
+	[290] = {
 		["Name"] = "Cannoneer Dazzcrank",
 		["Zone"] = "Durotar",
 		["ID"] = 91231,
-		["maxLevel"] = 13,
 		["minLevel"] = 13,
+		["maxLevel"] = 13,
 	},
-	[274] = {
+	[291] = {
 		["Name"] = "Cannoneer Gaxbruise",
 		["Zone"] = "Durotar",
 		["ID"] = 91230,
-		["maxLevel"] = 13,
 		["minLevel"] = 13,
+		["maxLevel"] = 13,
 	},
-	[275] = {
+	[292] = {
 		["Name"] = "Cannoneer Smythe",
 		["Zone"] = "The Barrens",
 		["ID"] = 3454,
-		["maxLevel"] = 19,
 		["minLevel"] = 19,
+		["maxLevel"] = 19,
 	},
-	[276] = {
+	[293] = {
 		["Name"] = "Cannoneer Whessan",
 		["Zone"] = "The Barrens",
 		["ID"] = 3455,
-		["maxLevel"] = 19,
 		["minLevel"] = 19,
+		["maxLevel"] = 19,
 	},
-	[277] = {
+	[294] = {
 		["Name"] = "Captain Fairmount",
 		["Zone"] = "The Barrens",
 		["ID"] = 3393,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
-	[278] = {
+	[295] = {
 		["Name"] = "Captain Hecklebury Smotts",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2500,
 		["minLevel"] = 37,
 		["maxLevel"] = 37,
 	},
-	[279] = {
+	[296] = {
 		["Name"] = "Captain Keelhaul",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2548,
-		["minLevel"] = 46,
 		["maxLevel"] = 47,
+		["minLevel"] = 46,
 	},
-	[280] = {
+	[297] = {
 		["Name"] = "Captain Nials",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2700,
-		["maxLevel"] = 41,
 		["minLevel"] = 41,
+		["maxLevel"] = 41,
 	},
-	[281] = {
+	[298] = {
 		["Name"] = "Captain Shatterskull",
 		["Zone"] = "The Barrens",
 		["ID"] = 14781,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[282] = {
+	[299] = {
 		["Name"] = "Captain Thalo'thas Brightsun",
 		["Zone"] = "The Barrens",
 		["ID"] = 3339,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[283] = {
+	[300] = {
 		["Name"] = "Captain Velari Shadelain",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61872,
 		["maxLevel"] = 45,
 		["minLevel"] = 45,
 	},
-	[284] = {
+	[301] = {
+		["Name"] = "Caravan Mule",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 16232,
+		["minLevel"] = 50,
+		["maxLevel"] = 50,
+	},
+	[302] = {
 		["Name"] = "Caravaneer Ruzzgot",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 3945,
 		["minLevel"] = 34,
-		["maxLevel"] = 34,
+		["maxLevel"] = 35,
 	},
-	[285] = {
+	[303] = {
 		["Name"] = "Caretaker Smithers",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 2379,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[286] = {
+	[304] = {
+		["Name"] = "Carlin Redpath",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 11063,
+		["minLevel"] = 58,
+		["maxLevel"] = 58,
+	},
+	[305] = {
+		["Name"] = "Carlo Aurelius",
+		["Zone"] = "Alterac Mountains",
+		["ID"] = 8309,
+		["minLevel"] = 50,
+		["maxLevel"] = 50,
+	},
+	[306] = {
 		["Name"] = "Carrion Devourer",
 		["Zone"] = "Eastern Plaguelands",
 		["ID"] = 8605,
-		["maxLevel"] = 57,
 		["minLevel"] = 57,
+		["maxLevel"] = 57,
 	},
-	[287] = {
+	[307] = {
+		["Name"] = "Carrion Grub",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 8603,
+		["minLevel"] = 54,
+		["maxLevel"] = 55,
+	},
+	[308] = {
 		["Name"] = "Carrion Spinner",
 		["Zone"] = "Naxxramas",
 		["ID"] = 15975,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[288] = {
+	[309] = {
 		["Name"] = "Carrion Vulture",
 		["Zone"] = "Western Plaguelands",
 		["ID"] = 1809,
-		["maxLevel"] = 51,
 		["minLevel"] = 50,
+		["maxLevel"] = 51,
 	},
-	[289] = {
+	[310] = {
 		["Name"] = "Cat",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 6368,
 		["maxLevel"] = 1,
 		["minLevel"] = 1,
 	},
-	[290] = {
+	[311] = {
 		["Name"] = "Catelyn the Blade",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2542,
 		["minLevel"] = 50,
 		["maxLevel"] = 50,
 	},
-	[291] = {
+	[312] = {
 		["Name"] = "Caynrus",
 		["Zone"] = "Darnassus",
 		["ID"] = 4240,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[292] = {
+	[313] = {
 		["Name"] = "Cazul",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5909,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[293] = {
+	[314] = {
 		["Name"] = "Cedrik Prose",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2835,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[294] = {
+	[315] = {
 		["Name"] = "Celia Daywing",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61812,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[295] = {
+	[316] = {
 		["Name"] = "Cenarion Emissary Blackhoof",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 15188,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[296] = {
+	[317] = {
 		["Name"] = "Cenarion Emissary Jademoon",
 		["Zone"] = "Ironforge",
 		["ID"] = 15187,
 		["minLevel"] = 55,
 		["maxLevel"] = 55,
 	},
-	[297] = {
+	[318] = {
 		["Name"] = "Cenarion Outrider",
 		["Zone"] = "Silithus",
 		["ID"] = 15545,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[298] = {
+	[319] = {
 		["Name"] = "Centipaar Sandreaver",
 		["Zone"] = "Tanaris",
 		["ID"] = 5460,
-		["maxLevel"] = 49,
 		["minLevel"] = 49,
+		["maxLevel"] = 49,
 	},
-	[299] = {
+	[320] = {
 		["Name"] = "Centipaar Stinger",
 		["Zone"] = "Tanaris",
 		["ID"] = 5456,
-		["maxLevel"] = 49,
 		["minLevel"] = 48,
+		["maxLevel"] = 49,
 	},
-	[300] = {
+	[321] = {
 		["Name"] = "Centipaar Swarmer",
 		["Zone"] = "Tanaris",
 		["ID"] = 5457,
-		["maxLevel"] = 50,
 		["minLevel"] = 49,
+		["maxLevel"] = 50,
 	},
-	[301] = {
+	[322] = {
 		["Name"] = "Centipaar Tunneler",
 		["Zone"] = "Tanaris",
 		["ID"] = 5459,
-		["maxLevel"] = 48,
 		["minLevel"] = 47,
+		["maxLevel"] = 48,
 	},
-	[302] = {
+	[323] = {
 		["Name"] = "Centipaar Wasp",
 		["Zone"] = "Tanaris",
 		["ID"] = 5455,
-		["maxLevel"] = 48,
 		["minLevel"] = 47,
+		["maxLevel"] = 48,
 	},
-	[303] = {
+	[324] = {
 		["Name"] = "Centipaar Worker",
 		["Zone"] = "Tanaris",
 		["ID"] = 5458,
-		["maxLevel"] = 48,
 		["minLevel"] = 48,
+		["maxLevel"] = 48,
 	},
-	[304] = {
+	[325] = {
 		["Name"] = "Chaddus Suncarrier",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 80452,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[305] = {
+	[326] = {
 		["Name"] = "Champion Razjal the Quick",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 62498,
-		["maxLevel"] = 46,
 		["minLevel"] = 46,
+		["maxLevel"] = 46,
 	},
-	[306] = {
+	[327] = {
 		["Name"] = "Chardryn",
 		["Zone"] = "Darnassus",
 		["ID"] = 4216,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[307] = {
+	[328] = {
 		["Name"] = "Chepi",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 8361,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[308] = {
+	[329] = {
 		["Name"] = "Chesmu",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 8356,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[309] = {
+	[330] = {
 		["Name"] = "Chestnut Mare",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 12375,
-		["maxLevel"] = 2,
 		["minLevel"] = 2,
+		["maxLevel"] = 2,
 	},
-	[310] = {
+	[331] = {
 		["Name"] = "Chicken",
 		["Zone"] = "The Barrens",
 		["ID"] = 620,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[311] = {
+	[332] = {
 		["Name"] = "Chicken",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 620,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[312] = {
+	[333] = {
+		["Name"] = "Chicken",
+		["Zone"] = "Dustwallow Marsh",
+		["ID"] = 620,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[334] = {
 		["Name"] = "Chief Archaeologist Greywhisker",
 		["Zone"] = "Darnassus",
 		["ID"] = 2912,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[313] = {
+	[335] = {
 		["Name"] = "Chief Engineer Bilgewhizzle",
 		["Zone"] = "Tanaris",
 		["ID"] = 7407,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[314] = {
+	[336] = {
 		["Name"] = "Chief Shang",
 		["Zone"] = "Durotar",
 		["ID"] = 91225,
-		["maxLevel"] = 17,
 		["minLevel"] = 17,
+		["maxLevel"] = 17,
 	},
-	[315] = {
+	[337] = {
 		["Name"] = "Chief Ukorz Sandscalp",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7267,
-		["maxLevel"] = 48,
 		["minLevel"] = 48,
+		["maxLevel"] = 48,
 	},
-	[316] = {
+	[338] = {
 		["Name"] = "Chieftain Razortusk",
 		["Zone"] = "The Barrens",
 		["ID"] = 60948,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[317] = {
+	[339] = {
 		["Name"] = "Chromaggus",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 14020,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[318] = {
+	[340] = {
 		["Name"] = "Chromatic Drakonid",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 14302,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[319] = {
+	[341] = {
 		["Name"] = "Chronalis",
 		["Zone"] = "Tanaris",
 		["ID"] = 8197,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[320] = {
+	[342] = {
 		["Name"] = "Clarice Foster",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 5543,
-		["maxLevel"] = 17,
 		["minLevel"] = 17,
+		["maxLevel"] = 17,
 	},
-	[321] = {
+	[343] = {
 		["Name"] = "Clattering Scorpid",
 		["Zone"] = "Durotar",
 		["ID"] = 3125,
-		["maxLevel"] = 6,
 		["minLevel"] = 5,
+		["maxLevel"] = 6,
 	},
-	[322] = {
+	[344] = {
 		["Name"] = "Claw Tentacle",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15725,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[323] = {
+	[345] = {
 		["Name"] = "Clawlord Howlfang",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61223,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[324] = {
+	[346] = {
 		["Name"] = "Clemence the Counter",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 61486,
 		["maxLevel"] = 55,
 		["minLevel"] = 55,
 	},
-	[325] = {
+	[347] = {
+		["Name"] = "Cloned Ooze",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9477,
+		["minLevel"] = 50,
+		["maxLevel"] = 50,
+	},
+	[348] = {
 		["Name"] = "Clyde \"The Shaddy\"",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 50073,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[326] = {
+	[349] = {
 		["Name"] = "Coast Strider",
 		["Zone"] = "Tanaris",
 		["ID"] = 5466,
-		["maxLevel"] = 49,
 		["minLevel"] = 48,
+		["maxLevel"] = 49,
 	},
-	[327] = {
+	[350] = {
 		["Name"] = "Cockatiel",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 7390,
 		["maxLevel"] = 1,
 		["minLevel"] = 1,
 	},
-	[328] = {
+	[351] = {
 		["Name"] = "Commander Amaren",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2608,
-		["maxLevel"] = 44,
 		["minLevel"] = 44,
+		["maxLevel"] = 44,
 	},
-	[329] = {
+	[352] = {
+		["Name"] = "Commander Anashya Starfall",
+		["Zone"] = "Feralas",
+		["ID"] = 61583,
+		["minLevel"] = 55,
+		["maxLevel"] = 55,
+	},
+	[353] = {
 		["Name"] = "Commander Baelos",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 60793,
-		["maxLevel"] = 56,
 		["minLevel"] = 56,
+		["maxLevel"] = 56,
 	},
-	[330] = {
+	[354] = {
 		["Name"] = "Commander Starwind",
 		["Zone"] = "Ashenvale",
 		["ID"] = 61143,
 		["maxLevel"] = 52,
 		["minLevel"] = 52,
 	},
-	[331] = {
+	[355] = {
 		["Name"] = "Cook Torka",
 		["Zone"] = "Durotar",
 		["ID"] = 3191,
-		["maxLevel"] = 6,
 		["minLevel"] = 6,
+		["maxLevel"] = 6,
 	},
-	[332] = {
+	[356] = {
 		["Name"] = "Corand",
 		["Zone"] = "Darnassus",
 		["ID"] = 7296,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[333] = {
+	[357] = {
 		["Name"] = "Core Hound",
 		["Zone"] = "Molten Core",
 		["ID"] = 11671,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[334] = {
+	[358] = {
 		["Name"] = "Core Rager",
 		["Zone"] = "Molten Core",
 		["ID"] = 11672,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[335] = {
+	[359] = {
 		["Name"] = "Corrupted Bloodtalon Scythemaw",
 		["Zone"] = "Durotar",
 		["ID"] = 3227,
-		["maxLevel"] = 11,
 		["minLevel"] = 10,
+		["maxLevel"] = 11,
 	},
-	[336] = {
+	[360] = {
 		["Name"] = "Corrupted Blue Whelp",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 14024,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[337] = {
+	[361] = {
 		["Name"] = "Corrupted Bronze Whelp",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 14025,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[338] = {
+	[362] = {
 		["Name"] = "Corrupted Dreadmaw Crocolisk",
 		["Zone"] = "The Barrens",
 		["ID"] = 3231,
 		["maxLevel"] = 12,
 		["minLevel"] = 12,
 	},
-	[339] = {
+	[363] = {
 		["Name"] = "Corrupted Dreadmaw Crocolisk",
 		["Zone"] = "Durotar",
 		["ID"] = 3231,
 		["maxLevel"] = 12,
 		["minLevel"] = 12,
 	},
-	[340] = {
+	[364] = {
 		["Name"] = "Corrupted Green Whelp",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 14023,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[341] = {
+	[365] = {
 		["Name"] = "Corrupted Infernal",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 14668,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[342] = {
+	[366] = {
 		["Name"] = "Corrupted Red Whelp",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 14022,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[343] = {
+	[367] = {
 		["Name"] = "Courier Hammerfall",
 		["Zone"] = "Ironforge",
 		["ID"] = 10877,
 		["minLevel"] = 3,
 		["maxLevel"] = 3,
 	},
-	[344] = {
+	[368] = {
 		["Name"] = "Cowardly Crosby",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2672,
-		["minLevel"] = 40,
 		["maxLevel"] = 40,
+		["minLevel"] = 40,
 	},
-	[345] = {
+	[369] = {
+		["Name"] = "Craftsman Wilhelm",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 16376,
+		["minLevel"] = 57,
+		["maxLevel"] = 57,
+	},
+	[370] = {
 		["Name"] = "Crag Boar",
 		["Zone"] = "Dun Morogh",
 		["ID"] = 1125,
 		["minLevel"] = 5,
 		["maxLevel"] = 5,
 	},
-	[346] = {
+	[371] = {
 		["Name"] = "Crane Operator Bigglefuzz",
 		["Zone"] = "The Barrens",
 		["ID"] = 3665,
-		["maxLevel"] = 18,
 		["minLevel"] = 18,
+		["maxLevel"] = 18,
 	},
-	[347] = {
+	[372] = {
 		["Name"] = "Crank Fizzlebub",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2498,
 		["minLevel"] = 34,
 		["maxLevel"] = 34,
 	},
-	[348] = {
+	[373] = {
 		["Name"] = "Craven Drok",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5639,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[349] = {
+	[374] = {
 		["Name"] = "Crildor",
 		["Zone"] = "Darnassus",
 		["ID"] = 5782,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[350] = {
+	[375] = {
 		["Name"] = "Crushridge Brute",
 		["Zone"] = "Alterac Mountains",
 		["ID"] = 2253,
-		["maxLevel"] = 36,
 		["minLevel"] = 35,
+		["maxLevel"] = 36,
 	},
-	[351] = {
+	[376] = {
 		["Name"] = "Crushridge Ogre",
 		["Zone"] = "Alterac Mountains",
 		["ID"] = 2252,
-		["maxLevel"] = 35,
 		["minLevel"] = 34,
+		["maxLevel"] = 35,
 	},
-	[352] = {
+	[377] = {
 		["Name"] = "Crypt Guard",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16573,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[353] = {
+	[378] = {
 		["Name"] = "Crypt Reaver",
 		["Zone"] = "Naxxramas",
 		["ID"] = 15978,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[354] = {
+	[379] = {
 		["Name"] = "Curator Fizwhizzle",
 		["Zone"] = "Tanaris",
 		["ID"] = 60956,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[355] = {
+	[380] = {
 		["Name"] = "Cured Gazelle",
 		["Zone"] = "The Barrens",
 		["ID"] = 12297,
-		["maxLevel"] = 3,
 		["minLevel"] = 3,
+		["maxLevel"] = 3,
 	},
-	[356] = {
+	[381] = {
 		["Name"] = "Curgle Cranklehop",
 		["Zone"] = "Tanaris",
 		["ID"] = 7763,
-		["maxLevel"] = 48,
 		["minLevel"] = 48,
+		["maxLevel"] = 48,
 	},
-	[357] = {
+	[382] = {
 		["Name"] = "Cursed Darkhound",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 1548,
-		["maxLevel"] = 8,
 		["minLevel"] = 7,
+		["maxLevel"] = 8,
 	},
-	[358] = {
+	[383] = {
 		["Name"] = "Cursed Mage",
 		["Zone"] = "Eastern Plaguelands",
 		["ID"] = 8524,
-		["maxLevel"] = 55,
 		["minLevel"] = 54,
+		["maxLevel"] = 55,
 	},
-	[359] = {
+	[384] = {
 		["Name"] = "Cutac",
 		["Zone"] = "Durotar",
 		["ID"] = 3166,
-		["maxLevel"] = 14,
 		["minLevel"] = 14,
+		["maxLevel"] = 14,
 	},
-	[360] = {
+	[385] = {
 		["Name"] = "Cylania",
 		["Zone"] = "Darnassus",
 		["ID"] = 4164,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[361] = {
+	[386] = {
 		["Name"] = "Cyridan",
 		["Zone"] = "Darnassus",
 		["ID"] = 4236,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[362] = {
+	[387] = {
 		["Name"] = "Cyroen",
 		["Zone"] = "Darnassus",
 		["ID"] = 4220,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[363] = {
+	[388] = {
 		["Name"] = "Dabyrie Laborer",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2582,
-		["maxLevel"] = 31,
 		["minLevel"] = 30,
+		["maxLevel"] = 31,
 	},
-	[364] = {
+	[389] = {
 		["Name"] = "Dabyrie Militia",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2581,
-		["maxLevel"] = 32,
 		["minLevel"] = 32,
+		["maxLevel"] = 32,
 	},
-	[365] = {
+	[390] = {
+		["Name"] = "Dadanga",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9274,
+		["minLevel"] = 45,
+		["maxLevel"] = 45,
+	},
+	[391] = {
 		["Name"] = "Dagred Flintbeard",
 		["Zone"] = "Ironforge",
 		["ID"] = 61909,
 		["minLevel"] = 25,
 		["maxLevel"] = 25,
 	},
-	[366] = {
+	[392] = {
 		["Name"] = "Daio the Decrepit",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 14463,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[367] = {
+	[393] = {
 		["Name"] = "Damilara Sunsorrow",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 80245,
 		["maxLevel"] = 60,
 		["minLevel"] = 60,
 	},
-	[368] = {
+	[394] = {
 		["Name"] = "Damned Soul",
 		["Zone"] = "Deadwind Pass",
 		["ID"] = 12378,
-		["maxLevel"] = 60,
 		["minLevel"] = 59,
+		["maxLevel"] = 60,
 	},
-	[369] = {
+	[395] = {
 		["Name"] = "Dannelor",
 		["Zone"] = "Darnassus",
 		["ID"] = 4211,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[370] = {
+	[396] = {
 		["Name"] = "Danthar Oakmantle",
 		["Zone"] = "Hyjal",
 		["ID"] = 61521,
-		["maxLevel"] = 57,
 		["minLevel"] = 57,
+		["maxLevel"] = 57,
 	},
-	[371] = {
+	[397] = {
 		["Name"] = "Darianna",
 		["Zone"] = "Darnassus",
 		["ID"] = 11083,
-		["maxLevel"] = 24,
 		["minLevel"] = 24,
+		["maxLevel"] = 24,
 	},
-	[372] = {
+	[398] = {
 		["Name"] = "Dark Rider Apprentice",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61203,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[373] = {
+	[399] = {
 		["Name"] = "Dark Rider Champion",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61204,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[374] = {
+	[400] = {
 		["Name"] = "Dark Shade",
 		["Zone"] = "Scholomance",
 		["ID"] = 11284,
-		["maxLevel"] = 59,
 		["minLevel"] = 58,
+		["maxLevel"] = 59,
 	},
-	[375] = {
+	[401] = {
 		["Name"] = "Dark Touched Warrior",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16156,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[376] = {
+	[402] = {
 		["Name"] = "Darkmaster Gandling",
 		["Zone"] = "Scholomance",
 		["ID"] = 1853,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[377] = {
+	[403] = {
 		["Name"] = "Darla Harris",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 2432,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[378] = {
+	[404] = {
 		["Name"] = "Darnassian Protector",
 		["Zone"] = "Darnassus",
 		["ID"] = 4423,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[379] = {
+	[405] = {
 		["Name"] = "Darnassus Sentinel",
 		["Zone"] = "Darnassus",
 		["ID"] = 4262,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[380] = {
+	[406] = {
 		["Name"] = "Darnassus Sentinel",
 		["Zone"] = "Teldrassil",
 		["ID"] = 4262,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[381] = {
+	[407] = {
 		["Name"] = "Darnassus Volunteer",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61866,
 		["maxLevel"] = 55,
 		["minLevel"] = 55,
 	},
-	[382] = {
+	[408] = {
 		["Name"] = "Darnath Bladesinger",
 		["Zone"] = "Darnassus",
 		["ID"] = 7315,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[383] = {
+	[409] = {
 		["Name"] = "Darsok Swiftdagger",
 		["Zone"] = "The Barrens",
 		["ID"] = 3449,
-		["maxLevel"] = 14,
 		["minLevel"] = 14,
+		["maxLevel"] = 14,
 	},
-	[384] = {
+	[410] = {
 		["Name"] = "Daryn Lightwind",
 		["Zone"] = "Teldrassil",
 		["ID"] = 7907,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[385] = {
+	[411] = {
 		["Name"] = "Dawnwatcher Selgorm",
 		["Zone"] = "Darnassus",
 		["ID"] = 4783,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[386] = {
+	[412] = {
 		["Name"] = "Dawnwatcher Shaedlass",
 		["Zone"] = "Darnassus",
 		["ID"] = 4786,
-		["maxLevel"] = 22,
 		["minLevel"] = 22,
+		["maxLevel"] = 22,
 	},
-	[387] = {
+	[413] = {
 		["Name"] = "Deadwood Envoy",
 		["Zone"] = "Hyjal",
 		["ID"] = 61511,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[388] = {
+	[414] = {
 		["Name"] = "Death Lord",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16861,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[389] = {
+	[415] = {
 		["Name"] = "Death Talon Captain",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 12467,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[390] = {
+	[416] = {
 		["Name"] = "Death Talon Dragonspawn",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 12422,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[391] = {
+	[417] = {
 		["Name"] = "Death Talon Flamescale",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 12463,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[392] = {
+	[418] = {
 		["Name"] = "Death Talon Hatcher",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 12468,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[393] = {
+	[419] = {
 		["Name"] = "Death Talon Overseer",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 12461,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[394] = {
+	[420] = {
 		["Name"] = "Death Talon Seether",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 12464,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[395] = {
+	[421] = {
 		["Name"] = "Death Talon Wyrmguard",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 12460,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[396] = {
+	[422] = {
 		["Name"] = "Death Talon Wyrmkin",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 12465,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[397] = {
+	[423] = {
 		["Name"] = "Death Touched Warrior",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16158,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[398] = {
+	[424] = {
 		["Name"] = "Death's Head Cultist",
 		["Zone"] = "The Barrens",
 		["ID"] = 7872,
-		["maxLevel"] = 34,
 		["minLevel"] = 33,
+		["maxLevel"] = 34,
 	},
-	[399] = {
+	[425] = {
 		["Name"] = "Death's Head Cultist",
 		["Zone"] = "Thousand Needles",
 		["ID"] = 7872,
-		["maxLevel"] = 33,
 		["minLevel"] = 33,
+		["maxLevel"] = 33,
 	},
-	[400] = {
+	[426] = {
 		["Name"] = "Deathchill Servant",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16390,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[401] = {
+	[427] = {
 		["Name"] = "Deathguard Lundmark",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 5725,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[402] = {
+	[428] = {
 		["Name"] = "Deathknight",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16146,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[403] = {
+	[429] = {
 		["Name"] = "Deathknight Captain",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16145,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[404] = {
+	[430] = {
 		["Name"] = "Deathknight Cavalier",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16163,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[405] = {
+	[431] = {
 		["Name"] = "Deathknight Understudy",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16803,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[406] = {
+	[432] = {
 		["Name"] = "Deathknight Vindicator",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16451,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[407] = {
+	[433] = {
 		["Name"] = "Deathly Usher",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 8816,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[408] = {
+	[434] = {
 		["Name"] = "Decrepit Darkhound",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 1547,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
+		["maxLevel"] = 5,
 	},
-	[409] = {
+	[435] = {
 		["Name"] = "Deeg",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2488,
 		["minLevel"] = 34,
 		["maxLevel"] = 34,
 	},
-	[410] = {
+	[436] = {
 		["Name"] = "Deer",
-		["Zone"] = "Emerald Sanctum",
+		["Zone"] = "Darnassus",
 		["ID"] = 883,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
-	},
-	[411] = {
-		["Name"] = "Deer",
-		["Zone"] = "Alterac Mountains",
-		["ID"] = 883,
 		["maxLevel"] = 5,
-		["minLevel"] = 5,
 	},
-	[412] = {
-		["Name"] = "Deer",
-		["Zone"] = "Thalassian Highlands",
-		["ID"] = 883,
-		["maxLevel"] = 5,
-		["minLevel"] = 5,
-	},
-	[413] = {
+	[437] = {
 		["Name"] = "Deer",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 883,
 		["maxLevel"] = 5,
 		["minLevel"] = 5,
 	},
-	[414] = {
+	[438] = {
 		["Name"] = "Deer",
-		["Zone"] = "Darnassus",
+		["Zone"] = "Alterac Mountains",
+		["ID"] = 883,
+		["minLevel"] = 5,
+		["maxLevel"] = 5,
+	},
+	[439] = {
+		["Name"] = "Deer",
+		["Zone"] = "Emerald Sanctum",
+		["ID"] = 883,
+		["minLevel"] = 5,
+		["maxLevel"] = 5,
+	},
+	[440] = {
+		["Name"] = "Deer",
+		["Zone"] = "Thalassian Highlands",
 		["ID"] = 883,
 		["maxLevel"] = 5,
 		["minLevel"] = 5,
 	},
-	[415] = {
+	[441] = {
+		["Name"] = "Defilers Emissary",
+		["Zone"] = "Orgrimmar",
+		["ID"] = 14990,
+		["minLevel"] = 40,
+		["maxLevel"] = 40,
+	},
+	[442] = {
 		["Name"] = "Deino",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5885,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[416] = {
+	[443] = {
 		["Name"] = "Delarion Featherwing",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61842,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[417] = {
+	[444] = {
 		["Name"] = "Delgo Ragetotem",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3019,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[418] = {
+	[445] = {
 		["Name"] = "Delos Talonheart",
 		["Zone"] = "Ashenvale",
 		["ID"] = 61145,
 		["maxLevel"] = 33,
 		["minLevel"] = 33,
 	},
-	[419] = {
+	[446] = {
 		["Name"] = "Den Grunt",
 		["Zone"] = "Durotar",
 		["ID"] = 5952,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[420] = {
+	[447] = {
 		["Name"] = "Denala Moonwind",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61869,
 		["maxLevel"] = 40,
 		["minLevel"] = 40,
 	},
-	[421] = {
+	[448] = {
 		["Name"] = "Denatharion",
 		["Zone"] = "Darnassus",
 		["ID"] = 4218,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[422] = {
+	[449] = {
 		["Name"] = "Dendrythis",
 		["Zone"] = "Darnassus",
 		["ID"] = 4167,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[423] = {
+	[450] = {
 		["Name"] = "Derotain Mudsipper",
 		["Zone"] = "Tanaris",
 		["ID"] = 14567,
-		["maxLevel"] = 52,
 		["minLevel"] = 52,
+		["maxLevel"] = 52,
 	},
-	[424] = {
+	[451] = {
+		["Name"] = "Devilsaur",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6498,
+		["minLevel"] = 54,
+		["maxLevel"] = 55,
+	},
+	[452] = {
 		["Name"] = "Devrak",
 		["Zone"] = "The Barrens",
 		["ID"] = 3615,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[425] = {
+	[453] = {
 		["Name"] = "Deze Snowbane",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 15006,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[426] = {
+	[454] = {
 		["Name"] = "Dhugru Gorelust",
 		["Zone"] = "Durotar",
 		["ID"] = 3172,
-		["maxLevel"] = 37,
 		["minLevel"] = 37,
+		["maxLevel"] = 37,
 	},
-	[427] = {
+	[455] = {
+		["Name"] = "Diemetradon",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9163,
+		["minLevel"] = 51,
+		["maxLevel"] = 52,
+	},
+	[456] = {
 		["Name"] = "Dig Rat",
 		["Zone"] = "The Barrens",
 		["ID"] = 3444,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[428] = {
+	[457] = {
 		["Name"] = "Dire Mottled Boar",
 		["Zone"] = "Durotar",
 		["ID"] = 3099,
-		["maxLevel"] = 7,
 		["minLevel"] = 6,
+		["maxLevel"] = 7,
 	},
-	[429] = {
-		["Name"] = "Dire Riding Wolf",
-		["Zone"] = "Swamp of Sorrows",
-		["ID"] = 51580,
-		["maxLevel"] = 2,
-		["minLevel"] = 2,
-	},
-	[430] = {
-		["Name"] = "Dire Riding Wolf",
-		["Zone"] = "The Barrens",
-		["ID"] = 12351,
-		["maxLevel"] = 2,
-		["minLevel"] = 1,
-	},
-	[431] = {
-		["Name"] = "Dire Riding Wolf",
-		["Zone"] = "Orgrimmar",
-		["ID"] = 12351,
-		["maxLevel"] = 10,
-		["minLevel"] = 10,
-	},
-	[432] = {
+	[458] = {
 		["Name"] = "Dire Riding Wolf",
 		["Zone"] = "Tanaris",
 		["ID"] = 51580,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 2,
 	},
-	[433] = {
+	[459] = {
+		["Name"] = "Dire Riding Wolf",
+		["Zone"] = "Durotar",
+		["ID"] = 51580,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[460] = {
+		["Name"] = "Dire Riding Wolf",
+		["Zone"] = "Orgrimmar",
+		["ID"] = 12351,
+		["minLevel"] = 10,
+		["maxLevel"] = 10,
+	},
+	[461] = {
+		["Name"] = "Dire Riding Wolf",
+		["Zone"] = "Swamp of Sorrows",
+		["ID"] = 51580,
+		["minLevel"] = 2,
+		["maxLevel"] = 2,
+	},
+	[462] = {
+		["Name"] = "Dire Riding Wolf",
+		["Zone"] = "The Barrens",
+		["ID"] = 12351,
+		["minLevel"] = 1,
+		["maxLevel"] = 2,
+	},
+	[463] = {
+		["Name"] = "Dire Riding Wolf",
+		["Zone"] = "Stranglethorn Vale",
+		["ID"] = 51580,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[464] = {
 		["Name"] = "Dire Riding Wolf",
 		["Zone"] = "Ashenvale",
 		["ID"] = 51580,
 		["maxLevel"] = 1,
 		["minLevel"] = 1,
 	},
-	[434] = {
-		["Name"] = "Dire Riding Wolf",
-		["Zone"] = "Durotar",
-		["ID"] = 51580,
-		["maxLevel"] = 1,
-		["minLevel"] = 1,
-	},
-	[435] = {
-		["Name"] = "Dire Riding Wolf",
-		["Zone"] = "Stranglethorn Vale",
-		["ID"] = 51580,
-		["maxLevel"] = 1,
-		["minLevel"] = 1,
-	},
-	[436] = {
+	[465] = {
 		["Name"] = "Dirge Quikcleave",
 		["Zone"] = "Tanaris",
 		["ID"] = 8125,
-		["maxLevel"] = 43,
 		["minLevel"] = 43,
+		["maxLevel"] = 43,
 	},
-	[437] = {
+	[466] = {
 		["Name"] = "Dirty Jacob",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 60448,
 		["maxLevel"] = 30,
 		["minLevel"] = 30,
 	},
-	[438] = {
+	[467] = {
 		["Name"] = "Diseased Black Bear",
 		["Zone"] = "Western Plaguelands",
 		["ID"] = 1815,
-		["maxLevel"] = 52,
 		["minLevel"] = 51,
+		["maxLevel"] = 52,
 	},
-	[439] = {
+	[468] = {
 		["Name"] = "Diseased Ghoul",
 		["Zone"] = "Scholomance",
 		["ID"] = 10495,
-		["maxLevel"] = 59,
 		["minLevel"] = 58,
+		["maxLevel"] = 59,
 	},
-	[440] = {
+	[469] = {
+		["Name"] = "Dispatch Commander Metz",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 16212,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[470] = {
 		["Name"] = "Dispatch Commander Ruag",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 7623,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[441] = {
+	[471] = {
 		["Name"] = "Dizzle Fuelbopper",
 		["Zone"] = "Durotar",
 		["ID"] = 80137,
-		["maxLevel"] = 11,
 		["minLevel"] = 11,
+		["maxLevel"] = 11,
 	},
-	[442] = {
+	[472] = {
 		["Name"] = "Dizzy One-Eye",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2493,
 		["minLevel"] = 41,
 		["maxLevel"] = 41,
 	},
-	[443] = {
+	[473] = {
 		["Name"] = "Dockworker Shazklench",
 		["Zone"] = "Durotar",
 		["ID"] = 91229,
-		["maxLevel"] = 14,
 		["minLevel"] = 14,
+		["maxLevel"] = 14,
 	},
-	[444] = {
+	[474] = {
 		["Name"] = "Doctor Theolen Krastinov",
 		["Zone"] = "Scholomance",
 		["ID"] = 11261,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[445] = {
+	[475] = {
 		["Name"] = "Doom Touched Warrior",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16157,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[446] = {
+	[476] = {
 		["Name"] = "Doomguard",
 		["Zone"] = "Naxxramas",
 		["ID"] = 11859,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[447] = {
+	[477] = {
 		["Name"] = "Doomguard Commander",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 12396,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[448] = {
+	[478] = {
 		["Name"] = "Doras",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3310,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[449] = {
+	[479] = {
 		["Name"] = "Doyo'da",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5613,
-		["maxLevel"] = 11,
 		["minLevel"] = 11,
+		["maxLevel"] = 11,
 	},
-	[450] = {
+	[480] = {
 		["Name"] = "Dragonhawk Hatchling",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 40019,
 		["maxLevel"] = 1,
 		["minLevel"] = 1,
 	},
-	[451] = {
+	[481] = {
+		["Name"] = "Drakin Swiftaxe",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 51566,
+		["minLevel"] = 45,
+		["maxLevel"] = 45,
+	},
+	[482] = {
 		["Name"] = "Dran Droffers",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 6986,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[452] = {
+	[483] = {
 		["Name"] = "Dranh",
 		["Zone"] = "The Barrens",
 		["ID"] = 6387,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[453] = {
+	[484] = {
 		["Name"] = "Dread Creeper",
 		["Zone"] = "Naxxramas",
 		["ID"] = 15974,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[454] = {
+	[485] = {
 		["Name"] = "Dreadlord Commander",
 		["Zone"] = "Hyjal",
 		["ID"] = 61353,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[455] = {
+	[486] = {
 		["Name"] = "Dreadmaul Brute",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 5976,
-		["maxLevel"] = 47,
 		["minLevel"] = 46,
+		["maxLevel"] = 47,
 	},
-	[456] = {
+	[487] = {
 		["Name"] = "Dreadmaul Mauler",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 5977,
-		["maxLevel"] = 54,
 		["minLevel"] = 54,
+		["maxLevel"] = 54,
 	},
-	[457] = {
+	[488] = {
 		["Name"] = "Dreadmaul Ogre",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 5974,
-		["maxLevel"] = 46,
 		["minLevel"] = 45,
+		["maxLevel"] = 46,
 	},
-	[458] = {
+	[489] = {
 		["Name"] = "Dreadmaul Ogre Mage",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 5975,
-		["maxLevel"] = 47,
 		["minLevel"] = 46,
+		["maxLevel"] = 47,
 	},
-	[459] = {
+	[490] = {
 		["Name"] = "Dreadmaul Warlock",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 5978,
-		["maxLevel"] = 54,
 		["minLevel"] = 54,
+		["maxLevel"] = 54,
 	},
-	[460] = {
-		["Name"] = "Dreadmaw Crocolisk",
-		["Zone"] = "The Barrens",
-		["ID"] = 3110,
-		["maxLevel"] = 11,
-		["minLevel"] = 9,
-	},
-	[461] = {
+	[491] = {
 		["Name"] = "Dreadmaw Crocolisk",
 		["Zone"] = "Durotar",
 		["ID"] = 3110,
-		["maxLevel"] = 11,
 		["minLevel"] = 9,
+		["maxLevel"] = 11,
 	},
-	[462] = {
+	[492] = {
+		["Name"] = "Dreadmaw Crocolisk",
+		["Zone"] = "The Barrens",
+		["ID"] = 3110,
+		["minLevel"] = 9,
+		["maxLevel"] = 11,
+	},
+	[493] = {
 		["Name"] = "Dredge Crusher",
 		["Zone"] = "Silithus",
 		["ID"] = 11741,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[463] = {
+	[494] = {
 		["Name"] = "Drovnar Strongbrew",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2812,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[464] = {
+	[495] = {
+		["Name"] = "Drull",
+		["Zone"] = "Hillsbrad Foothills",
+		["ID"] = 2239,
+		["minLevel"] = 25,
+		["maxLevel"] = 25,
+	},
+	[496] = {
 		["Name"] = "Drunken Bruiser",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 15724,
-		["maxLevel"] = 57,
 		["minLevel"] = 57,
+		["maxLevel"] = 57,
 	},
-	[465] = {
+	[497] = {
 		["Name"] = "Duhng",
 		["Zone"] = "The Barrens",
 		["ID"] = 8306,
-		["maxLevel"] = 18,
 		["minLevel"] = 18,
+		["maxLevel"] = 18,
 	},
-	[466] = {
+	[498] = {
+		["Name"] = "Duke Nicholas Zverenhoff",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 11039,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[499] = {
 		["Name"] = "Dune Smasher",
 		["Zone"] = "Tanaris",
 		["ID"] = 5469,
-		["maxLevel"] = 48,
 		["minLevel"] = 48,
+		["maxLevel"] = 48,
 	},
-	[467] = {
+	[500] = {
+		["Name"] = "Dunebound Chimaera",
+		["Zone"] = "Feralas",
+		["ID"] = 61597,
+		["minLevel"] = 42,
+		["maxLevel"] = 44,
+	},
+	[501] = {
 		["Name"] = "Dunemaul Brute",
 		["Zone"] = "Tanaris",
 		["ID"] = 5474,
-		["maxLevel"] = 48,
 		["minLevel"] = 47,
+		["maxLevel"] = 48,
 	},
-	[468] = {
+	[502] = {
 		["Name"] = "Dunemaul Enforcer",
 		["Zone"] = "Tanaris",
 		["ID"] = 5472,
-		["maxLevel"] = 47,
 		["minLevel"] = 46,
+		["maxLevel"] = 47,
 	},
-	[469] = {
+	[503] = {
 		["Name"] = "Dunemaul Ogre",
 		["Zone"] = "Tanaris",
 		["ID"] = 5471,
-		["maxLevel"] = 46,
 		["minLevel"] = 45,
+		["maxLevel"] = 46,
 	},
-	[470] = {
+	[504] = {
 		["Name"] = "Dunemaul Ogre Mage",
 		["Zone"] = "Tanaris",
 		["ID"] = 5473,
-		["maxLevel"] = 47,
 		["minLevel"] = 46,
+		["maxLevel"] = 47,
 	},
-	[471] = {
+	[505] = {
 		["Name"] = "Dunemaul Warlock",
 		["Zone"] = "Tanaris",
 		["ID"] = 5475,
-		["maxLevel"] = 48,
 		["minLevel"] = 47,
+		["maxLevel"] = 48,
 	},
-	[472] = {
+	[506] = {
 		["Name"] = "Duokna",
 		["Zone"] = "Durotar",
 		["ID"] = 3158,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[473] = {
+	[507] = {
 		["Name"] = "Durotar Labor Union Bruiser",
 		["Zone"] = "Durotar",
 		["ID"] = 16096,
 		["maxLevel"] = 55,
 		["minLevel"] = 55,
 	},
-	[474] = {
+	[508] = {
 		["Name"] = "Durotar Tiger",
 		["Zone"] = "Durotar",
 		["ID"] = 3121,
-		["maxLevel"] = 8,
 		["minLevel"] = 7,
+		["maxLevel"] = 8,
 	},
-	[475] = {
+	[509] = {
 		["Name"] = "Durtham Greldon",
 		["Zone"] = "Ironforge",
 		["ID"] = 2737,
 		["minLevel"] = 40,
 		["maxLevel"] = 40,
 	},
-	[476] = {
+	[510] = {
 		["Name"] = "Dustwind Harpy",
 		["Zone"] = "Durotar",
 		["ID"] = 3115,
-		["maxLevel"] = 8,
 		["minLevel"] = 7,
+		["maxLevel"] = 8,
 	},
-	[477] = {
+	[511] = {
 		["Name"] = "Dustwind Pillager",
 		["Zone"] = "Durotar",
 		["ID"] = 3116,
-		["maxLevel"] = 8,
 		["minLevel"] = 7,
+		["maxLevel"] = 8,
 	},
-	[478] = {
+	[512] = {
 		["Name"] = "Dustwind Savage",
 		["Zone"] = "Durotar",
 		["ID"] = 3117,
-		["maxLevel"] = 10,
 		["minLevel"] = 9,
+		["maxLevel"] = 10,
 	},
-	[479] = {
+	[513] = {
 		["Name"] = "Dustwind Storm Witch",
 		["Zone"] = "Durotar",
 		["ID"] = 3118,
-		["maxLevel"] = 11,
 		["minLevel"] = 10,
+		["maxLevel"] = 11,
 	},
-	[480] = {
+	[514] = {
 		["Name"] = "Dwukk",
 		["Zone"] = "Durotar",
 		["ID"] = 3174,
-		["maxLevel"] = 27,
 		["minLevel"] = 27,
+		["maxLevel"] = 27,
 	},
-	[481] = {
+	[515] = {
 		["Name"] = "Ealyshia Dewwhisper",
 		["Zone"] = "Darnassus",
 		["ID"] = 4180,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[482] = {
+	[516] = {
 		["Name"] = "Earthborer",
 		["Zone"] = "Ragefire Chasm",
 		["ID"] = 11320,
-		["maxLevel"] = 14,
 		["minLevel"] = 13,
+		["maxLevel"] = 14,
 	},
-	[483] = {
+	[517] = {
 		["Name"] = "Earthgrab Totem",
 		["Zone"] = "Tanaris",
 		["ID"] = 6066,
-		["maxLevel"] = 50,
 		["minLevel"] = 49,
+		["maxLevel"] = 50,
 	},
-	[484] = {
+	[518] = {
 		["Name"] = "Ebonroc",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 14601,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[485] = {
+	[519] = {
 		["Name"] = "Echeyakee",
 		["Zone"] = "The Barrens",
 		["ID"] = 3475,
-		["maxLevel"] = 16,
 		["minLevel"] = 16,
+		["maxLevel"] = 16,
 	},
-	[486] = {
+	[520] = {
 		["Name"] = "Edrion Ironstrike",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61814,
 		["maxLevel"] = 15,
 		["minLevel"] = 15,
 	},
-	[487] = {
+	[521] = {
 		["Name"] = "Eitrigg",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3144,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
-	[488] = {
+	[522] = {
 		["Name"] = "Eladriel",
 		["Zone"] = "Darnassus",
 		["ID"] = 6292,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[489] = {
+	[523] = {
 		["Name"] = "Elanaria",
 		["Zone"] = "Darnassus",
 		["ID"] = 4088,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[490] = {
+	[524] = {
 		["Name"] = "Elder Barkmaw",
 		["Zone"] = "Hyjal",
 		["ID"] = 61506,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[491] = {
+	[525] = {
 		["Name"] = "Elder Crimson Lynx",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61700,
 		["maxLevel"] = 8,
 		["minLevel"] = 7,
 	},
-	[492] = {
+	[526] = {
 		["Name"] = "Elder Crimson Lynx",
 		["Zone"] = "Thalassian Highlands",
 		["ID"] = 61700,
 		["maxLevel"] = 7,
 		["minLevel"] = 7,
 	},
-	[493] = {
+	[527] = {
+		["Name"] = "Elder Diemetradon",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9164,
+		["minLevel"] = 54,
+		["maxLevel"] = 55,
+	},
+	[528] = {
+		["Name"] = "Elder Gray Bear",
+		["Zone"] = "Hillsbrad Foothills",
+		["ID"] = 2356,
+		["minLevel"] = 25,
+		["maxLevel"] = 26,
+	},
+	[529] = {
 		["Name"] = "Elder Growlheart",
 		["Zone"] = "Hyjal",
 		["ID"] = 61348,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[494] = {
-		["Name"] = "Elder Mottled Boar",
-		["Zone"] = "The Barrens",
-		["ID"] = 3100,
-		["maxLevel"] = 8,
-		["minLevel"] = 8,
-	},
-	[495] = {
+	[530] = {
 		["Name"] = "Elder Mottled Boar",
 		["Zone"] = "Durotar",
 		["ID"] = 3100,
-		["maxLevel"] = 9,
 		["minLevel"] = 8,
-	},
-	[496] = {
-		["Name"] = "Elder Plainstrider",
-		["Zone"] = "Mulgore",
-		["ID"] = 2957,
 		["maxLevel"] = 9,
-		["minLevel"] = 8,
 	},
-	[497] = {
-		["Name"] = "Elder Plainstrider",
+	[531] = {
+		["Name"] = "Elder Mottled Boar",
 		["Zone"] = "The Barrens",
-		["ID"] = 2957,
+		["ID"] = 3100,
 		["maxLevel"] = 8,
 		["minLevel"] = 8,
 	},
-	[498] = {
+	[532] = {
 		["Name"] = "Elder Plainstrider",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 2957,
-		["maxLevel"] = 9,
 		["minLevel"] = 8,
+		["maxLevel"] = 9,
 	},
-	[499] = {
+	[533] = {
+		["Name"] = "Elder Plainstrider",
+		["Zone"] = "The Barrens",
+		["ID"] = 2957,
+		["minLevel"] = 8,
+		["maxLevel"] = 8,
+	},
+	[534] = {
+		["Name"] = "Elder Plainstrider",
+		["Zone"] = "Mulgore",
+		["ID"] = 2957,
+		["minLevel"] = 8,
+		["maxLevel"] = 9,
+	},
+	[535] = {
 		["Name"] = "Elder Shadowhorn Stag",
 		["Zone"] = "Ashenvale",
 		["ID"] = 3818,
 		["maxLevel"] = 27,
 		["minLevel"] = 26,
 	},
-	[500] = {
-		["Name"] = "Elder Thalassian Boar",
-		["Zone"] = "Thalassian Highlands",
-		["ID"] = 61696,
-		["maxLevel"] = 5,
-		["minLevel"] = 5,
-	},
-	[501] = {
+	[536] = {
 		["Name"] = "Elder Thalassian Boar",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61696,
 		["maxLevel"] = 6,
 		["minLevel"] = 6,
 	},
-	[502] = {
+	[537] = {
+		["Name"] = "Elder Thalassian Boar",
+		["Zone"] = "Thalassian Highlands",
+		["ID"] = 61696,
+		["maxLevel"] = 5,
+		["minLevel"] = 5,
+	},
+	[538] = {
 		["Name"] = "Elenia Everdawn",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61813,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[503] = {
+	[539] = {
 		["Name"] = "Elissa Dumas",
 		["Zone"] = "Darnassus",
 		["ID"] = 4165,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[504] = {
+	[540] = {
 		["Name"] = "Elki",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 8360,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[505] = {
+	[541] = {
 		["Name"] = "Ellaercia",
 		["Zone"] = "Darnassus",
 		["ID"] = 5047,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[506] = {
+	[542] = {
 		["Name"] = "Ellandrieth",
 		["Zone"] = "Darnassus",
 		["ID"] = 4170,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[507] = {
+	[543] = {
 		["Name"] = "Elvanor Heartsong",
 		["Zone"] = "Hyjal",
 		["ID"] = 61607,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[508] = {
+	[544] = {
 		["Name"] = "Elynna",
 		["Zone"] = "Darnassus",
 		["ID"] = 4168,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[509] = {
+	[545] = {
 		["Name"] = "Embalming Slime",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16024,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[510] = {
+	[546] = {
 		["Name"] = "Emiga",
 		["Zone"] = "Hyjal",
 		["ID"] = 80321,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[511] = {
+	[547] = {
+		["Name"] = "Emissary Gormok",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 17072,
+		["minLevel"] = 55,
+		["maxLevel"] = 55,
+	},
+	[548] = {
+		["Name"] = "Emissary Whitebeard",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 17069,
+		["minLevel"] = 55,
+		["maxLevel"] = 55,
+	},
+	[549] = {
 		["Name"] = "Emperor Vek'lor",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15276,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[512] = {
+	[550] = {
 		["Name"] = "Emperor Vek'nilash",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15275,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[513] = {
+	[551] = {
 		["Name"] = "Enchanted Broom",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 40012,
 		["maxLevel"] = 1,
 		["minLevel"] = 1,
 	},
-	[514] = {
+	[552] = {
 		["Name"] = "Encrusted Surf Crawler",
 		["Zone"] = "The Barrens",
 		["ID"] = 3108,
-		["maxLevel"] = 10,
 		["minLevel"] = 9,
+		["maxLevel"] = 10,
 	},
-	[515] = {
+	[553] = {
 		["Name"] = "Encrusted Surf Crawler",
 		["Zone"] = "Durotar",
 		["ID"] = 3108,
-		["maxLevel"] = 10,
 		["minLevel"] = 9,
+		["maxLevel"] = 10,
 	},
-	[516] = {
+	[554] = {
 		["Name"] = "Endaras Fadewood",
 		["Zone"] = "Winterspring",
 		["ID"] = 61560,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[517] = {
+	[555] = {
 		["Name"] = "Endaras Fadewood",
 		["Zone"] = "Hyjal",
 		["ID"] = 61560,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[518] = {
+	[556] = {
 		["Name"] = "Enduring Doomguard",
 		["Zone"] = "Hyjal",
 		["ID"] = 61352,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[519] = {
+	[557] = {
 		["Name"] = "Enthos",
 		["Zone"] = "Hyjal",
 		["ID"] = 61494,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[520] = {
+	[558] = {
 		["Name"] = "Enyo",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5883,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[521] = {
+	[559] = {
 		["Name"] = "Erelas Ambersky",
 		["Zone"] = "Teldrassil",
 		["ID"] = 7916,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[522] = {
+	[560] = {
 		["Name"] = "Eremzion",
 		["Zone"] = "Tanaris",
 		["ID"] = 65000,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[523] = {
+	[561] = {
 		["Name"] = "Erion Shadewhisper",
 		["Zone"] = "Darnassus",
 		["ID"] = 4214,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[524] = {
+	[562] = {
 		["Name"] = "Erk",
 		["Zone"] = "The Barrens",
 		["ID"] = 14857,
-		["maxLevel"] = 2,
 		["minLevel"] = 2,
+		["maxLevel"] = 2,
 	},
-	[525] = {
+	[563] = {
 		["Name"] = "Erus Moonwake",
 		["Zone"] = "Ashenvale",
 		["ID"] = 61141,
 		["maxLevel"] = 30,
 		["minLevel"] = 30,
 	},
-	[526] = {
+	[564] = {
 		["Name"] = "Ethennar Somberfall",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61917,
 		["maxLevel"] = 40,
 		["minLevel"] = 40,
 	},
-	[527] = {
+	[565] = {
 		["Name"] = "Etu Ragetotem",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3020,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[528] = {
+	[566] = {
 		["Name"] = "Eva Sarkhoff",
 		["Zone"] = "Scholomance",
 		["ID"] = 11216,
-		["maxLevel"] = 54,
 		["minLevel"] = 54,
+		["maxLevel"] = 54,
 	},
-	[529] = {
+	[567] = {
 		["Name"] = "Eva Sarkhoff",
 		["Zone"] = "Western Plaguelands",
 		["ID"] = 11216,
-		["maxLevel"] = 54,
 		["minLevel"] = 54,
+		["maxLevel"] = 54,
 	},
-	[530] = {
+	[568] = {
 		["Name"] = "Evandil Nightwind",
 		["Zone"] = "Hyjal",
 		["ID"] = 61485,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[531] = {
+	[569] = {
 		["Name"] = "Evatax",
 		["Zone"] = "The Barrens",
 		["ID"] = 60646,
 		["maxLevel"] = 18,
 		["minLevel"] = 18,
 	},
-	[532] = {
+	[570] = {
 		["Name"] = "Ewe'luas",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 80964,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[533] = {
+	[571] = {
 		["Name"] = "Expedition Cleric",
 		["Zone"] = "The Barrens",
 		["ID"] = 60894,
-		["maxLevel"] = 17,
 		["minLevel"] = 16,
+		["maxLevel"] = 17,
 	},
-	[534] = {
-		["Name"] = "Expedition Commando",
-		["Zone"] = "Durotar",
-		["ID"] = 60893,
-		["maxLevel"] = 11,
-		["minLevel"] = 9,
-	},
-	[535] = {
+	[572] = {
 		["Name"] = "Expedition Commando",
 		["Zone"] = "The Barrens",
 		["ID"] = 60893,
-		["maxLevel"] = 9,
 		["minLevel"] = 9,
+		["maxLevel"] = 9,
 	},
-	[536] = {
+	[573] = {
+		["Name"] = "Expedition Commando",
+		["Zone"] = "Durotar",
+		["ID"] = 60893,
+		["minLevel"] = 9,
+		["maxLevel"] = 11,
+	},
+	[574] = {
 		["Name"] = "Expedition Officer",
 		["Zone"] = "The Barrens",
 		["ID"] = 60896,
-		["maxLevel"] = 18,
 		["minLevel"] = 18,
+		["maxLevel"] = 18,
 	},
-	[537] = {
+	[575] = {
 		["Name"] = "Expedition Sailor",
 		["Zone"] = "The Barrens",
 		["ID"] = 60895,
-		["maxLevel"] = 16,
 		["minLevel"] = 14,
+		["maxLevel"] = 16,
 	},
-	[538] = {
+	[576] = {
+		["Name"] = "Expedition Scout",
+		["Zone"] = "The Barrens",
+		["ID"] = 60898,
+		["minLevel"] = 9,
+		["maxLevel"] = 9,
+	},
+	[577] = {
 		["Name"] = "Expedition Scout",
 		["Zone"] = "Durotar",
 		["ID"] = 60898,
-		["maxLevel"] = 10,
 		["minLevel"] = 8,
+		["maxLevel"] = 10,
 	},
-	[539] = {
-		["Name"] = "Expedition Scout",
-		["Zone"] = "The Barrens",
-		["ID"] = 60898,
-		["maxLevel"] = 9,
-		["minLevel"] = 9,
-	},
-	[540] = {
+	[578] = {
 		["Name"] = "Expedition Soldier",
 		["Zone"] = "The Barrens",
 		["ID"] = 60897,
-		["maxLevel"] = 17,
 		["minLevel"] = 15,
+		["maxLevel"] = 17,
 	},
-	[541] = {
+	[579] = {
+		["Name"] = "Expert Training Dummy",
+		["Zone"] = "Stranglethorn Vale",
+		["ID"] = 50516,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[580] = {
 		["Name"] = "Expert Training Dummy",
 		["Zone"] = "Ironforge",
 		["ID"] = 50516,
 		["minLevel"] = 60,
 		["maxLevel"] = 60,
 	},
-	[542] = {
-		["Name"] = "Expert Training Dummy",
-		["Zone"] = "Stranglethorn Vale",
-		["ID"] = 50516,
-		["maxLevel"] = 60,
-		["minLevel"] = 60,
-	},
-	[543] = {
+	[581] = {
 		["Name"] = "Expert Training Dummy",
 		["Zone"] = "The Barrens",
 		["ID"] = 50516,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[544] = {
+	[582] = {
 		["Name"] = "Expert Training Dummy",
-		["Zone"] = "Orgrimmar",
+		["Zone"] = "Dustwallow Marsh",
 		["ID"] = 50516,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[545] = {
+	[583] = {
 		["Name"] = "Expert Training Dummy",
 		["Zone"] = "Darnassus",
 		["ID"] = 50516,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[546] = {
+	[584] = {
+		["Name"] = "Expert Training Dummy",
+		["Zone"] = "Orgrimmar",
+		["ID"] = 50516,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[585] = {
 		["Name"] = "Eyahn Eagletalon",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 2987,
-		["maxLevel"] = 12,
 		["minLevel"] = 12,
+		["maxLevel"] = 12,
 	},
-	[547] = {
+	[586] = {
 		["Name"] = "Eye Tentacle",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15726,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[548] = {
+	[587] = {
 		["Name"] = "Eye of C'Thun",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15589,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[549] = {
+	[588] = {
 		["Name"] = "Fading Apparition",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 61984,
-		["maxLevel"] = 57,
 		["minLevel"] = 57,
+		["maxLevel"] = 57,
 	},
-	[550] = {
+	[589] = {
 		["Name"] = "Faelindella",
 		["Zone"] = "Hyjal",
 		["ID"] = 61580,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[551] = {
+	[590] = {
 		["Name"] = "Faelon Brightwood",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 62087,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[552] = {
+	[591] = {
 		["Name"] = "Faelyssa",
 		["Zone"] = "Darnassus",
 		["ID"] = 2796,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[553] = {
+	[592] = {
+		["Name"] = "Fahrad",
+		["Zone"] = "Alterac Mountains",
+		["ID"] = 6707,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[593] = {
 		["Name"] = "Faldron",
 		["Zone"] = "Darnassus",
 		["ID"] = 11081,
-		["maxLevel"] = 32,
 		["minLevel"] = 32,
+		["maxLevel"] = 32,
 	},
-	[554] = {
+	[594] = {
 		["Name"] = "Falla Sagewind",
 		["Zone"] = "The Barrens",
 		["ID"] = 8418,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[555] = {
+	[595] = {
 		["Name"] = "Fallen Hero of the Horde",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 7572,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[556] = {
+	[596] = {
 		["Name"] = "Fallout Slime",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16290,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[557] = {
+	[597] = {
+		["Name"] = "Falstad Wildhammer",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 5635,
+		["minLevel"] = 50,
+		["maxLevel"] = 50,
+	},
+	[598] = {
 		["Name"] = "Fang",
 		["Zone"] = "The Barrens",
 		["ID"] = 14892,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[558] = {
+	[599] = {
 		["Name"] = "Fankriss the Unyielding",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15510,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[559] = {
+	[600] = {
 		["Name"] = "Fanzy Sparkspring",
 		["Zone"] = "Tanaris",
 		["ID"] = 61913,
-		["maxLevel"] = 57,
 		["minLevel"] = 57,
+		["maxLevel"] = 57,
 	},
-	[560] = {
+	[601] = {
 		["Name"] = "Fara Boltbreaker",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 50530,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[561] = {
+	[602] = {
 		["Name"] = "Farana Leafblade",
 		["Zone"] = "Hyjal",
 		["ID"] = 61562,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[562] = {
+	[603] = {
 		["Name"] = "Faredin",
 		["Zone"] = "Darnassus",
 		["ID"] = 62008,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[563] = {
+	[604] = {
 		["Name"] = "Farenia Roseheart",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61802,
 		["maxLevel"] = 60,
 		["minLevel"] = 60,
 	},
-	[564] = {
+	[605] = {
 		["Name"] = "Farmer Kent",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 2436,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[565] = {
+	[606] = {
 		["Name"] = "Farstride Crawler",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61704,
 		["maxLevel"] = 7,
 		["minLevel"] = 7,
 	},
-	[566] = {
+	[607] = {
 		["Name"] = "Farstride Netter",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61702,
 		["maxLevel"] = 7,
 		["minLevel"] = 7,
 	},
-	[567] = {
+	[608] = {
 		["Name"] = "Father Cobb",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3046,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[568] = {
+	[609] = {
 		["Name"] = "Fawn",
 		["Zone"] = "Hyjal",
 		["ID"] = 890,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[569] = {
+	[610] = {
 		["Name"] = "Faz",
 		["Zone"] = "Durotar",
 		["ID"] = 91221,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[570] = {
+	[611] = {
 		["Name"] = "Feegly the Exiled",
 		["Zone"] = "The Barrens",
 		["ID"] = 3421,
-		["maxLevel"] = 23,
 		["minLevel"] = 23,
+		["maxLevel"] = 23,
 	},
-	[571] = {
+	[612] = {
 		["Name"] = "Feid Rota",
 		["Zone"] = "The Barrens",
 		["ID"] = 12,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[572] = {
+	[613] = {
 		["Name"] = "Fel'zerul",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 1443,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[573] = {
+	[614] = {
 		["Name"] = "Fela",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3095,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[574] = {
+	[615] = {
 		["Name"] = "Felbeast",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 8675,
-		["maxLevel"] = 51,
 		["minLevel"] = 50,
+		["maxLevel"] = 51,
 	},
-	[575] = {
+	[616] = {
 		["Name"] = "Felguard",
 		["Zone"] = "Naxxramas",
 		["ID"] = 17252,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[576] = {
+	[617] = {
 		["Name"] = "Felguard Elite",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 8717,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[577] = {
+	[618] = {
 		["Name"] = "Felguard Sentry",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 6011,
-		["maxLevel"] = 55,
 		["minLevel"] = 54,
+		["maxLevel"] = 55,
 	},
-	[578] = {
+	[619] = {
 		["Name"] = "Felhound",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 6010,
-		["maxLevel"] = 55,
 		["minLevel"] = 54,
+		["maxLevel"] = 55,
 	},
-	[579] = {
+	[620] = {
 		["Name"] = "Felika",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3367,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[580] = {
+	[621] = {
 		["Name"] = "Felix Lazyrocket",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 51572,
-		["maxLevel"] = 52,
 		["minLevel"] = 41,
+		["maxLevel"] = 52,
 	},
-	[581] = {
+	[622] = {
 		["Name"] = "Felstalker",
 		["Zone"] = "Durotar",
 		["ID"] = 3102,
-		["maxLevel"] = 4,
 		["minLevel"] = 4,
+		["maxLevel"] = 4,
 	},
-	[582] = {
+	[623] = {
 		["Name"] = "Fenrion Rendall",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61834,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[583] = {
+	[624] = {
 		["Name"] = "Fenthwick",
 		["Zone"] = "Ironforge",
 		["ID"] = 5167,
 		["minLevel"] = 40,
 		["maxLevel"] = 40,
 	},
-	[584] = {
+	[625] = {
+		["Name"] = "Feral Mountain Lion",
+		["Zone"] = "Hillsbrad Foothills",
+		["ID"] = 2385,
+		["minLevel"] = 27,
+		["maxLevel"] = 27,
+	},
+	[626] = {
 		["Name"] = "Feran Strongwind",
 		["Zone"] = "Ashenvale",
 		["ID"] = 11749,
 		["maxLevel"] = 57,
 		["minLevel"] = 57,
 	},
-	[585] = {
+	[627] = {
 		["Name"] = "Feugen",
 		["Zone"] = "Naxxramas",
 		["ID"] = 15930,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[586] = {
+	[628] = {
 		["Name"] = "Field Marshal Oslight",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 14983,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[587] = {
+	[629] = {
 		["Name"] = "Fin Fizracket",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2486,
 		["minLevel"] = 42,
 		["maxLevel"] = 42,
 	},
-	[588] = {
+	[630] = {
 		["Name"] = "Firalius Arrowstrike",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61880,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[589] = {
+	[631] = {
 		["Name"] = "Fire Roc",
 		["Zone"] = "Tanaris",
 		["ID"] = 5429,
-		["maxLevel"] = 45,
 		["minLevel"] = 43,
+		["maxLevel"] = 45,
 	},
-	[590] = {
+	[632] = {
 		["Name"] = "Firelord",
 		["Zone"] = "Molten Core",
 		["ID"] = 11668,
-		["maxLevel"] = 62,
 		["minLevel"] = 61,
+		["maxLevel"] = 62,
 	},
-	[591] = {
+	[633] = {
 		["Name"] = "Firemaw",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 11983,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[592] = {
+	[634] = {
 		["Name"] = "Firesworn",
 		["Zone"] = "Molten Core",
 		["ID"] = 12099,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[593] = {
+	[635] = {
 		["Name"] = "Firewalker",
 		["Zone"] = "Molten Core",
 		["ID"] = 11666,
-		["maxLevel"] = 62,
 		["minLevel"] = 61,
+		["maxLevel"] = 62,
 	},
-	[594] = {
+	[636] = {
 		["Name"] = "Firodren Mooncaller",
 		["Zone"] = "Darnassus",
 		["ID"] = 4204,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[595] = {
+	[637] = {
 		["Name"] = "First Mate Crazz",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2490,
 		["minLevel"] = 44,
 		["maxLevel"] = 44,
 	},
-	[596] = {
+	[638] = {
 		["Name"] = "First Mate McCoy",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 60452,
 		["maxLevel"] = 52,
 		["minLevel"] = 52,
 	},
-	[597] = {
+	[639] = {
 		["Name"] = "Fishbot 5000",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 15079,
 		["maxLevel"] = 50,
 		["minLevel"] = 50,
 	},
-	[598] = {
+	[640] = {
 		["Name"] = "Fisherman Shix",
 		["Zone"] = "Durotar",
 		["ID"] = 91206,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[599] = {
+	[641] = {
 		["Name"] = "Fishface Joe",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 60447,
 		["maxLevel"] = 25,
 		["minLevel"] = 25,
 	},
-	[600] = {
+	[642] = {
 		["Name"] = "Flakk",
 		["Zone"] = "Durotar",
 		["ID"] = 3168,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[601] = {
+	[643] = {
 		["Name"] = "Flame Imp",
 		["Zone"] = "Molten Core",
 		["ID"] = 11669,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[602] = {
+	[644] = {
 		["Name"] = "Flamegor",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 11981,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[603] = {
+	[645] = {
 		["Name"] = "Flameguard",
 		["Zone"] = "Molten Core",
 		["ID"] = 11667,
-		["maxLevel"] = 62,
 		["minLevel"] = 61,
+		["maxLevel"] = 62,
 	},
-	[604] = {
+	[646] = {
 		["Name"] = "Flameskin Incendosaur",
 		["Zone"] = "Molten Core",
 		["ID"] = 52149,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[605] = {
+	[647] = {
 		["Name"] = "Flamewaker Elite",
 		["Zone"] = "Molten Core",
 		["ID"] = 11664,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[606] = {
+	[648] = {
 		["Name"] = "Flamewaker Healer",
 		["Zone"] = "Molten Core",
 		["ID"] = 11663,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[607] = {
+	[649] = {
 		["Name"] = "Flamewaker Priest",
 		["Zone"] = "Molten Core",
 		["ID"] = 11662,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[608] = {
+	[650] = {
 		["Name"] = "Flamewaker Protector",
 		["Zone"] = "Molten Core",
 		["ID"] = 12119,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[609] = {
+	[651] = {
 		["Name"] = "Flatland Cougar",
 		["Zone"] = "Mulgore",
 		["ID"] = 3035,
+		["minLevel"] = 7,
 		["maxLevel"] = 8,
-		["minLevel"] = 7,
 	},
-	[610] = {
+	[652] = {
 		["Name"] = "Flatland Cougar",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3035,
-		["maxLevel"] = 7,
 		["minLevel"] = 7,
+		["maxLevel"] = 7,
 	},
-	[611] = {
+	[653] = {
 		["Name"] = "Flatland Prowler",
 		["Zone"] = "Mulgore",
 		["ID"] = 3566,
-		["maxLevel"] = 9,
 		["minLevel"] = 9,
+		["maxLevel"] = 9,
 	},
-	[612] = {
+	[654] = {
 		["Name"] = "Flatland Prowler",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3566,
-		["maxLevel"] = 9,
 		["minLevel"] = 9,
+		["maxLevel"] = 9,
 	},
-	[613] = {
+	[655] = {
+		["Name"] = "Fledgling Pterrordax",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9165,
+		["minLevel"] = 50,
+		["maxLevel"] = 50,
+	},
+	[656] = {
 		["Name"] = "Fleet Master Firallon",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2546,
-		["minLevel"] = 48,
 		["maxLevel"] = 48,
+		["minLevel"] = 48,
 	},
-	[614] = {
+	[657] = {
 		["Name"] = "Fleet Master Seahorn",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2487,
 		["minLevel"] = 60,
 		["maxLevel"] = 60,
 	},
-	[615] = {
+	[658] = {
 		["Name"] = "Fleeting Plainstrider",
 		["Zone"] = "The Barrens",
 		["ID"] = 3246,
-		["maxLevel"] = 13,
 		["minLevel"] = 12,
+		["maxLevel"] = 13,
 	},
-	[616] = {
+	[659] = {
 		["Name"] = "Flesh Golem",
 		["Zone"] = "Western Plaguelands",
 		["ID"] = 1805,
-		["maxLevel"] = 57,
 		["minLevel"] = 56,
+		["maxLevel"] = 57,
 	},
-	[617] = {
+	[660] = {
 		["Name"] = "Flesh Tentacle",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15802,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[618] = {
+	[661] = {
 		["Name"] = "Flora Silverwind",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 908,
 		["minLevel"] = 44,
 		["maxLevel"] = 44,
 	},
-	[619] = {
+	[662] = {
 		["Name"] = "Foreign Associate",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 51242,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[620] = {
+	[663] = {
 		["Name"] = "Foreman Silixiz",
 		["Zone"] = "The Barrens",
 		["ID"] = 7287,
-		["maxLevel"] = 22,
 		["minLevel"] = 22,
+		["maxLevel"] = 22,
 	},
-	[621] = {
+	[664] = {
 		["Name"] = "Foreman Tanoth",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 60855,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[622] = {
+	[665] = {
 		["Name"] = "Foreman Thazz'ril",
 		["Zone"] = "Durotar",
 		["ID"] = 11378,
-		["maxLevel"] = 4,
 		["minLevel"] = 4,
+		["maxLevel"] = 4,
 	},
-	[623] = {
+	[666] = {
 		["Name"] = "Forest Boar",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 62260,
-		["maxLevel"] = 23,
 		["minLevel"] = 23,
+		["maxLevel"] = 24,
 	},
-	[624] = {
-		["Name"] = "Forest Moss Creeper",
-		["Zone"] = "Hillsbrad Foothills",
-		["ID"] = 2350,
-		["maxLevel"] = 21,
-		["minLevel"] = 20,
-	},
-	[625] = {
+	[667] = {
 		["Name"] = "Forest Moss Creeper",
 		["Zone"] = "Alterac Mountains",
 		["ID"] = 2350,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
-	[626] = {
+	[668] = {
+		["Name"] = "Forest Moss Creeper",
+		["Zone"] = "Hillsbrad Foothills",
+		["ID"] = 2350,
+		["minLevel"] = 20,
+		["maxLevel"] = 21,
+	},
+	[669] = {
 		["Name"] = "Forsaken Bodyguard",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2721,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[627] = {
+	[670] = {
 		["Name"] = "Forsaken Courier",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2714,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[628] = {
+	[671] = {
+		["Name"] = "Fraggar Thundermantle",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 7884,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[672] = {
 		["Name"] = "Frail Skeleton",
 		["Zone"] = "Scholomance",
 		["ID"] = 11258,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[629] = {
+	[673] = {
 		["Name"] = "Frang",
 		["Zone"] = "Durotar",
 		["ID"] = 3153,
-		["maxLevel"] = 11,
 		["minLevel"] = 11,
+		["maxLevel"] = 11,
 	},
-	[630] = {
+	[674] = {
 		["Name"] = "Frenzied Bat",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16036,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[631] = {
+	[675] = {
 		["Name"] = "Frenzied Plaguehound",
 		["Zone"] = "Eastern Plaguelands",
 		["ID"] = 8598,
-		["maxLevel"] = 58,
 		["minLevel"] = 57,
+		["maxLevel"] = 58,
 	},
-	[632] = {
-		["Name"] = "Frog",
-		["Zone"] = "Hyjal",
-		["ID"] = 13321,
-		["maxLevel"] = 1,
-		["minLevel"] = 1,
+	[676] = {
+		["Name"] = "Frenzied Pterrordax",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9167,
+		["minLevel"] = 52,
+		["maxLevel"] = 54,
 	},
-	[633] = {
+	[677] = {
+		["Name"] = "Frig Thunderforge",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 61758,
+		["minLevel"] = 50,
+		["maxLevel"] = 50,
+	},
+	[678] = {
 		["Name"] = "Frog",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 13321,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[634] = {
+	[679] = {
+		["Name"] = "Frog",
+		["Zone"] = "Hyjal",
+		["ID"] = 13321,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[680] = {
 		["Name"] = "Frostsaber Companion",
 		["Zone"] = "Darnassus",
 		["ID"] = 4242,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[635] = {
+	[681] = {
 		["Name"] = "Frostwolf Ambassador Rokhstrom",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 13842,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[636] = {
+	[682] = {
 		["Name"] = "Frostwolf Emissary",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 15106,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[637] = {
+	[683] = {
 		["Name"] = "Fuzruckle",
 		["Zone"] = "The Barrens",
 		["ID"] = 3496,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[638] = {
+	[684] = {
 		["Name"] = "Fyldan",
 		["Zone"] = "Darnassus",
 		["ID"] = 4223,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[639] = {
+	[685] = {
 		["Name"] = "Fylerian Nightwing",
 		["Zone"] = "Darnassus",
 		["ID"] = 4219,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[640] = {
+	[686] = {
 		["Name"] = "Fyr Mistrunner",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3003,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[641] = {
+	[687] = {
 		["Name"] = "Fyrenna",
 		["Zone"] = "Darnassus",
 		["ID"] = 4181,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[642] = {
+	[688] = {
 		["Name"] = "Gadgetzan Bruiser",
 		["Zone"] = "Tanaris",
 		["ID"] = 9460,
-		["maxLevel"] = 57,
 		["minLevel"] = 57,
+		["maxLevel"] = 57,
 	},
-	[643] = {
+	[689] = {
 		["Name"] = "Gaethas Fargaze",
 		["Zone"] = "Hyjal",
 		["ID"] = 61520,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[644] = {
+	[690] = {
 		["Name"] = "Gagsprocket",
 		["Zone"] = "The Barrens",
 		["ID"] = 3495,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
-	[645] = {
+	[691] = {
 		["Name"] = "Gahroot",
 		["Zone"] = "The Barrens",
 		["ID"] = 3705,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[646] = {
+	[692] = {
 		["Name"] = "Gahz'rilla",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7273,
-		["maxLevel"] = 46,
 		["minLevel"] = 46,
+		["maxLevel"] = 46,
 	},
-	[647] = {
+	[693] = {
 		["Name"] = "Galak Centaur",
 		["Zone"] = "Mulgore",
 		["ID"] = 2967,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[648] = {
+	[694] = {
 		["Name"] = "Galgar",
 		["Zone"] = "Durotar",
 		["ID"] = 9796,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[649] = {
+	[695] = {
 		["Name"] = "Galthuk",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 4043,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[650] = {
+	[696] = {
 		["Name"] = "Gamon",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 6466,
-		["maxLevel"] = 12,
 		["minLevel"] = 12,
+		["maxLevel"] = 12,
 	},
-	[651] = {
+	[697] = {
 		["Name"] = "Gan'rul Bloodeye",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5875,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[652] = {
+	[698] = {
 		["Name"] = "Gann Stonespire",
 		["Zone"] = "The Barrens",
 		["ID"] = 3341,
-		["maxLevel"] = 18,
 		["minLevel"] = 18,
+		["maxLevel"] = 18,
 	},
-	[653] = {
+	[699] = {
 		["Name"] = "Ganum Highmountain",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 11500,
-		["maxLevel"] = 28,
 		["minLevel"] = 28,
+		["maxLevel"] = 28,
 	},
-	[654] = {
+	[700] = {
 		["Name"] = "Gar'Thok",
 		["Zone"] = "Durotar",
 		["ID"] = 3139,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[655] = {
+	[701] = {
 		["Name"] = "Garel Redrock",
 		["Zone"] = "Ironforge",
 		["ID"] = 16070,
 		["minLevel"] = 35,
 		["maxLevel"] = 35,
 	},
-	[656] = {
+	[702] = {
 		["Name"] = "Garfield Sparkblast",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 60496,
 		["minLevel"] = 54,
 		["maxLevel"] = 54,
 	},
-	[657] = {
+	[703] = {
 		["Name"] = "Garr",
 		["Zone"] = "Molten Core",
 		["ID"] = 12057,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[658] = {
+	[704] = {
 		["Name"] = "Garr Salthoof",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2549,
-		["minLevel"] = 41,
 		["maxLevel"] = 42,
+		["minLevel"] = 41,
 	},
-	[659] = {
+	[705] = {
 		["Name"] = "Garryeth",
 		["Zone"] = "Darnassus",
 		["ID"] = 4209,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[660] = {
+	[706] = {
 		["Name"] = "Garyl",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5188,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[661] = {
+	[707] = {
 		["Name"] = "Gaxx Speedcrank",
 		["Zone"] = "Durotar",
 		["ID"] = 80136,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[662] = {
+	[708] = {
 		["Name"] = "Gazelle",
 		["Zone"] = "The Barrens",
 		["ID"] = 4166,
-		["maxLevel"] = 3,
 		["minLevel"] = 3,
+		["maxLevel"] = 3,
 	},
-	[663] = {
+	[709] = {
 		["Name"] = "Gazlowe",
 		["Zone"] = "The Barrens",
 		["ID"] = 3391,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[664] = {
+	[710] = {
 		["Name"] = "Gazrog",
 		["Zone"] = "The Barrens",
 		["ID"] = 3464,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[665] = {
+	[711] = {
 		["Name"] = "Gazz'uz",
 		["Zone"] = "Durotar",
 		["ID"] = 3204,
-		["maxLevel"] = 14,
 		["minLevel"] = 14,
+		["maxLevel"] = 14,
 	},
-	[666] = {
+	[712] = {
 		["Name"] = "Geherion Whitesnake",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61837,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[667] = {
+	[713] = {
 		["Name"] = "Gelwig Darkbrow",
 		["Zone"] = "Tanaris",
 		["ID"] = 60955,
-		["maxLevel"] = 46,
 		["minLevel"] = 46,
+		["maxLevel"] = 46,
 	},
-	[668] = {
+	[714] = {
 		["Name"] = "General Twinbraid",
 		["Zone"] = "The Barrens",
 		["ID"] = 3414,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[669] = {
+	[715] = {
+		["Name"] = "Georgia",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 12636,
+		["minLevel"] = 55,
+		["maxLevel"] = 55,
+	},
+	[716] = {
 		["Name"] = "Gest",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3327,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[670] = {
+	[717] = {
 		["Name"] = "Gewana",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 62010,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[671] = {
+	[718] = {
 		["Name"] = "Gharash",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 8176,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[672] = {
+	[719] = {
 		["Name"] = "Ghostpaw Alpha",
 		["Zone"] = "Ashenvale",
 		["ID"] = 3825,
 		["maxLevel"] = 28,
 		["minLevel"] = 27,
 	},
-	[673] = {
-		["Name"] = "Ghostpaw Runner",
-		["Zone"] = "The Barrens",
-		["ID"] = 3823,
-		["maxLevel"] = 20,
-		["minLevel"] = 20,
-	},
-	[674] = {
+	[720] = {
 		["Name"] = "Ghostpaw Runner",
 		["Zone"] = "Ashenvale",
 		["ID"] = 3823,
 		["maxLevel"] = 19,
 		["minLevel"] = 19,
 	},
-	[675] = {
+	[721] = {
+		["Name"] = "Ghostpaw Runner",
+		["Zone"] = "The Barrens",
+		["ID"] = 3823,
+		["minLevel"] = 20,
+		["maxLevel"] = 20,
+	},
+	[722] = {
 		["Name"] = "Ghrawt",
 		["Zone"] = "Durotar",
 		["ID"] = 3165,
-		["maxLevel"] = 13,
 		["minLevel"] = 13,
+		["maxLevel"] = 13,
 	},
-	[676] = {
+	[723] = {
 		["Name"] = "Giant Ashenvale Bear",
 		["Zone"] = "Ashenvale",
 		["ID"] = 3811,
 		["maxLevel"] = 29,
 		["minLevel"] = 29,
 	},
-	[677] = {
+	[724] = {
 		["Name"] = "Giant Claw Tentacle",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15728,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[678] = {
+	[725] = {
 		["Name"] = "Giant Eye Tentacle",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15334,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[679] = {
+	[726] = {
+		["Name"] = "Giant Moss Creeper",
+		["Zone"] = "Hillsbrad Foothills",
+		["ID"] = 2349,
+		["minLevel"] = 24,
+		["maxLevel"] = 25,
+	},
+	[727] = {
 		["Name"] = "Giant Yeti",
 		["Zone"] = "Alterac Mountains",
 		["ID"] = 2251,
-		["maxLevel"] = 34,
 		["minLevel"] = 33,
+		["maxLevel"] = 34,
 	},
-	[680] = {
+	[728] = {
+		["Name"] = "Gibbert",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 3000,
+		["minLevel"] = 45,
+		["maxLevel"] = 45,
+	},
+	[729] = {
 		["Name"] = "Gikkix",
 		["Zone"] = "Tanaris",
 		["ID"] = 8137,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[681] = {
+	[730] = {
 		["Name"] = "Gilthares Firebough",
 		["Zone"] = "The Barrens",
 		["ID"] = 3465,
-		["maxLevel"] = 17,
 		["minLevel"] = 17,
+		["maxLevel"] = 17,
 	},
-	[682] = {
+	[731] = {
 		["Name"] = "Gimblethorn",
 		["Zone"] = "Tanaris",
 		["ID"] = 7799,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[683] = {
+	[732] = {
 		["Name"] = "Gimle Redbrand",
 		["Zone"] = "Ironforge",
 		["ID"] = 61009,
 		["minLevel"] = 56,
 		["maxLevel"] = 56,
 	},
-	[684] = {
+	[733] = {
 		["Name"] = "Ginlo Taxxo",
 		["Zone"] = "Tanaris",
 		["ID"] = 60958,
-		["maxLevel"] = 49,
 		["minLevel"] = 49,
+		["maxLevel"] = 49,
 	},
-	[685] = {
+	[734] = {
 		["Name"] = "Glade Treant",
 		["Zone"] = "Hyjal",
 		["ID"] = 61526,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[686] = {
+	[735] = {
 		["Name"] = "Glanthas the Ancient",
 		["Zone"] = "Hyjal",
 		["ID"] = 61528,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[687] = {
+	[736] = {
 		["Name"] = "Glasshide Basilisk",
 		["Zone"] = "Tanaris",
 		["ID"] = 5419,
-		["maxLevel"] = 43,
 		["minLevel"] = 42,
+		["maxLevel"] = 43,
 	},
-	[688] = {
+	[737] = {
 		["Name"] = "Glasshide Gazer",
 		["Zone"] = "Tanaris",
 		["ID"] = 5420,
-		["maxLevel"] = 46,
 		["minLevel"] = 45,
+		["maxLevel"] = 46,
 	},
-	[689] = {
+	[738] = {
 		["Name"] = "Glasshide Petrifier",
 		["Zone"] = "Tanaris",
 		["ID"] = 5421,
-		["maxLevel"] = 49,
 		["minLevel"] = 48,
+		["maxLevel"] = 49,
 	},
-	[690] = {
+	[739] = {
 		["Name"] = "Glob of Viscidus",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15667,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[691] = {
+	[740] = {
 		["Name"] = "Glorandiir",
 		["Zone"] = "Darnassus",
 		["ID"] = 4232,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[692] = {
+	[741] = {
 		["Name"] = "Gluth",
 		["Zone"] = "Naxxramas",
 		["ID"] = 15932,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[693] = {
+	[742] = {
+		["Name"] = "Glutinous Ooze",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6559,
+		["minLevel"] = 52,
+		["maxLevel"] = 54,
+	},
+	[743] = {
 		["Name"] = "Gnarled Thistleshrub",
 		["Zone"] = "Tanaris",
 		["ID"] = 5490,
-		["maxLevel"] = 49,
 		["minLevel"] = 48,
+		["maxLevel"] = 49,
 	},
-	[694] = {
+	[744] = {
 		["Name"] = "Godan",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3345,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[695] = {
+	[745] = {
 		["Name"] = "Golemagg the Incinerator",
 		["Zone"] = "Molten Core",
 		["ID"] = 11988,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[696] = {
+	[746] = {
 		["Name"] = "Golgan",
 		["Zone"] = "Ironforge",
 		["ID"] = 62011,
 		["minLevel"] = 30,
 		["maxLevel"] = 30,
 	},
-	[697] = {
+	[747] = {
 		["Name"] = "Goma",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5606,
-		["maxLevel"] = 12,
 		["minLevel"] = 12,
+		["maxLevel"] = 12,
 	},
-	[698] = {
+	[748] = {
 		["Name"] = "Gonzo Snaphands",
 		["Zone"] = "Tanaris",
 		["ID"] = 61914,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[699] = {
+	[749] = {
 		["Name"] = "Gor'marok the Ravager",
 		["Zone"] = "Tanaris",
 		["ID"] = 12046,
-		["maxLevel"] = 49,
 		["minLevel"] = 49,
+		["maxLevel"] = 49,
 	},
-	[700] = {
+	[750] = {
 		["Name"] = "Gorina",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3358,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[701] = {
+	[751] = {
+		["Name"] = "Gorishi Wasp",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6551,
+		["minLevel"] = 51,
+		["maxLevel"] = 52,
+	},
+	[752] = {
+		["Name"] = "Gorishi Worker",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6552,
+		["minLevel"] = 51,
+		["maxLevel"] = 52,
+	},
+	[753] = {
 		["Name"] = "Gornek",
 		["Zone"] = "Durotar",
 		["ID"] = 3143,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
+		["maxLevel"] = 5,
 	},
-	[702] = {
+	[754] = {
 		["Name"] = "Gorrok",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 80955,
-		["maxLevel"] = 11,
 		["minLevel"] = 11,
+		["maxLevel"] = 11,
 	},
-	[703] = {
+	[755] = {
 		["Name"] = "Gothik the Harvester",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16060,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[704] = {
+	[756] = {
 		["Name"] = "Gracina Spiritmight",
 		["Zone"] = "Darnassus",
 		["ID"] = 7740,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[705] = {
+	[757] = {
 		["Name"] = "Grand Foreman Puzik Gallywix",
 		["Zone"] = "The Barrens",
 		["ID"] = 7288,
-		["maxLevel"] = 23,
 		["minLevel"] = 23,
+		["maxLevel"] = 23,
 	},
-	[706] = {
+	[758] = {
 		["Name"] = "Grand Magister Rommath",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61800,
 		["maxLevel"] = 60,
 		["minLevel"] = 60,
 	},
-	[707] = {
+	[759] = {
 		["Name"] = "Grand Magistrix Merisa Dawnbreaker",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 80246,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[708] = {
+	[760] = {
 		["Name"] = "Grand Widow Faerlina",
 		["Zone"] = "Naxxramas",
 		["ID"] = 15953,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[709] = {
+	[761] = {
+		["Name"] = "Granistad",
+		["Zone"] = "Hillsbrad Foothills",
+		["ID"] = 2473,
+		["minLevel"] = 40,
+		["maxLevel"] = 40,
+	},
+	[762] = {
 		["Name"] = "Gray Bear",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 2351,
-		["maxLevel"] = 22,
 		["minLevel"] = 21,
+		["maxLevel"] = 22,
 	},
-	[710] = {
+	[763] = {
 		["Name"] = "Gray Bear",
 		["Zone"] = "Alterac Mountains",
 		["ID"] = 2351,
-		["maxLevel"] = 21,
 		["minLevel"] = 21,
+		["maxLevel"] = 21,
 	},
-	[711] = {
+	[764] = {
 		["Name"] = "Gray Riding Ram",
 		["Zone"] = "The Barrens",
 		["ID"] = 4710,
 		["maxLevel"] = 1,
 		["minLevel"] = 1,
 	},
-	[712] = {
+	[765] = {
 		["Name"] = "Grazzle Steamscrew",
 		["Zone"] = "Durotar",
 		["ID"] = 91201,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
+		["maxLevel"] = 5,
 	},
-	[713] = {
+	[766] = {
 		["Name"] = "Great Horned Owl",
 		["Zone"] = "Darnassus",
 		["ID"] = 7553,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[714] = {
+	[767] = {
 		["Name"] = "Greater Barrens Kodo",
 		["Zone"] = "The Barrens",
 		["ID"] = 3235,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[715] = {
+	[768] = {
 		["Name"] = "Greater Duskbat",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 1553,
-		["maxLevel"] = 7,
 		["minLevel"] = 6,
+		["maxLevel"] = 7,
 	},
-	[716] = {
+	[769] = {
+		["Name"] = "Greater Feral Spirit",
+		["Zone"] = "Blackwing Lair",
+		["ID"] = 29001,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[770] = {
 		["Name"] = "Greater Feral Spirit",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 29001,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
-	},
-	[717] = {
-		["Name"] = "Greater Feral Spirit",
-		["Zone"] = "Blackwing Lair",
-		["ID"] = 29001,
 		["maxLevel"] = 60,
-		["minLevel"] = 60,
 	},
-	[718] = {
+	[771] = {
 		["Name"] = "Greater Healing Ward",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 8179,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[719] = {
+	[772] = {
 		["Name"] = "Greater Plainstrider",
 		["Zone"] = "The Barrens",
 		["ID"] = 3244,
-		["maxLevel"] = 12,
 		["minLevel"] = 11,
+		["maxLevel"] = 12,
 	},
-	[720] = {
+	[773] = {
 		["Name"] = "Greater Thunderhawk",
 		["Zone"] = "The Barrens",
 		["ID"] = 3249,
-		["maxLevel"] = 24,
 		["minLevel"] = 23,
+		["maxLevel"] = 24,
 	},
-	[721] = {
+	[774] = {
 		["Name"] = "Greathorn Hunter",
 		["Zone"] = "Hyjal",
 		["ID"] = 61337,
-		["maxLevel"] = 61,
 		["minLevel"] = 60,
+		["maxLevel"] = 61,
 	},
-	[722] = {
-		["Name"] = "Greathorn Owl",
-		["Zone"] = "Hyjal",
-		["ID"] = 61336,
-		["maxLevel"] = 60,
-		["minLevel"] = 58,
-	},
-	[723] = {
+	[775] = {
 		["Name"] = "Greathorn Owl",
 		["Zone"] = "Winterspring",
 		["ID"] = 61336,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[724] = {
+	[776] = {
+		["Name"] = "Greathorn Owl",
+		["Zone"] = "Hyjal",
+		["ID"] = 61336,
+		["minLevel"] = 58,
+		["maxLevel"] = 60,
+	},
+	[777] = {
 		["Name"] = "Greely",
 		["Zone"] = "Durotar",
 		["ID"] = 80132,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[725] = {
+	[778] = {
 		["Name"] = "Green Rocket Car",
 		["Zone"] = "Durotar",
 		["ID"] = 80302,
-		["maxLevel"] = 2,
 		["minLevel"] = 2,
+		["maxLevel"] = 2,
 	},
-	[726] = {
+	[779] = {
 		["Name"] = "Greenix Oiljuices",
 		["Zone"] = "Tanaris",
 		["ID"] = 50534,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[727] = {
+	[780] = {
 		["Name"] = "Grellkin Channeler",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61197,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[728] = {
+	[781] = {
 		["Name"] = "Grellkin Primalist",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61196,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[729] = {
+	[782] = {
 		["Name"] = "Grellkin Shadow Weaver",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61195,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[730] = {
+	[783] = {
 		["Name"] = "Grenthar",
 		["Zone"] = "The Barrens",
 		["ID"] = 3431,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[731] = {
+	[784] = {
 		["Name"] = "Greshka",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 12807,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[732] = {
+	[785] = {
 		["Name"] = "Grethok the Controller",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 12557,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[733] = {
+	[786] = {
 		["Name"] = "Grezz Ragefist",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3353,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[734] = {
+	[787] = {
 		["Name"] = "Grimble",
 		["Zone"] = "The Barrens",
 		["ID"] = 9558,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[735] = {
+	[788] = {
 		["Name"] = "Grimestack",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 10060,
 		["minLevel"] = 46,
 		["maxLevel"] = 46,
 	},
-	[736] = {
+	[789] = {
 		["Name"] = "Grimm Onearm",
 		["Zone"] = "Durotar",
 		["ID"] = 91275,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[737] = {
+	[790] = {
 		["Name"] = "Grimnal",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 980,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[738] = {
+	[791] = {
 		["Name"] = "Grimtak",
 		["Zone"] = "Durotar",
 		["ID"] = 3881,
-		["maxLevel"] = 14,
 		["minLevel"] = 14,
+		["maxLevel"] = 14,
 	},
-	[739] = {
+	[792] = {
 		["Name"] = "Grimtotem Mercenary",
 		["Zone"] = "The Barrens",
 		["ID"] = 11911,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[740] = {
+	[793] = {
 		["Name"] = "Grimtotem Ruffian",
 		["Zone"] = "Stonetalon Mountains",
 		["ID"] = 11910,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[741] = {
+	[794] = {
 		["Name"] = "Gringer",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2858,
 		["minLevel"] = 55,
 		["maxLevel"] = 55,
 	},
-	[742] = {
+	[795] = {
 		["Name"] = "Grinning Dog",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 11871,
-		["maxLevel"] = 48,
 		["minLevel"] = 48,
+		["maxLevel"] = 48,
 	},
-	[743] = {
+	[796] = {
 		["Name"] = "Grish Longrunner",
 		["Zone"] = "The Barrens",
 		["ID"] = 12576,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[744] = {
+	[797] = {
 		["Name"] = "Grish Longrunner",
 		["Zone"] = "Thousand Needles",
 		["ID"] = 12576,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[745] = {
+	[798] = {
 		["Name"] = "Grizikil",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61224,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[746] = {
+	[799] = {
 		["Name"] = "Grizzlowe",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 9559,
 		["minLevel"] = 45,
 		["maxLevel"] = 45,
 	},
-	[747] = {
+	[800] = {
+		["Name"] = "Grizzo Greasecomb",
+		["Zone"] = "Orgrimmar",
+		["ID"] = 50054,
+		["minLevel"] = 20,
+		["maxLevel"] = 20,
+	},
+	[801] = {
 		["Name"] = "Grobbulus",
 		["Zone"] = "Naxxramas",
 		["ID"] = 15931,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[748] = {
+	[802] = {
 		["Name"] = "Grod",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3093,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[749] = {
+	[803] = {
 		["Name"] = "Grol the Destroyer",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 7665,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[750] = {
+	[804] = {
 		["Name"] = "Grol'dar",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3324,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[751] = {
+	[805] = {
 		["Name"] = "Groum Stonebeard",
 		["Zone"] = "Ironforge",
 		["ID"] = 10277,
 		["minLevel"] = 25,
 		["maxLevel"] = 25,
 	},
-	[752] = {
+	[806] = {
 		["Name"] = "Grub",
 		["Zone"] = "The Barrens",
 		["ID"] = 3443,
-		["maxLevel"] = 13,
 		["minLevel"] = 13,
+		["maxLevel"] = 13,
 	},
-	[753] = {
+	[807] = {
 		["Name"] = "Grubgar",
 		["Zone"] = "Durotar",
 		["ID"] = 60510,
 		["maxLevel"] = 12,
 		["minLevel"] = 12,
 	},
-	[754] = {
+	[808] = {
 		["Name"] = "Gruk",
 		["Zone"] = "The Barrens",
 		["ID"] = 14850,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[755] = {
+	[809] = {
 		["Name"] = "Grumnus Steelshaper",
 		["Zone"] = "Ironforge",
 		["ID"] = 5164,
 		["minLevel"] = 60,
 		["maxLevel"] = 60,
 	},
-	[756] = {
+	[810] = {
 		["Name"] = "Grunt",
 		["Zone"] = "The Barrens",
 		["ID"] = 51622,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[757] = {
+	[811] = {
 		["Name"] = "Grunt Dogran",
 		["Zone"] = "The Barrens",
 		["ID"] = 5908,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
-	[758] = {
+	[812] = {
 		["Name"] = "Grunt Karg",
 		["Zone"] = "Durotar",
 		["ID"] = 91251,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
-	[759] = {
+	[813] = {
 		["Name"] = "Grunt Komak",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5597,
-		["maxLevel"] = 38,
 		["minLevel"] = 38,
+		["maxLevel"] = 38,
 	},
-	[760] = {
+	[814] = {
 		["Name"] = "Grunt Logmar",
 		["Zone"] = "The Barrens",
 		["ID"] = 5911,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
-	[761] = {
+	[815] = {
 		["Name"] = "Grunt Tharlak",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 5547,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[762] = {
+	[816] = {
 		["Name"] = "Grunt Zuul",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 5546,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[763] = {
+	[817] = {
+		["Name"] = "Gryfe",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 10583,
+		["minLevel"] = 55,
+		["maxLevel"] = 55,
+	},
+	[818] = {
 		["Name"] = "Gryth Thurden",
 		["Zone"] = "Ironforge",
 		["ID"] = 1573,
 		["minLevel"] = 55,
 		["maxLevel"] = 55,
 	},
-	[764] = {
+	[819] = {
 		["Name"] = "Guard Kurall",
 		["Zone"] = "The Barrens",
 		["ID"] = 14893,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[765] = {
+	[820] = {
 		["Name"] = "Guard Taruc",
 		["Zone"] = "The Barrens",
 		["ID"] = 14859,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[766] = {
+	[821] = {
 		["Name"] = "Guardian of Icecrown",
 		["Zone"] = "The Upper Necropolis",
 		["ID"] = 16441,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[767] = {
+	[822] = {
 		["Name"] = "Gurda Ragescar",
 		["Zone"] = "Ashenvale",
 		["ID"] = 12718,
 		["maxLevel"] = 30,
 		["minLevel"] = 30,
 	},
-	[768] = {
+	[823] = {
 		["Name"] = "Gurky",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 16069,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[769] = {
+	[824] = {
 		["Name"] = "Gurky",
 		["Zone"] = "Ironforge",
 		["ID"] = 16069,
 		["minLevel"] = 1,
 		["maxLevel"] = 1,
 	},
-	[770] = {
+	[825] = {
 		["Name"] = "Gusting Vortex",
 		["Zone"] = "Tanaris",
 		["ID"] = 8667,
-		["maxLevel"] = 45,
 		["minLevel"] = 43,
+		["maxLevel"] = 45,
 	},
-	[771] = {
+	[826] = {
 		["Name"] = "Guthrum Thunderfist",
 		["Zone"] = "The Hinterlands",
 		["ID"] = 8018,
 		["minLevel"] = 55,
 		["maxLevel"] = 55,
 	},
-	[772] = {
+	[827] = {
 		["Name"] = "Gwina Stonebranch",
 		["Zone"] = "Ironforge",
 		["ID"] = 5138,
 		["minLevel"] = 30,
 		["maxLevel"] = 30,
 	},
-	[773] = {
+	[828] = {
 		["Name"] = "Gyll",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2859,
 		["minLevel"] = 55,
 		["maxLevel"] = 55,
 	},
-	[774] = {
+	[829] = {
 		["Name"] = "Hagg Taurenbane",
 		["Zone"] = "The Barrens",
 		["ID"] = 5859,
-		["maxLevel"] = 26,
 		["minLevel"] = 26,
+		["maxLevel"] = 26,
 	},
-	[775] = {
+	[830] = {
 		["Name"] = "Hagrus",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3335,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[776] = {
+	[831] = {
 		["Name"] = "Hal'dah Plainsguard",
 		["Zone"] = "The Barrens",
 		["ID"] = 92221,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[777] = {
+	[832] = {
 		["Name"] = "Halija Whitestrider",
 		["Zone"] = "The Barrens",
 		["ID"] = 3486,
-		["maxLevel"] = 19,
 		["minLevel"] = 19,
+		["maxLevel"] = 19,
 	},
-	[778] = {
+	[833] = {
 		["Name"] = "Hammerfall Grunt",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2619,
-		["maxLevel"] = 35,
 		["minLevel"] = 34,
+		["maxLevel"] = 35,
 	},
-	[779] = {
+	[834] = {
 		["Name"] = "Hammerfall Peon",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2618,
-		["maxLevel"] = 34,
 		["minLevel"] = 33,
+		["maxLevel"] = 34,
 	},
-	[780] = {
+	[835] = {
 		["Name"] = "Hammon Karwn",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2810,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[781] = {
+	[836] = {
 		["Name"] = "Hana'zua",
 		["Zone"] = "Durotar",
 		["ID"] = 3287,
-		["maxLevel"] = 2,
 		["minLevel"] = 2,
+		["maxLevel"] = 2,
 	},
-	[782] = {
+	[837] = {
 		["Name"] = "Hanashi",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 2704,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[783] = {
+	[838] = {
 		["Name"] = "Handor",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3316,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[784] = {
+	[839] = {
 		["Name"] = "Hangman Glix",
 		["Zone"] = "Durotar",
 		["ID"] = 91239,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[785] = {
+	[840] = {
 		["Name"] = "Hansu Go'sha",
 		["Zone"] = "Tanaris",
 		["ID"] = 60856,
-		["maxLevel"] = 42,
 		["minLevel"] = 42,
+		["maxLevel"] = 42,
 	},
-	[786] = {
+	[841] = {
 		["Name"] = "Hare",
 		["Zone"] = "Durotar",
 		["ID"] = 5951,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[787] = {
+	[842] = {
 		["Name"] = "Haren Kanmae",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2839,
 		["maxLevel"] = 41,
 		["minLevel"] = 41,
 	},
-	[788] = {
+	[843] = {
 		["Name"] = "Hargosh",
 		["Zone"] = "Durotar",
 		["ID"] = 91227,
-		["maxLevel"] = 13,
 		["minLevel"] = 13,
+		["maxLevel"] = 13,
 	},
-	[789] = {
+	[844] = {
 		["Name"] = "Harroc",
 		["Zone"] = "Durotar",
 		["ID"] = 6607,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
+		["maxLevel"] = 5,
 	},
-	[790] = {
+	[845] = {
 		["Name"] = "Harruk",
 		["Zone"] = "Durotar",
 		["ID"] = 3620,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[791] = {
+	[846] = {
 		["Name"] = "Hartash",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 981,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[792] = {
+	[847] = {
 		["Name"] = "Haughty Modiste",
 		["Zone"] = "Tanaris",
 		["ID"] = 15165,
-		["maxLevel"] = 51,
 		["minLevel"] = 51,
+		["maxLevel"] = 51,
 	},
-	[793] = {
+	[848] = {
 		["Name"] = "Haunted Blacksmith",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61202,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[794] = {
+	[849] = {
 		["Name"] = "Haunted Stable Tender",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61201,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[795] = {
+	[850] = {
 		["Name"] = "Hawk Owl",
 		["Zone"] = "Darnassus",
 		["ID"] = 7555,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[796] = {
+	[851] = {
 		["Name"] = "Hazzali Stinger",
 		["Zone"] = "Tanaris",
 		["ID"] = 5450,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[797] = {
+	[852] = {
 		["Name"] = "Hazzali Swarmer",
 		["Zone"] = "Tanaris",
 		["ID"] = 5451,
-		["maxLevel"] = 50,
 		["minLevel"] = 49,
+		["maxLevel"] = 50,
 	},
-	[798] = {
+	[853] = {
 		["Name"] = "Hazzali Wasp",
 		["Zone"] = "Tanaris",
 		["ID"] = 5441,
-		["maxLevel"] = 48,
 		["minLevel"] = 47,
+		["maxLevel"] = 48,
 	},
-	[799] = {
+	[854] = {
 		["Name"] = "Hecht Copperpinch",
 		["Zone"] = "The Barrens",
 		["ID"] = 14964,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[800] = {
+	[855] = {
 		["Name"] = "Hecklefang Hyena",
 		["Zone"] = "The Barrens",
 		["ID"] = 4127,
-		["maxLevel"] = 16,
 		["minLevel"] = 15,
+		["maxLevel"] = 16,
 	},
-	[801] = {
+	[856] = {
 		["Name"] = "Hecklefang Snarler",
 		["Zone"] = "The Barrens",
 		["ID"] = 4129,
-		["maxLevel"] = 19,
 		["minLevel"] = 18,
+		["maxLevel"] = 19,
 	},
-	[802] = {
+	[857] = {
 		["Name"] = "Hecklefang Stalker",
 		["Zone"] = "The Barrens",
 		["ID"] = 4128,
-		["maxLevel"] = 23,
 		["minLevel"] = 22,
+		["maxLevel"] = 23,
 	},
-	[803] = {
+	[858] = {
 		["Name"] = "Heggin Stonewhisker",
 		["Zone"] = "The Barrens",
 		["ID"] = 5847,
-		["maxLevel"] = 24,
 		["minLevel"] = 24,
+		["maxLevel"] = 24,
 	},
-	[804] = {
+	[859] = {
 		["Name"] = "Heigan the Unclean",
 		["Zone"] = "Naxxramas",
 		["ID"] = 15936,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[805] = {
+	[860] = {
 		["Name"] = "Helboar",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 5993,
-		["maxLevel"] = 53,
 		["minLevel"] = 52,
+		["maxLevel"] = 53,
 	},
-	[806] = {
+	[861] = {
 		["Name"] = "Helgrum the Swift",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 1442,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[807] = {
+	[862] = {
 		["Name"] = "Hemming Silverbeard",
 		["Zone"] = "Ironforge",
 		["ID"] = 80952,
 		["minLevel"] = 11,
 		["maxLevel"] = 11,
 	},
-	[808] = {
+	[863] = {
 		["Name"] = "Herald Moonstalker",
 		["Zone"] = "Darnassus",
 		["ID"] = 10878,
-		["maxLevel"] = 3,
 		["minLevel"] = 3,
+		["maxLevel"] = 3,
 	},
-	[809] = {
+	[864] = {
+		["Name"] = "Heroic Training Dummy",
+		["Zone"] = "Dustwallow Marsh",
+		["ID"] = 50514,
+		["minLevel"] = -1,
+		["maxLevel"] = -1,
+	},
+	[865] = {
+		["Name"] = "Heroic Training Dummy",
+		["Zone"] = "Darnassus",
+		["ID"] = 50514,
+		["minLevel"] = -1,
+		["maxLevel"] = -1,
+	},
+	[866] = {
+		["Name"] = "Heroic Training Dummy",
+		["Zone"] = "Orgrimmar",
+		["ID"] = 50514,
+		["minLevel"] = -1,
+		["maxLevel"] = -1,
+	},
+	[867] = {
 		["Name"] = "Heroic Training Dummy",
 		["Zone"] = "Ironforge",
 		["ID"] = 50514,
 		["minLevel"] = -1,
 		["maxLevel"] = -1,
 	},
-	[810] = {
-		["Name"] = "Heroic Training Dummy",
-		["Zone"] = "Darnassus",
-		["ID"] = 50514,
-		["maxLevel"] = -1,
-		["minLevel"] = -1,
-	},
-	[811] = {
-		["Name"] = "Heroic Training Dummy",
-		["Zone"] = "Orgrimmar",
-		["ID"] = 50514,
-		["maxLevel"] = -1,
-		["minLevel"] = -1,
-	},
-	[812] = {
+	[868] = {
 		["Name"] = "Herrina",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 51291,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[813] = {
+	[869] = {
 		["Name"] = "Hewa",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 8358,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[814] = {
+	[870] = {
 		["Name"] = "Hexed Troll",
 		["Zone"] = "Durotar",
 		["ID"] = 3207,
-		["maxLevel"] = 9,
 		["minLevel"] = 8,
+		["maxLevel"] = 9,
 	},
-	[815] = {
+	[871] = {
 		["Name"] = "Hezrul Bloodmark",
 		["Zone"] = "The Barrens",
 		["ID"] = 3396,
-		["maxLevel"] = 19,
 		["minLevel"] = 19,
+		["maxLevel"] = 19,
 	},
-	[816] = {
+	[872] = {
 		["Name"] = "High Elf Child",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 80236,
 		["maxLevel"] = 5,
 		["minLevel"] = 5,
 	},
-	[817] = {
+	[873] = {
 		["Name"] = "High Elf Ranger",
 		["Zone"] = "Ironforge",
 		["ID"] = 80230,
 		["minLevel"] = 47,
 		["maxLevel"] = 47,
 	},
-	[818] = {
+	[874] = {
 		["Name"] = "High Elf Refugee",
 		["Zone"] = "Thalassian Highlands",
 		["ID"] = 80208,
 		["maxLevel"] = 5,
 		["minLevel"] = 5,
 	},
-	[819] = {
+	[875] = {
 		["Name"] = "High Elf Refugee",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 80208,
 		["maxLevel"] = 5,
 		["minLevel"] = 5,
 	},
-	[820] = {
+	[876] = {
 		["Name"] = "High Executor Derrington",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 10837,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[821] = {
+	[877] = {
 		["Name"] = "High Overlord Saurfang",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 14720,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[822] = {
+	[878] = {
 		["Name"] = "Highland Strider",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2559,
-		["maxLevel"] = 31,
 		["minLevel"] = 30,
+		["maxLevel"] = 31,
 	},
-	[823] = {
+	[879] = {
 		["Name"] = "Highlord Mograine",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16062,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[824] = {
+	[880] = {
+		["Name"] = "Highvale Marksman",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 2693,
+		["minLevel"] = 45,
+		["maxLevel"] = 46,
+	},
+	[881] = {
+		["Name"] = "Highvale Outrunner",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 2691,
+		["minLevel"] = 43,
+		["maxLevel"] = 44,
+	},
+	[882] = {
+		["Name"] = "Highvale Ranger",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 2694,
+		["minLevel"] = 46,
+		["maxLevel"] = 47,
+	},
+	[883] = {
+		["Name"] = "Highvale Scout",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 2692,
+		["minLevel"] = 44,
+		["maxLevel"] = 45,
+	},
+	[884] = {
+		["Name"] = "Hinterlands Eagle",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 80816,
+		["minLevel"] = 35,
+		["maxLevel"] = 40,
+	},
+	[885] = {
 		["Name"] = "Hiz Boltmuck",
 		["Zone"] = "Durotar",
 		["ID"] = 91261,
-		["maxLevel"] = 6,
 		["minLevel"] = 6,
+		["maxLevel"] = 6,
 	},
-	[825] = {
+	[886] = {
 		["Name"] = "Hizzle",
 		["Zone"] = "Durotar",
 		["ID"] = 91249,
-		["maxLevel"] = 14,
 		["minLevel"] = 14,
+		["maxLevel"] = 14,
 	},
-	[826] = {
+	[887] = {
 		["Name"] = "Hogor Thunderhoof",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3018,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[827] = {
+	[888] = {
+		["Name"] = "Hol'anyee Marshal",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9271,
+		["minLevel"] = 45,
+		["maxLevel"] = 45,
+	},
+	[889] = {
 		["Name"] = "Holgar Stormaxe",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 4311,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[828] = {
+	[890] = {
 		["Name"] = "Holgar Stormaxe",
 		["Zone"] = "Durotar",
 		["ID"] = 4311,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[829] = {
+	[891] = {
 		["Name"] = "Homing Robot OOX-17/TN",
 		["Zone"] = "Tanaris",
 		["ID"] = 7784,
-		["maxLevel"] = 42,
 		["minLevel"] = 42,
+		["maxLevel"] = 42,
 	},
-	[830] = {
+	[892] = {
 		["Name"] = "Honor Guard",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3083,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[831] = {
+	[893] = {
 		["Name"] = "Horde Axe Thrower",
 		["Zone"] = "The Barrens",
 		["ID"] = 9458,
-		["maxLevel"] = 16,
 		["minLevel"] = 15,
+		["maxLevel"] = 16,
 	},
-	[832] = {
+	[894] = {
 		["Name"] = "Horde Defender",
 		["Zone"] = "The Barrens",
 		["ID"] = 9457,
-		["maxLevel"] = 20,
 		["minLevel"] = 15,
+		["maxLevel"] = 20,
 	},
-	[833] = {
+	[895] = {
 		["Name"] = "Horde Deforester",
 		["Zone"] = "Ashenvale",
 		["ID"] = 11681,
 		["maxLevel"] = 27,
 		["minLevel"] = 27,
 	},
-	[834] = {
+	[896] = {
 		["Name"] = "Horde Elite",
 		["Zone"] = "The Barrens",
 		["ID"] = 14717,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[835] = {
+	[897] = {
 		["Name"] = "Horde Guard",
 		["Zone"] = "The Barrens",
 		["ID"] = 3501,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[836] = {
+	[898] = {
 		["Name"] = "Horde Laborer",
 		["Zone"] = "The Barrens",
 		["ID"] = 14718,
-		["maxLevel"] = 27,
 		["minLevel"] = 26,
+		["maxLevel"] = 27,
 	},
-	[837] = {
+	[899] = {
 		["Name"] = "Horde Orphan",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 14499,
-		["maxLevel"] = 3,
 		["minLevel"] = 1,
+		["maxLevel"] = 3,
 	},
-	[838] = {
+	[900] = {
 		["Name"] = "Horde Peon",
 		["Zone"] = "Ashenvale",
 		["ID"] = 11656,
 		["maxLevel"] = 27,
 		["minLevel"] = 27,
 	},
-	[839] = {
+	[901] = {
 		["Name"] = "Horde Scout",
 		["Zone"] = "Ashenvale",
 		["ID"] = 11680,
 		["maxLevel"] = 28,
 		["minLevel"] = 26,
 	},
-	[840] = {
+	[902] = {
 		["Name"] = "Horde Warbringer",
 		["Zone"] = "The Barrens",
 		["ID"] = 15350,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[841] = {
+	[903] = {
 		["Name"] = "Horde Warbringer",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 15350,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[842] = {
+	[904] = {
+		["Name"] = "Horthus",
+		["Zone"] = "Orgrimmar",
+		["ID"] = 3323,
+		["minLevel"] = 30,
+		["maxLevel"] = 30,
+	},
+	[905] = {
 		["Name"] = "Hragran",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 1147,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[843] = {
+	[906] = {
 		["Name"] = "Hraq",
 		["Zone"] = "The Barrens",
 		["ID"] = 3477,
-		["maxLevel"] = 18,
 		["minLevel"] = 18,
+		["maxLevel"] = 18,
 	},
-	[844] = {
+	[907] = {
 		["Name"] = "Hraug",
 		["Zone"] = "Durotar",
 		["ID"] = 12776,
-		["maxLevel"] = 9,
 		["minLevel"] = 9,
+		["maxLevel"] = 9,
 	},
-	[845] = {
+	[908] = {
 		["Name"] = "Huklah",
 		["Zone"] = "Durotar",
 		["ID"] = 3160,
-		["maxLevel"] = 11,
 		["minLevel"] = 11,
+		["maxLevel"] = 11,
 	},
-	[846] = {
+	[909] = {
 		["Name"] = "Hula'mahi",
 		["Zone"] = "The Barrens",
 		["ID"] = 3490,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[847] = {
+	[910] = {
 		["Name"] = "Hulking Mountain Lion",
 		["Zone"] = "Alterac Mountains",
 		["ID"] = 2407,
-		["maxLevel"] = 34,
 		["minLevel"] = 33,
+		["maxLevel"] = 34,
 	},
-	[848] = {
+	[911] = {
 		["Name"] = "Hunter Ragetotem",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 14441,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[849] = {
+	[912] = {
 		["Name"] = "Hunter Sagewind",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 14440,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[850] = {
+	[913] = {
 		["Name"] = "Hunter Thunderhorn",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 14442,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[851] = {
+	[914] = {
 		["Name"] = "Huntress Leafrunner",
 		["Zone"] = "Darnassus",
 		["ID"] = 14380,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[852] = {
+	[915] = {
 		["Name"] = "Huntress Ravenoak",
 		["Zone"] = "Darnassus",
 		["ID"] = 14379,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[853] = {
+	[916] = {
 		["Name"] = "Huntress Skymane",
 		["Zone"] = "Darnassus",
 		["ID"] = 14378,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[854] = {
+	[917] = {
+		["Name"] = "Huntsman Leopold",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 16132,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[918] = {
 		["Name"] = "Hydromancer Velratha",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7795,
-		["maxLevel"] = 46,
 		["minLevel"] = 46,
+		["maxLevel"] = 46,
 	},
-	[855] = {
+	[919] = {
 		["Name"] = "Ian Strom",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 1411,
 		["minLevel"] = 47,
 		["maxLevel"] = 47,
 	},
-	[856] = {
+	[920] = {
 		["Name"] = "Ice Claw Bear",
 		["Zone"] = "Dun Morogh",
 		["ID"] = 1196,
 		["minLevel"] = 8,
 		["maxLevel"] = 8,
 	},
-	[857] = {
+	[921] = {
 		["Name"] = "Idriana",
 		["Zone"] = "Darnassus",
 		["ID"] = 4155,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[858] = {
+	[922] = {
 		["Name"] = "Illusion of Jandice Barov",
 		["Zone"] = "Scholomance",
 		["ID"] = 11439,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[859] = {
+	[923] = {
 		["Name"] = "Ilsa Hollowstar",
 		["Zone"] = "Hyjal",
 		["ID"] = 61522,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[860] = {
+	[924] = {
 		["Name"] = "Ilyenia Moonfire",
 		["Zone"] = "Darnassus",
 		["ID"] = 11866,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[861] = {
+	[925] = {
 		["Name"] = "Image of Sorcerer-Thane Thaurissan",
 		["Zone"] = "Molten Core",
 		["ID"] = 57643,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[862] = {
+	[926] = {
 		["Name"] = "Imp Minion",
 		["Zone"] = "Durotar",
 		["ID"] = 12922,
-		["maxLevel"] = 11,
 		["minLevel"] = 10,
+		["maxLevel"] = 11,
 	},
-	[863] = {
+	[927] = {
 		["Name"] = "Imp Minion",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 12922,
-		["Owner"] = "Bloodsail Warlock",
-		["minLevel"] = 41,
 		["maxLevel"] = 43,
+		["minLevel"] = 41,
 	},
-	[864] = {
+	[928] = {
 		["Name"] = "Incindis",
 		["Zone"] = "Molten Core",
 		["ID"] = 52145,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[865] = {
+	[929] = {
 		["Name"] = "Infected Deer",
 		["Zone"] = "Western Plaguelands",
 		["ID"] = 10780,
 		["minLevel"] = 5,
 		["maxLevel"] = 5,
 	},
-	[866] = {
+	[930] = {
 		["Name"] = "Infected Squirrel",
 		["Zone"] = "Western Plaguelands",
 		["ID"] = 10779,
 		["minLevel"] = 1,
 		["maxLevel"] = 1,
 	},
-	[867] = {
+	[931] = {
 		["Name"] = "Infectious Ghoul",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16244,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[868] = {
+	[932] = {
 		["Name"] = "Infectious Skitterer",
 		["Zone"] = "Naxxramas",
 		["ID"] = 15977,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[869] = {
+	[933] = {
 		["Name"] = "Infernal",
 		["Zone"] = "Naxxramas",
 		["ID"] = 89,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[870] = {
+	[934] = {
 		["Name"] = "Infiltrator Marksen",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 5416,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[871] = {
+	[935] = {
 		["Name"] = "Innkeeper Boorand Plainswind",
 		["Zone"] = "The Barrens",
 		["ID"] = 3934,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[872] = {
+	[936] = {
 		["Name"] = "Innkeeper Byula",
 		["Zone"] = "The Barrens",
 		["ID"] = 7714,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[873] = {
+	[937] = {
 		["Name"] = "Innkeeper Fizzgrimble",
 		["Zone"] = "Tanaris",
 		["ID"] = 7733,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[874] = {
+	[938] = {
 		["Name"] = "Innkeeper Grosk",
 		["Zone"] = "Durotar",
 		["ID"] = 6928,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[875] = {
+	[939] = {
 		["Name"] = "Innkeeper Gryshka",
 		["Zone"] = "The Upper Necropolis",
 		["ID"] = 6929,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[876] = {
+	[940] = {
+		["Name"] = "Innkeeper Gryshka",
+		["Zone"] = "Scholomance",
+		["ID"] = 6929,
+		["minLevel"] = 30,
+		["maxLevel"] = 30,
+	},
+	[941] = {
 		["Name"] = "Innkeeper Gryshka",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 6929,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[877] = {
+	[942] = {
 		["Name"] = "Innkeeper Pala",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 6746,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[878] = {
+	[943] = {
 		["Name"] = "Innkeeper Saelienne",
 		["Zone"] = "Darnassus",
 		["ID"] = 6735,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[879] = {
+	[944] = {
 		["Name"] = "Innkeeper Skindle",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 6807,
 		["minLevel"] = 46,
 		["maxLevel"] = 46,
 	},
-	[880] = {
+	[945] = {
 		["Name"] = "Innkeeper Wiley",
 		["Zone"] = "The Barrens",
 		["ID"] = 6791,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[881] = {
+	[946] = {
 		["Name"] = "Instructor Malicia",
 		["Zone"] = "Scholomance",
 		["ID"] = 10505,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[882] = {
+	[947] = {
 		["Name"] = "Instructor Razuvious",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16061,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[883] = {
+	[948] = {
 		["Name"] = "Ironforge Guard",
 		["Zone"] = "Ironforge",
 		["ID"] = 5595,
 		["minLevel"] = 55,
 		["maxLevel"] = 55,
 	},
-	[884] = {
+	[949] = {
 		["Name"] = "Ironforge Mountaineer",
 		["Zone"] = "Dun Morogh",
 		["ID"] = 727,
 		["minLevel"] = 30,
 		["maxLevel"] = 30,
 	},
-	[885] = {
+	[950] = {
+		["Name"] = "Ironfur Bear",
+		["Zone"] = "Feralas",
+		["ID"] = 5268,
+		["minLevel"] = 41,
+		["maxLevel"] = 42,
+	},
+	[951] = {
+		["Name"] = "Ironhide Devilsaur",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6499,
+		["minLevel"] = 54,
+		["maxLevel"] = 56,
+	},
+	[952] = {
 		["Name"] = "Ironpatch",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2547,
-		["minLevel"] = 43,
 		["maxLevel"] = 43,
+		["minLevel"] = 43,
 	},
-	[886] = {
+	[953] = {
 		["Name"] = "Ironus Coldsteel",
 		["Zone"] = "Ironforge",
 		["ID"] = 11146,
 		["minLevel"] = 54,
 		["maxLevel"] = 54,
 	},
-	[887] = {
+	[954] = {
 		["Name"] = "Ironzar",
 		["Zone"] = "The Barrens",
 		["ID"] = 3491,
-		["maxLevel"] = 23,
 		["minLevel"] = 23,
+		["maxLevel"] = 23,
 	},
-	[888] = {
+	[955] = {
 		["Name"] = "Isilan Bearmane",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61873,
 		["maxLevel"] = 45,
 		["minLevel"] = 45,
 	},
-	[889] = {
-		["Name"] = "Ivory Hawkstrider",
-		["Zone"] = "Alah'Thalas",
-		["ID"] = 61695,
-		["maxLevel"] = 7,
-		["minLevel"] = 5,
-	},
-	[890] = {
+	[956] = {
 		["Name"] = "Ivory Hawkstrider",
 		["Zone"] = "Thalassian Highlands",
 		["ID"] = 61695,
 		["maxLevel"] = 6,
 		["minLevel"] = 5,
 	},
-	[891] = {
+	[957] = {
+		["Name"] = "Ivory Hawkstrider",
+		["Zone"] = "Alah'Thalas",
+		["ID"] = 61695,
+		["maxLevel"] = 7,
+		["minLevel"] = 5,
+	},
+	[958] = {
 		["Name"] = "Izzy Gearfuse",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 50540,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[892] = {
+	[959] = {
+		["Name"] = "J.D. Collie",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9117,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[960] = {
 		["Name"] = "Jabbey",
 		["Zone"] = "Tanaris",
 		["ID"] = 8139,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[893] = {
+	[961] = {
 		["Name"] = "Jaeana",
 		["Zone"] = "Darnassus",
 		["ID"] = 4169,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[894] = {
+	[962] = {
 		["Name"] = "Jaguero Stalker",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2522,
 		["maxLevel"] = 50,
 		["minLevel"] = 50,
 	},
-	[895] = {
+	[963] = {
 		["Name"] = "Jahan Hawkwing",
 		["Zone"] = "The Barrens",
 		["ID"] = 3483,
-		["maxLevel"] = 21,
 		["minLevel"] = 21,
+		["maxLevel"] = 21,
 	},
-	[896] = {
+	[964] = {
 		["Name"] = "Jailor Borhuin",
 		["Zone"] = "Alterac Mountains",
 		["ID"] = 2431,
-		["maxLevel"] = 37,
 		["minLevel"] = 37,
+		["maxLevel"] = 37,
 	},
-	[897] = {
+	[965] = {
 		["Name"] = "Jailor Eston",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 2427,
 		["minLevel"] = 24,
 		["maxLevel"] = 24,
 	},
-	[898] = {
+	[966] = {
+		["Name"] = "Jailor Marlgen",
+		["Zone"] = "Hillsbrad Foothills",
+		["ID"] = 2428,
+		["minLevel"] = 24,
+		["maxLevel"] = 24,
+	},
+	[967] = {
 		["Name"] = "Jaiymu",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 60761,
-		["maxLevel"] = 54,
 		["minLevel"] = 54,
+		["maxLevel"] = 54,
 	},
-	[899] = {
+	[968] = {
+		["Name"] = "Jama'nali",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 62700,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[969] = {
 		["Name"] = "Jancel Stardust",
 		["Zone"] = "Hyjal",
 		["ID"] = 61492,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[900] = {
+	[970] = {
+		["Name"] = "Jandi",
+		["Zone"] = "Orgrimmar",
+		["ID"] = 3404,
+		["minLevel"] = 35,
+		["maxLevel"] = 35,
+	},
+	[971] = {
 		["Name"] = "Jandice Barov",
 		["Zone"] = "Scholomance",
 		["ID"] = 10503,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[901] = {
+	[972] = {
 		["Name"] = "Jandria",
 		["Zone"] = "Darnassus",
 		["ID"] = 4091,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[902] = {
+	[973] = {
 		["Name"] = "Jang",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 15078,
 		["maxLevel"] = 50,
 		["minLevel"] = 50,
 	},
-	[903] = {
+	[974] = {
 		["Name"] = "Jannos Ironwill",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 1471,
-		["maxLevel"] = 46,
 		["minLevel"] = 46,
+		["maxLevel"] = 46,
 	},
-	[904] = {
+	[975] = {
 		["Name"] = "Jareth Wildwoods",
 		["Zone"] = "Darnassus",
 		["ID"] = 11709,
-		["maxLevel"] = 16,
 		["minLevel"] = 16,
+		["maxLevel"] = 16,
 	},
-	[905] = {
+	[976] = {
 		["Name"] = "Jark",
 		["Zone"] = "Durotar",
 		["ID"] = 3164,
-		["maxLevel"] = 14,
 		["minLevel"] = 14,
+		["maxLevel"] = 14,
 	},
-	[906] = {
+	[977] = {
 		["Name"] = "Jarrodenus",
 		["Zone"] = "Azshara",
 		["ID"] = 12577,
 		["maxLevel"] = 55,
 		["minLevel"] = 55,
 	},
-	[907] = {
+	[978] = {
 		["Name"] = "Jartsam",
 		["Zone"] = "Darnassus",
 		["ID"] = 4753,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[908] = {
+	[979] = {
+		["Name"] = "Jarund Stoutstrider",
+		["Zone"] = "Silithus",
+		["ID"] = 11805,
+		["minLevel"] = 55,
+		["maxLevel"] = 55,
+	},
+	[980] = {
+		["Name"] = "Jase Farlane",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 12941,
+		["minLevel"] = 56,
+		["maxLevel"] = 56,
+	},
+	[981] = {
 		["Name"] = "Jazzik",
 		["Zone"] = "The Barrens",
 		["ID"] = 8496,
-		["maxLevel"] = 22,
 		["minLevel"] = 22,
+		["maxLevel"] = 22,
 	},
-	[909] = {
+	[982] = {
 		["Name"] = "Jen'shan",
 		["Zone"] = "Durotar",
 		["ID"] = 3154,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[910] = {
+	[983] = {
 		["Name"] = "Jergosh the Invoker",
 		["Zone"] = "Ragefire Chasm",
 		["ID"] = 11518,
-		["maxLevel"] = 16,
 		["minLevel"] = 16,
+		["maxLevel"] = 16,
 	},
-	[911] = {
+	[984] = {
+		["Name"] = "Jessica Chambers",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 16256,
+		["minLevel"] = 52,
+		["maxLevel"] = 52,
+	},
+	[985] = {
 		["Name"] = "Jhag",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 11066,
-		["maxLevel"] = 26,
 		["minLevel"] = 26,
+		["maxLevel"] = 26,
 	},
-	[912] = {
+	[986] = {
 		["Name"] = "Jhordy Lapforge",
 		["Zone"] = "Tanaris",
 		["ID"] = 14743,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[913] = {
+	[987] = {
 		["Name"] = "Jim'bala",
 		["Zone"] = "Durotar",
 		["ID"] = 61633,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
-	[914] = {
+	[988] = {
 		["Name"] = "Jin'sora",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3410,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[915] = {
+	[989] = {
+		["Name"] = "John Smith",
+		["Zone"] = "Alterac Mountains",
+		["ID"] = 80956,
+		["minLevel"] = 11,
+		["maxLevel"] = 11,
+	},
+	[990] = {
 		["Name"] = "John Turner",
 		["Zone"] = "Ironforge",
 		["ID"] = 6175,
 		["minLevel"] = 8,
 		["maxLevel"] = 8,
 	},
-	[916] = {
+	[991] = {
 		["Name"] = "Jorb",
 		["Zone"] = "The Barrens",
 		["ID"] = 3659,
-		["maxLevel"] = 37,
 		["minLevel"] = 37,
+		["maxLevel"] = 37,
 	},
-	[917] = {
+	[992] = {
 		["Name"] = "Jordan Stilwell",
 		["Zone"] = "Dun Morogh",
 		["ID"] = 6181,
 		["minLevel"] = 30,
 		["maxLevel"] = 30,
 	},
-	[918] = {
+	[993] = {
 		["Name"] = "Jorn Skyseer",
 		["Zone"] = "The Barrens",
 		["ID"] = 3387,
-		["maxLevel"] = 32,
 		["minLevel"] = 32,
+		["maxLevel"] = 32,
 	},
-	[919] = {
+	[994] = {
 		["Name"] = "Jubahl Corpseseeker",
 		["Zone"] = "Ironforge",
 		["ID"] = 6382,
 		["minLevel"] = 60,
 		["maxLevel"] = 60,
 	},
-	[920] = {
+	[995] = {
 		["Name"] = "Jungle Thunderer",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 1114,
-		["maxLevel"] = 38,
 		["minLevel"] = 38,
+		["maxLevel"] = 38,
 	},
-	[921] = {
+	[996] = {
 		["Name"] = "Jutak",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2843,
 		["minLevel"] = 43,
 		["maxLevel"] = 43,
 	},
-	[922] = {
+	[997] = {
 		["Name"] = "Juthza the Cunning",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 62497,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[923] = {
+	[998] = {
 		["Name"] = "Jyn Stonehoof",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 2997,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[924] = {
+	[999] = {
 		["Name"] = "K'ron Tusk",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 51243,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[925] = {
+	[1000] = {
 		["Name"] = "Ka'fai",
 		["Zone"] = "Tanaris",
 		["ID"] = 62063,
-		["maxLevel"] = 48,
 		["minLevel"] = 48,
+		["maxLevel"] = 48,
 	},
-	[926] = {
+	[1001] = {
 		["Name"] = "Ka'zinka",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 61637,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[927] = {
+	[1002] = {
 		["Name"] = "Ka'zmir Somberwind",
 		["Zone"] = "Thalassian Highlands",
 		["ID"] = 61852,
 		["maxLevel"] = 15,
 		["minLevel"] = 15,
 	},
-	[928] = {
+	[1003] = {
 		["Name"] = "Ka'zmir Somberwind",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61852,
 		["maxLevel"] = 15,
 		["minLevel"] = 15,
 	},
-	[929] = {
+	[1004] = {
 		["Name"] = "Kadrak",
 		["Zone"] = "Ashenvale",
 		["ID"] = 8582,
-		["maxLevel"] = 31,
 		["minLevel"] = 31,
+		["maxLevel"] = 31,
 	},
-	[930] = {
+	[1005] = {
 		["Name"] = "Kadrak",
 		["Zone"] = "The Barrens",
 		["ID"] = 8582,
-		["maxLevel"] = 31,
 		["minLevel"] = 31,
+		["maxLevel"] = 31,
 	},
-	[931] = {
+	[1006] = {
 		["Name"] = "Kaga Mistrunner",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3025,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[932] = {
+	[1007] = {
 		["Name"] = "Kah Mistrunner",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3028,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[933] = {
+	[1008] = {
 		["Name"] = "Kaja",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3322,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[934] = {
+	[1009] = {
 		["Name"] = "Kaltunk",
 		["Zone"] = "Durotar",
 		["ID"] = 10176,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
-	[935] = {
+	[1010] = {
 		["Name"] = "Kalyimah Stormcloud",
 		["Zone"] = "The Barrens",
 		["ID"] = 3487,
-		["maxLevel"] = 23,
 		["minLevel"] = 23,
+		["maxLevel"] = 23,
 	},
-	[936] = {
+	[1011] = {
 		["Name"] = "Kamari",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5811,
-		["maxLevel"] = 26,
 		["minLevel"] = 26,
+		["maxLevel"] = 26,
 	},
-	[937] = {
+	[1012] = {
 		["Name"] = "Kaplak",
 		["Zone"] = "Durotar",
 		["ID"] = 3170,
-		["maxLevel"] = 14,
 		["minLevel"] = 14,
+		["maxLevel"] = 14,
 	},
-	[938] = {
+	[1013] = {
 		["Name"] = "Kardris Dreamseeker",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3344,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[939] = {
+	[1014] = {
 		["Name"] = "Kareth",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3331,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[940] = {
+	[1015] = {
 		["Name"] = "Karey Gozzleratch",
 		["Zone"] = "Durotar",
 		["ID"] = 91247,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[941] = {
+	[1016] = {
 		["Name"] = "Kargal Battlescar",
 		["Zone"] = "The Barrens",
 		["ID"] = 3337,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[942] = {
+	[1017] = {
 		["Name"] = "Karn Deepeye",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 50027,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[943] = {
+	[1018] = {
 		["Name"] = "Karn Stonehoof",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 2998,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[944] = {
+	[1019] = {
+		["Name"] = "Karna Remtravel",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9618,
+		["minLevel"] = 49,
+		["maxLevel"] = 49,
+	},
+	[1020] = {
 		["Name"] = "Karolek",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3365,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[945] = {
+	[1021] = {
 		["Name"] = "Kartosh",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 988,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[946] = {
+	[1022] = {
 		["Name"] = "Kartra Bloodsnarl",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 14942,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[947] = {
+	[1023] = {
 		["Name"] = "Karu",
 		["Zone"] = "The Barrens",
 		["ID"] = 14874,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[948] = {
+	[1024] = {
 		["Name"] = "Karus",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3309,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[949] = {
+	[1025] = {
 		["Name"] = "Kath'zen the Brutal",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 62496,
-		["maxLevel"] = 44,
 		["minLevel"] = 44,
+		["maxLevel"] = 44,
 	},
-	[950] = {
+	[1026] = {
 		["Name"] = "Katis",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5816,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[951] = {
+	[1027] = {
 		["Name"] = "Kaylee",
 		["Zone"] = "Mulgore",
 		["ID"] = 60978,
-		["maxLevel"] = 6,
 		["minLevel"] = 6,
+		["maxLevel"] = 6,
 	},
-	[952] = {
+	[1028] = {
 		["Name"] = "Kayneth Stillwind",
 		["Zone"] = "Ashenvale",
 		["ID"] = 3848,
 		["maxLevel"] = 31,
 		["minLevel"] = 31,
 	},
-	[953] = {
+	[1029] = {
 		["Name"] = "Kebok",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 737,
 		["minLevel"] = 35,
 		["maxLevel"] = 35,
 	},
-	[954] = {
+	[1030] = {
 		["Name"] = "Kel'Thuzad",
 		["Zone"] = "The Upper Necropolis",
 		["ID"] = 15990,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[955] = {
+	[1031] = {
 		["Name"] = "Keldran",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5640,
-		["maxLevel"] = 38,
 		["minLevel"] = 38,
+		["maxLevel"] = 38,
 	},
-	[956] = {
+	[1032] = {
 		["Name"] = "Kelgruk Bloodaxe",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 7231,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[957] = {
+	[1033] = {
 		["Name"] = "Kelm Hargunth",
 		["Zone"] = "The Barrens",
 		["ID"] = 14754,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[958] = {
+	[1034] = {
 		["Name"] = "Kelsey Yance",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2664,
 		["minLevel"] = 43,
 		["maxLevel"] = 43,
 	},
-	[959] = {
+	[1035] = {
 		["Name"] = "Kelsuwa",
 		["Zone"] = "The Barrens",
 		["ID"] = 9983,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[960] = {
+	[1036] = {
 		["Name"] = "Ken'jai",
 		["Zone"] = "Durotar",
 		["ID"] = 3707,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[961] = {
+	[1037] = {
 		["Name"] = "Keras Wolfheart",
 		["Zone"] = "Darnassus",
 		["ID"] = 907,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[962] = {
+	[1038] = {
 		["Name"] = "Kerrulg",
 		["Zone"] = "Ashenvale",
 		["ID"] = 61146,
 		["maxLevel"] = 26,
 		["minLevel"] = 26,
 	},
-	[963] = {
+	[1039] = {
 		["Name"] = "Kestren Rainmight",
 		["Zone"] = "Tanaris",
 		["ID"] = 80996,
-		["maxLevel"] = 51,
 		["minLevel"] = 51,
+		["maxLevel"] = 51,
 	},
-	[964] = {
+	[1040] = {
 		["Name"] = "Kex Blowmaster",
 		["Zone"] = "The Barrens",
 		["ID"] = 60443,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[965] = {
+	[1041] = {
+		["Name"] = "Khaelyn Steelwing",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 12617,
+		["minLevel"] = 55,
+		["maxLevel"] = 55,
+	},
+	[1042] = {
 		["Name"] = "Kheyna Spinpistol",
 		["Zone"] = "The Barrens",
 		["ID"] = 81041,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[966] = {
+	[1043] = {
 		["Name"] = "Khur Hornstriker",
 		["Zone"] = "Silithus",
 		["ID"] = 15175,
-		["maxLevel"] = 57,
 		["minLevel"] = 57,
+		["maxLevel"] = 57,
 	},
-	[967] = {
+	[1044] = {
 		["Name"] = "Kieran",
 		["Zone"] = "Darnassus",
 		["ID"] = 4231,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[968] = {
+	[1045] = {
 		["Name"] = "Kil'hala",
 		["Zone"] = "The Barrens",
 		["ID"] = 3484,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[969] = {
+	[1046] = {
 		["Name"] = "Kildar",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 4752,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[970] = {
+	[1047] = {
 		["Name"] = "Kinelory",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2713,
-		["maxLevel"] = 38,
 		["minLevel"] = 38,
+		["maxLevel"] = 38,
 	},
-	[971] = {
+	[1048] = {
 		["Name"] = "Kirge Sternhorn",
 		["Zone"] = "The Barrens",
 		["ID"] = 3418,
-		["maxLevel"] = 22,
 		["minLevel"] = 22,
+		["maxLevel"] = 22,
 	},
-	[972] = {
+	[1049] = {
 		["Name"] = "Kiro",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3359,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[973] = {
+	[1050] = {
 		["Name"] = "Kirtonos the Herald",
 		["Zone"] = "Scholomance",
 		["ID"] = 10506,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[974] = {
+	[1051] = {
 		["Name"] = "Kitha",
 		["Zone"] = "Durotar",
 		["ID"] = 6027,
-		["maxLevel"] = 17,
 		["minLevel"] = 17,
+		["maxLevel"] = 17,
 	},
-	[975] = {
+	[1052] = {
 		["Name"] = "Kithas",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3346,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[976] = {
+	[1053] = {
 		["Name"] = "Kizz Bluntstrike",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2840,
 		["maxLevel"] = 42,
 		["minLevel"] = 42,
 	},
-	[977] = {
+	[1054] = {
 		["Name"] = "Kleo Ficklevolt",
 		["Zone"] = "Durotar",
 		["ID"] = 51570,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[978] = {
+	[1055] = {
 		["Name"] = "Knobby Tinfault",
 		["Zone"] = "Durotar",
 		["ID"] = 80901,
-		["maxLevel"] = 12,
 		["minLevel"] = 12,
+		["maxLevel"] = 12,
 	},
-	[979] = {
+	[1056] = {
 		["Name"] = "Kodo Bull",
 		["Zone"] = "Mulgore",
 		["ID"] = 2973,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[980] = {
+	[1057] = {
 		["Name"] = "Kodo Calf",
 		["Zone"] = "Mulgore",
 		["ID"] = 2972,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[981] = {
+	[1058] = {
 		["Name"] = "Kodo Matriarch",
 		["Zone"] = "Mulgore",
 		["ID"] = 2974,
-		["maxLevel"] = 11,
 		["minLevel"] = 11,
+		["maxLevel"] = 11,
 	},
-	[982] = {
+	[1059] = {
 		["Name"] = "Kolkar Bloodcharger",
 		["Zone"] = "The Barrens",
 		["ID"] = 3397,
-		["maxLevel"] = 15,
 		["minLevel"] = 14,
+		["maxLevel"] = 15,
 	},
-	[983] = {
+	[1060] = {
 		["Name"] = "Kolkar Drudge",
 		["Zone"] = "Durotar",
 		["ID"] = 3119,
-		["maxLevel"] = 7,
 		["minLevel"] = 6,
+		["maxLevel"] = 7,
 	},
-	[984] = {
+	[1061] = {
 		["Name"] = "Kolkar Invader",
 		["Zone"] = "The Barrens",
 		["ID"] = 9524,
-		["maxLevel"] = 17,
 		["minLevel"] = 16,
+		["maxLevel"] = 17,
 	},
-	[985] = {
+	[1062] = {
 		["Name"] = "Kolkar Marauder",
 		["Zone"] = "The Barrens",
 		["ID"] = 3275,
-		["maxLevel"] = 16,
 		["minLevel"] = 15,
+		["maxLevel"] = 16,
 	},
-	[986] = {
+	[1063] = {
 		["Name"] = "Kolkar Outrunner",
 		["Zone"] = "Durotar",
 		["ID"] = 3120,
-		["maxLevel"] = 8,
 		["minLevel"] = 7,
+		["maxLevel"] = 8,
 	},
-	[987] = {
+	[1064] = {
 		["Name"] = "Kolkar Pack Runner",
 		["Zone"] = "The Barrens",
 		["ID"] = 3274,
-		["maxLevel"] = 15,
 		["minLevel"] = 14,
+		["maxLevel"] = 15,
 	},
-	[988] = {
+	[1065] = {
 		["Name"] = "Kolkar Packhound",
 		["Zone"] = "The Barrens",
 		["ID"] = 4316,
-		["maxLevel"] = 13,
 		["minLevel"] = 13,
+		["maxLevel"] = 13,
 	},
-	[989] = {
+	[1066] = {
 		["Name"] = "Kolkar Stormer",
 		["Zone"] = "The Barrens",
 		["ID"] = 3273,
-		["maxLevel"] = 14,
 		["minLevel"] = 13,
+		["maxLevel"] = 14,
 	},
-	[990] = {
+	[1067] = {
 		["Name"] = "Kolkar Stormseer",
 		["Zone"] = "The Barrens",
 		["ID"] = 9523,
-		["maxLevel"] = 16,
 		["minLevel"] = 15,
+		["maxLevel"] = 16,
 	},
-	[991] = {
+	[1068] = {
 		["Name"] = "Kolkar Wrangler",
 		["Zone"] = "The Barrens",
 		["ID"] = 3272,
-		["maxLevel"] = 13,
 		["minLevel"] = 12,
+		["maxLevel"] = 13,
 	},
-	[992] = {
+	[1069] = {
 		["Name"] = "Koma",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3318,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[993] = {
+	[1070] = {
 		["Name"] = "Komin Winterhoof",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3013,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[994] = {
+	[1071] = {
 		["Name"] = "Kor'gan",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 60607,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[995] = {
+	[1072] = {
 		["Name"] = "Kor'geld",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3348,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[996] = {
+	[1073] = {
 		["Name"] = "Kor'ghan",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3189,
-		["maxLevel"] = 7,
 		["minLevel"] = 7,
+		["maxLevel"] = 7,
 	},
-	[997] = {
+	[1074] = {
 		["Name"] = "Kor'jus",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3329,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[998] = {
+	[1075] = {
 		["Name"] = "Kor'kron Elite",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 14304,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[999] = {
+	[1076] = {
+		["Name"] = "Korfax, Champion of the Light",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 16112,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[1077] = {
 		["Name"] = "Korm'dar",
 		["Zone"] = "The Barrens",
 		["ID"] = 91771,
-		["maxLevel"] = 12,
 		["minLevel"] = 12,
+		["maxLevel"] = 12,
 	},
-	[1000] = {
+	[1078] = {
 		["Name"] = "Korran",
 		["Zone"] = "The Barrens",
 		["ID"] = 3428,
-		["maxLevel"] = 12,
 		["minLevel"] = 12,
+		["maxLevel"] = 12,
 	},
-	[1001] = {
+	[1079] = {
 		["Name"] = "Koru",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3360,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1002] = {
+	[1080] = {
 		["Name"] = "Korvir",
 		["Zone"] = "The Barrens",
 		["ID"] = 60411,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[1003] = {
+	[1081] = {
 		["Name"] = "Kozish",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5610,
-		["maxLevel"] = 12,
 		["minLevel"] = 12,
+		["maxLevel"] = 12,
 	},
-	[1004] = {
+	[1082] = {
 		["Name"] = "Kranal Fiss",
 		["Zone"] = "The Barrens",
 		["ID"] = 5907,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[1005] = {
+	[1083] = {
 		["Name"] = "Krathok Moltenfist",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 11176,
-		["maxLevel"] = 53,
 		["minLevel"] = 53,
+		["maxLevel"] = 53,
 	},
-	[1006] = {
+	[1084] = {
 		["Name"] = "Kraul Lookout",
 		["Zone"] = "The Barrens",
 		["ID"] = 60947,
-		["maxLevel"] = 38,
 		["minLevel"] = 38,
+		["maxLevel"] = 38,
 	},
-	[1007] = {
+	[1085] = {
 		["Name"] = "Kray",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 11047,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[1008] = {
+	[1086] = {
 		["Name"] = "Krazek",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 773,
 		["minLevel"] = 35,
 		["maxLevel"] = 35,
 	},
-	[1009] = {
+	[1087] = {
 		["Name"] = "Kreenig Snarlsnout",
 		["Zone"] = "The Barrens",
 		["ID"] = 3438,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[1010] = {
+	[1088] = {
 		["Name"] = "Krez the Wise",
 		["Zone"] = "Durotar",
 		["ID"] = 91232,
-		["maxLevel"] = 13,
 		["minLevel"] = 13,
+		["maxLevel"] = 13,
 	},
-	[1011] = {
+	[1089] = {
 		["Name"] = "Krinkle Goodsteel",
 		["Zone"] = "Tanaris",
 		["ID"] = 5411,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1012] = {
+	[1090] = {
+		["Name"] = "Kris Legace",
+		["Zone"] = "Hillsbrad Foothills",
+		["ID"] = 3536,
+		["minLevel"] = 32,
+		["maxLevel"] = 32,
+	},
+	[1091] = {
 		["Name"] = "Kruban Darkblade",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 14843,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1013] = {
+	[1092] = {
 		["Name"] = "Krull Fireblood",
 		["Zone"] = "The Barrens",
 		["ID"] = 60880,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1014] = {
+	[1093] = {
 		["Name"] = "Krulmoo Fullmoon",
 		["Zone"] = "The Barrens",
 		["ID"] = 3703,
-		["maxLevel"] = 42,
 		["minLevel"] = 42,
+		["maxLevel"] = 42,
 	},
-	[1015] = {
+	[1094] = {
 		["Name"] = "Krumn",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 5054,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[1016] = {
+	[1095] = {
 		["Name"] = "Krunn",
 		["Zone"] = "Durotar",
 		["ID"] = 3175,
-		["maxLevel"] = 16,
 		["minLevel"] = 16,
+		["maxLevel"] = 16,
 	},
-	[1017] = {
+	[1096] = {
 		["Name"] = "Kul Tiras Marine",
 		["Zone"] = "Durotar",
 		["ID"] = 3129,
-		["maxLevel"] = 7,
 		["minLevel"] = 6,
+		["maxLevel"] = 7,
 	},
-	[1018] = {
+	[1097] = {
 		["Name"] = "Kul Tiras Sailor",
 		["Zone"] = "Durotar",
 		["ID"] = 3128,
-		["maxLevel"] = 6,
 		["minLevel"] = 5,
+		["maxLevel"] = 6,
 	},
-	[1019] = {
+	[1098] = {
 		["Name"] = "Kum'isha the Collector",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 7363,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1020] = {
+	[1099] = {
 		["Name"] = "Kuna Thunderhorn",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3015,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1021] = {
+	[1100] = {
 		["Name"] = "Kundric Zanden",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 2378,
-		["maxLevel"] = 34,
 		["minLevel"] = 34,
+		["maxLevel"] = 34,
 	},
-	[1022] = {
+	[1101] = {
 		["Name"] = "Kuray'bin",
 		["Zone"] = "Ashenvale",
 		["ID"] = 12867,
 		["maxLevel"] = 35,
 		["minLevel"] = 35,
 	},
-	[1023] = {
+	[1102] = {
+		["Name"] = "Kurdros",
+		["Zone"] = "Hillsbrad Foothills",
+		["ID"] = 2474,
+		["minLevel"] = 40,
+		["maxLevel"] = 40,
+	},
+	[1103] = {
 		["Name"] = "Kurgul",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5815,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1024] = {
+	[1104] = {
 		["Name"] = "Kurm Stonehoof",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3002,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1025] = {
+	[1105] = {
 		["Name"] = "Kuruk",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 8362,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1026] = {
+	[1106] = {
 		["Name"] = "Kuz",
 		["Zone"] = "The Barrens",
 		["ID"] = 3436,
-		["maxLevel"] = 21,
 		["minLevel"] = 21,
+		["maxLevel"] = 21,
 	},
-	[1027] = {
+	[1107] = {
 		["Name"] = "Kyrai",
 		["Zone"] = "Darnassus",
 		["ID"] = 3561,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1028] = {
+	[1108] = {
 		["Name"] = "Kzan Thornslash",
 		["Zone"] = "Durotar",
 		["ID"] = 3159,
-		["maxLevel"] = 34,
 		["minLevel"] = 34,
+		["maxLevel"] = 34,
 	},
-	[1029] = {
+	[1109] = {
 		["Name"] = "Lady Blaumeux",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16065,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1030] = {
+	[1110] = {
 		["Name"] = "Lady Illucia Barov",
 		["Zone"] = "Scholomance",
 		["ID"] = 10502,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1031] = {
+	[1111] = {
 		["Name"] = "Lady Meldralis Windsong",
 		["Zone"] = "Ironforge",
 		["ID"] = 60874,
 		["minLevel"] = 25,
 		["maxLevel"] = 25,
 	},
-	[1032] = {
+	[1112] = {
 		["Name"] = "Lago Blackwrench",
 		["Zone"] = "Ironforge",
 		["ID"] = 6120,
 		["minLevel"] = 30,
 		["maxLevel"] = 30,
 	},
-	[1033] = {
+	[1113] = {
 		["Name"] = "Lairn",
 		["Zone"] = "Darnassus",
 		["ID"] = 4208,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1034] = {
+	[1114] = {
 		["Name"] = "Laithor Morningleaf",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 62088,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[1035] = {
+	[1115] = {
 		["Name"] = "Lalina Summermoon",
 		["Zone"] = "Darnassus",
 		["ID"] = 11070,
-		["maxLevel"] = 27,
 		["minLevel"] = 27,
+		["maxLevel"] = 27,
 	},
-	[1036] = {
+	[1116] = {
 		["Name"] = "Land Rager",
 		["Zone"] = "Tanaris",
 		["ID"] = 5465,
-		["maxLevel"] = 47,
 		["minLevel"] = 45,
+		["maxLevel"] = 47,
 	},
-	[1037] = {
+	[1117] = {
 		["Name"] = "Lansa Skyseer",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 80948,
-		["maxLevel"] = 11,
 		["minLevel"] = 11,
+		["maxLevel"] = 11,
 	},
-	[1038] = {
+	[1118] = {
 		["Name"] = "Lantho Talonmoon",
 		["Zone"] = "Hyjal",
 		["ID"] = 61325,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[1039] = {
+	[1119] = {
 		["Name"] = "Lanti'gah",
 		["Zone"] = "The Barrens",
 		["ID"] = 9990,
-		["maxLevel"] = 4,
 		["minLevel"] = 4,
+		["maxLevel"] = 4,
 	},
-	[1040] = {
+	[1120] = {
+		["Name"] = "Lar'korwi Mate",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9683,
+		["minLevel"] = 50,
+		["maxLevel"] = 50,
+	},
+	[1121] = {
 		["Name"] = "Large Crag Boar",
 		["Zone"] = "Dun Morogh",
 		["ID"] = 1126,
 		["minLevel"] = 7,
 		["maxLevel"] = 7,
 	},
-	[1041] = {
+	[1122] = {
 		["Name"] = "Large Incendic Egg",
 		["Zone"] = "Molten Core",
 		["ID"] = 52147,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1042] = {
+	[1123] = {
 		["Name"] = "Larhka",
 		["Zone"] = "The Barrens",
 		["ID"] = 5871,
-		["maxLevel"] = 18,
 		["minLevel"] = 18,
+		["maxLevel"] = 18,
 	},
-	[1043] = {
+	[1124] = {
 		["Name"] = "Lariia",
 		["Zone"] = "Darnassus",
 		["ID"] = 4092,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1044] = {
+	[1125] = {
+		["Name"] = "Larion",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9118,
+		["minLevel"] = 51,
+		["maxLevel"] = 51,
+	},
+	[1126] = {
+		["Name"] = "Larodar Wildwhisper",
+		["Zone"] = "Feralas",
+		["ID"] = 61584,
+		["minLevel"] = 50,
+		["maxLevel"] = 50,
+	},
+	[1127] = {
 		["Name"] = "Larry Bladeknuckle",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 80957,
-		["minLevel"] = 11,
 		["maxLevel"] = 11,
+		["minLevel"] = 11,
 	},
-	[1045] = {
+	[1128] = {
 		["Name"] = "Larva",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16068,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[1046] = {
+	[1129] = {
+		["Name"] = "Lataro Swifthoof",
+		["Zone"] = "Feralas",
+		["ID"] = 61590,
+		["minLevel"] = 55,
+		["maxLevel"] = 55,
+	},
+	[1130] = {
 		["Name"] = "Lau'Tiki",
 		["Zone"] = "Durotar",
 		["ID"] = 5941,
-		["maxLevel"] = 14,
 		["minLevel"] = 14,
+		["maxLevel"] = 14,
 	},
-	[1047] = {
+	[1131] = {
 		["Name"] = "Lava Annihilator",
 		["Zone"] = "Molten Core",
 		["ID"] = 11665,
-		["maxLevel"] = 62,
 		["minLevel"] = 61,
+		["maxLevel"] = 62,
 	},
-	[1048] = {
+	[1132] = {
 		["Name"] = "Lava Elemental",
 		["Zone"] = "Molten Core",
 		["ID"] = 12076,
-		["maxLevel"] = 62,
 		["minLevel"] = 61,
+		["maxLevel"] = 62,
 	},
-	[1049] = {
+	[1133] = {
 		["Name"] = "Lava Reaver",
 		["Zone"] = "Molten Core",
 		["ID"] = 12100,
-		["maxLevel"] = 63,
 		["minLevel"] = 62,
+		["maxLevel"] = 63,
 	},
-	[1050] = {
+	[1134] = {
 		["Name"] = "Lava Spawn",
 		["Zone"] = "Molten Core",
 		["ID"] = 12265,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1051] = {
+	[1135] = {
 		["Name"] = "Lava Spout Totem",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 6017,
-		["Owner"] = "Sandfury Witch Doctor",
-		["maxLevel"] = 45,
 		["minLevel"] = 44,
+		["maxLevel"] = 45,
 	},
-	[1052] = {
+	[1136] = {
 		["Name"] = "Lava Surger",
 		["Zone"] = "Molten Core",
 		["ID"] = 12101,
-		["maxLevel"] = 62,
 		["minLevel"] = 61,
+		["maxLevel"] = 62,
 	},
-	[1053] = {
+	[1137] = {
+		["Name"] = "Layo Starstrike",
+		["Zone"] = "Silithus",
+		["ID"] = 13220,
+		["minLevel"] = 55,
+		["maxLevel"] = 55,
+	},
+	[1138] = {
 		["Name"] = "Laziphus",
 		["Zone"] = "Tanaris",
 		["ID"] = 9985,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1054] = {
+	[1139] = {
 		["Name"] = "Lazy Peon",
 		["Zone"] = "Durotar",
 		["ID"] = 10556,
-		["maxLevel"] = 4,
 		["minLevel"] = 4,
+		["maxLevel"] = 4,
 	},
-	[1055] = {
+	[1140] = {
 		["Name"] = "League of Arathor Elite",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 15130,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1056] = {
+	[1141] = {
+		["Name"] = "League of Arathor Emissary",
+		["Zone"] = "Darnassus",
+		["ID"] = 14991,
+		["maxLevel"] = 40,
+		["minLevel"] = 40,
+	},
+	[1142] = {
 		["Name"] = "Lelanai",
 		["Zone"] = "Darnassus",
 		["ID"] = 4730,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1057] = {
+	[1143] = {
+		["Name"] = "Leonid Barthalomew the Revered",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 11036,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[1144] = {
 		["Name"] = "Levenda Skytalon",
 		["Zone"] = "Hyjal",
 		["ID"] = 61532,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1058] = {
+	[1145] = {
 		["Name"] = "Ley Sprite",
 		["Zone"] = "Deadwind Pass",
 		["ID"] = 12381,
-		["maxLevel"] = 57,
 		["minLevel"] = 57,
+		["maxLevel"] = 57,
 	},
-	[1059] = {
+	[1146] = {
 		["Name"] = "Lieutenant Alverold",
 		["Zone"] = "The Barrens",
 		["ID"] = 60901,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
-	[1060] = {
+	[1147] = {
 		["Name"] = "Lieutenant Benedict",
 		["Zone"] = "Durotar",
 		["ID"] = 3192,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[1061] = {
+	[1148] = {
 		["Name"] = "Lieutenant Valorcall",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2612,
-		["maxLevel"] = 38,
 		["minLevel"] = 38,
+		["maxLevel"] = 38,
 	},
-	[1062] = {
+	[1149] = {
 		["Name"] = "Lightning Totem",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16385,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1063] = {
+	[1150] = {
+		["Name"] = "Linken",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 8737,
+		["minLevel"] = 40,
+		["maxLevel"] = 40,
+	},
+	[1151] = {
 		["Name"] = "Liv Rizzlefix",
 		["Zone"] = "The Barrens",
 		["ID"] = 8496,
-		["maxLevel"] = 17,
 		["minLevel"] = 17,
+		["maxLevel"] = 17,
 	},
-	[1064] = {
+	[1152] = {
+		["Name"] = "Living Blaze",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6521,
+		["minLevel"] = 54,
+		["maxLevel"] = 55,
+	},
+	[1153] = {
+		["Name"] = "Living Decay",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 8606,
+		["minLevel"] = 56,
+		["maxLevel"] = 56,
+	},
+	[1154] = {
 		["Name"] = "Living Monstrosity",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16021,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1065] = {
+	[1155] = {
 		["Name"] = "Living Storm",
 		["Zone"] = "Tanaris",
 		["ID"] = 9397,
-		["maxLevel"] = 49,
 		["minLevel"] = 49,
+		["maxLevel"] = 49,
 	},
-	[1066] = {
+	[1156] = {
 		["Name"] = "Lix Tinwrench",
 		["Zone"] = "Durotar",
 		["ID"] = 91253,
-		["maxLevel"] = 7,
 		["minLevel"] = 7,
+		["maxLevel"] = 7,
 	},
-	[1067] = {
+	[1157] = {
 		["Name"] = "Lizzarik",
 		["Zone"] = "The Barrens",
 		["ID"] = 3658,
-		["maxLevel"] = 19,
 		["minLevel"] = 19,
+		["maxLevel"] = 19,
 	},
-	[1068] = {
+	[1158] = {
 		["Name"] = "Lizzi Saltcrabs",
 		["Zone"] = "Tanaris",
 		["ID"] = 80991,
-		["maxLevel"] = 51,
 		["minLevel"] = 51,
+		["maxLevel"] = 51,
 	},
-	[1069] = {
+	[1159] = {
+		["Name"] = "Loania",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 81042,
+		["minLevel"] = 30,
+		["maxLevel"] = 30,
+	},
+	[1160] = {
 		["Name"] = "Loatheb",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16011,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1070] = {
+	[1161] = {
 		["Name"] = "Locke Okarr",
 		["Zone"] = "Ashenvale",
 		["ID"] = 11820,
 		["maxLevel"] = 28,
 		["minLevel"] = 28,
 	},
-	[1071] = {
+	[1162] = {
 		["Name"] = "Logrash",
 		["Zone"] = "The Barrens",
 		["ID"] = 60408,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[1072] = {
+	[1163] = {
 		["Name"] = "Loh'atu",
 		["Zone"] = "Azshara",
 		["ID"] = 11548,
 		["maxLevel"] = 45,
 		["minLevel"] = 45,
 	},
-	[1073] = {
+	[1164] = {
 		["Name"] = "Lok Orcbane",
 		["Zone"] = "The Barrens",
 		["ID"] = 3435,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[1074] = {
+	[1165] = {
+		["Name"] = "Longtooth Runner",
+		["Zone"] = "Feralas",
+		["ID"] = 5286,
+		["minLevel"] = 40,
+		["maxLevel"] = 41,
+	},
+	[1166] = {
 		["Name"] = "Lor'themar Theron",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61799,
 		["maxLevel"] = 60,
 		["minLevel"] = 60,
 	},
-	[1075] = {
+	[1167] = {
 		["Name"] = "Lord Alexei Barov",
 		["Zone"] = "Scholomance",
 		["ID"] = 10504,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1076] = {
+	[1168] = {
 		["Name"] = "Lord Blackwald II",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61222,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1077] = {
+	[1169] = {
 		["Name"] = "Lord Cyrik Blackforge",
 		["Zone"] = "The Barrens",
 		["ID"] = 6668,
-		["maxLevel"] = 23,
 		["minLevel"] = 23,
+		["maxLevel"] = 23,
 	},
-	[1078] = {
+	[1170] = {
 		["Name"] = "Lord Firian Northshire",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61868,
 		["maxLevel"] = 40,
 		["minLevel"] = 40,
 	},
-	[1079] = {
+	[1171] = {
 		["Name"] = "Lord Horghita Ironmane",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61871,
 		["maxLevel"] = 40,
 		["minLevel"] = 40,
 	},
-	[1080] = {
+	[1172] = {
+		["Name"] = "Lord Jorach Ravenholdt",
+		["Zone"] = "Alterac Mountains",
+		["ID"] = 6768,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[1173] = {
 		["Name"] = "Lord Kri",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15511,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1081] = {
+	[1174] = {
+		["Name"] = "Lord Maxwell Tyrosus",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 11034,
+		["minLevel"] = 62,
+		["maxLevel"] = 62,
+	},
+	[1175] = {
 		["Name"] = "Lord Nazgrim Redbrand",
 		["Zone"] = "Ironforge",
 		["ID"] = 60925,
 		["minLevel"] = 51,
 		["maxLevel"] = 51,
 	},
-	[1082] = {
+	[1176] = {
 		["Name"] = "Lord Xanvarak",
 		["Zone"] = "Hyjal",
 		["ID"] = 61609,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1083] = {
+	[1177] = {
 		["Name"] = "Lorekeeper Polkelt",
 		["Zone"] = "Scholomance",
 		["ID"] = 10901,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1084] = {
+	[1178] = {
 		["Name"] = "Loremaster Dibbs",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 2277,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1085] = {
+	[1179] = {
 		["Name"] = "Loremaster Taerlon",
 		["Zone"] = "Hyjal",
 		["ID"] = 61497,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[1086] = {
+	[1180] = {
 		["Name"] = "Lost Barrens Kodo",
 		["Zone"] = "The Barrens",
 		["ID"] = 3234,
-		["maxLevel"] = 15,
 		["minLevel"] = 14,
+		["maxLevel"] = 15,
 	},
-	[1087] = {
+	[1181] = {
 		["Name"] = "Lotherias",
 		["Zone"] = "Darnassus",
 		["ID"] = 6034,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1088] = {
+	[1182] = {
 		["Name"] = "Lothos Riftwaker",
 		["Zone"] = "Blackrock Mountain",
 		["ID"] = 14387,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1089] = {
+	[1183] = {
 		["Name"] = "Lozzle",
 		["Zone"] = "Durotar",
 		["ID"] = 91220,
-		["maxLevel"] = 12,
 		["minLevel"] = 12,
+		["maxLevel"] = 12,
 	},
-	[1090] = {
+	[1184] = {
 		["Name"] = "Lucien Sarkhoff",
 		["Zone"] = "Western Plaguelands",
 		["ID"] = 11217,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1091] = {
+	[1185] = {
 		["Name"] = "Lucifron",
 		["Zone"] = "Molten Core",
 		["ID"] = 12118,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1092] = {
+	[1186] = {
 		["Name"] = "Lumak",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3332,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1093] = {
+	[1187] = {
 		["Name"] = "Lumberworker Kazz",
 		["Zone"] = "Durotar",
 		["ID"] = 91218,
-		["maxLevel"] = 12,
 		["minLevel"] = 12,
+		["maxLevel"] = 12,
 	},
-	[1094] = {
+	[1188] = {
 		["Name"] = "Lumberworker Pluckwrench",
 		["Zone"] = "Durotar",
 		["ID"] = 91217,
-		["maxLevel"] = 16,
 		["minLevel"] = 16,
+		["maxLevel"] = 16,
 	},
-	[1095] = {
+	[1189] = {
 		["Name"] = "Lumberworker Ruzbolt",
 		["Zone"] = "Durotar",
 		["ID"] = 91219,
-		["maxLevel"] = 14,
 		["minLevel"] = 14,
+		["maxLevel"] = 14,
 	},
-	[1096] = {
+	[1190] = {
 		["Name"] = "Lysheana",
 		["Zone"] = "Darnassus",
 		["ID"] = 4161,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1097] = {
+	[1191] = {
 		["Name"] = "Mabel 'The Hook'",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 60457,
 		["maxLevel"] = 48,
 		["minLevel"] = 48,
 	},
-	[1098] = {
+	[1192] = {
 		["Name"] = "Mad Scientist",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16020,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1099] = {
+	[1193] = {
 		["Name"] = "Maexxna",
 		["Zone"] = "Naxxramas",
 		["ID"] = 15952,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1100] = {
+	[1194] = {
 		["Name"] = "Maexxna Spiderling",
 		["Zone"] = "Naxxramas",
 		["ID"] = 17055,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1101] = {
+	[1195] = {
 		["Name"] = "Magar",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3363,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1102] = {
+	[1196] = {
 		["Name"] = "Magga",
 		["Zone"] = "Durotar",
 		["ID"] = 11943,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
+		["maxLevel"] = 5,
 	},
-	[1103] = {
+	[1197] = {
 		["Name"] = "Maggot",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16030,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[1104] = {
+	[1198] = {
 		["Name"] = "Magister Sylvus Silkspinner",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61822,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[1105] = {
+	[1199] = {
 		["Name"] = "Magistrate Henry Maleb",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 2276,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1106] = {
+	[1200] = {
 		["Name"] = "Magistrix Ishalah",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 80213,
 		["maxLevel"] = 6,
 		["minLevel"] = 6,
 	},
-	[1107] = {
+	[1201] = {
 		["Name"] = "Magmadar",
 		["Zone"] = "Molten Core",
 		["ID"] = 11982,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1108] = {
+	[1202] = {
 		["Name"] = "Magmalash Scorpid",
 		["Zone"] = "Molten Core",
 		["ID"] = 62750,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1109] = {
+	[1203] = {
 		["Name"] = "Mahani",
 		["Zone"] = "The Barrens",
 		["ID"] = 3704,
-		["maxLevel"] = 31,
 		["minLevel"] = 31,
+		["maxLevel"] = 31,
 	},
-	[1110] = {
+	[1204] = {
 		["Name"] = "Mahu",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3005,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1111] = {
+	[1205] = {
 		["Name"] = "Mai'ah",
 		["Zone"] = "Durotar",
 		["ID"] = 5884,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[1112] = {
+	[1206] = {
 		["Name"] = "Majordomo Executus",
 		["Zone"] = "Molten Core",
 		["ID"] = 12018,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1113] = {
+	[1207] = {
 		["Name"] = "Mak",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3008,
-		["maxLevel"] = 24,
 		["minLevel"] = 24,
+		["maxLevel"] = 24,
 	},
-	[1114] = {
+	[1208] = {
 		["Name"] = "Makaba Flathoof",
 		["Zone"] = "The Barrens",
 		["ID"] = 11857,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[1115] = {
+	[1209] = {
 		["Name"] = "Makaba Flathoof",
 		["Zone"] = "Stonetalon Mountains",
 		["ID"] = 11857,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[1116] = {
+	[1210] = {
 		["Name"] = "Makaru",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3357,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1117] = {
+	[1211] = {
 		["Name"] = "Makasgar",
 		["Zone"] = "Durotar",
 		["ID"] = 13157,
-		["maxLevel"] = 9,
 		["minLevel"] = 9,
+		["maxLevel"] = 9,
 	},
-	[1118] = {
+	[1212] = {
 		["Name"] = "Makrura Clacker",
 		["Zone"] = "Durotar",
 		["ID"] = 3103,
-		["maxLevel"] = 7,
 		["minLevel"] = 6,
+		["maxLevel"] = 7,
 	},
-	[1119] = {
+	[1213] = {
 		["Name"] = "Makrura Shellhide",
 		["Zone"] = "Durotar",
 		["ID"] = 3104,
-		["maxLevel"] = 7,
 		["minLevel"] = 6,
+		["maxLevel"] = 7,
 	},
-	[1120] = {
+	[1214] = {
 		["Name"] = "Makrura Snapclaw",
 		["Zone"] = "Durotar",
 		["ID"] = 3105,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[1121] = {
+	[1215] = {
 		["Name"] = "Malakai Cross",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3045,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[1122] = {
+	[1216] = {
 		["Name"] = "Maleka",
 		["Zone"] = "Durotar",
 		["ID"] = 91207,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1123] = {
+	[1217] = {
 		["Name"] = "Mally O'Flor",
 		["Zone"] = "The Barrens",
 		["ID"] = 61052,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1124] = {
+	[1218] = {
 		["Name"] = "Malton Droffers",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 6987,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1125] = {
+	[1219] = {
 		["Name"] = "Malvinah Sunblade",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 80200,
 		["maxLevel"] = 8,
 		["minLevel"] = 8,
 	},
-	[1126] = {
+	[1220] = {
 		["Name"] = "Mana Stalker",
 		["Zone"] = "Hyjal",
 		["ID"] = 61354,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1127] = {
+	[1221] = {
 		["Name"] = "Manahound",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 8718,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1128] = {
+	[1222] = {
 		["Name"] = "Mangletooth",
 		["Zone"] = "The Barrens",
 		["ID"] = 3430,
-		["maxLevel"] = 17,
 		["minLevel"] = 17,
+		["maxLevel"] = 17,
 	},
-	[1129] = {
+	[1223] = {
 		["Name"] = "Mangorn Flinthammer",
 		["Zone"] = "Ironforge",
 		["ID"] = 5107,
 		["minLevel"] = 30,
 		["maxLevel"] = 30,
 	},
-	[1130] = {
+	[1224] = {
+		["Name"] = "Mangy Silvermane",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 2923,
+		["minLevel"] = 41,
+		["maxLevel"] = 42,
+	},
+	[1225] = {
 		["Name"] = "Mani Winterhoof",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3010,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1131] = {
+	[1226] = {
 		["Name"] = "Mankrik",
 		["Zone"] = "The Barrens",
 		["ID"] = 3432,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[1132] = {
+	[1227] = {
 		["Name"] = "Marduk Blackpool",
 		["Zone"] = "Scholomance",
 		["ID"] = 10433,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[1133] = {
+	[1228] = {
 		["Name"] = "Margoz",
 		["Zone"] = "Durotar",
 		["ID"] = 3208,
-		["maxLevel"] = 18,
 		["minLevel"] = 18,
+		["maxLevel"] = 18,
 	},
-	[1134] = {
+	[1229] = {
 		["Name"] = "Marin Noggenfogger",
 		["Zone"] = "Tanaris",
 		["ID"] = 7564,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1135] = {
+	[1230] = {
 		["Name"] = "Markel Smythe",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2499,
 		["minLevel"] = 38,
 		["maxLevel"] = 38,
 	},
-	[1136] = {
+	[1231] = {
 		["Name"] = "Marshal Redpath",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 2263,
-		["maxLevel"] = 41,
 		["minLevel"] = 41,
+		["maxLevel"] = 41,
 	},
-	[1137] = {
+	[1232] = {
 		["Name"] = "Martin Lindsey",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 12198,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1138] = {
+	[1233] = {
 		["Name"] = "Martine Tramblay",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 3550,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[1139] = {
+	[1234] = {
+		["Name"] = "Marvon Rivetseeker",
+		["Zone"] = "Tanaris",
+		["ID"] = 7771,
+		["minLevel"] = 40,
+		["maxLevel"] = 40,
+	},
+	[1235] = {
 		["Name"] = "Master Blacksmith Rolfen",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61319,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1140] = {
+	[1236] = {
 		["Name"] = "Master Elemental Shaper Krixix",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 14401,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1141] = {
+	[1237] = {
+		["Name"] = "Master Kang",
+		["Zone"] = "Alterac Mountains",
+		["ID"] = 7325,
+		["minLevel"] = 62,
+		["maxLevel"] = 62,
+	},
+	[1238] = {
+		["Name"] = "Mataus the Wrathcaster",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 16133,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[1239] = {
 		["Name"] = "Mathiel",
 		["Zone"] = "Darnassus",
 		["ID"] = 6142,
-		["maxLevel"] = 33,
 		["minLevel"] = 33,
+		["maxLevel"] = 33,
 	},
-	[1142] = {
+	[1240] = {
 		["Name"] = "Mathrengyl Bearwalker",
 		["Zone"] = "Darnassus",
 		["ID"] = 4217,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1143] = {
+	[1241] = {
 		["Name"] = "Mato'gar",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 61929,
-		["maxLevel"] = 52,
 		["minLevel"] = 52,
+		["maxLevel"] = 52,
 	},
-	[1144] = {
+	[1242] = {
 		["Name"] = "Maur Grimtotem",
 		["Zone"] = "Ragefire Chasm",
 		["ID"] = 11834,
-		["maxLevel"] = 14,
 		["minLevel"] = 14,
+		["maxLevel"] = 14,
 	},
-	[1145] = {
+	[1243] = {
 		["Name"] = "Mazk Snipeshot",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2685,
 		["minLevel"] = 36,
 		["maxLevel"] = 36,
 	},
-	[1146] = {
+	[1244] = {
 		["Name"] = "Mazornos",
 		["Zone"] = "Tanaris",
 		["ID"] = 65015,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[1147] = {
+	[1245] = {
 		["Name"] = "Me'lynn",
 		["Zone"] = "Darnassus",
 		["ID"] = 4159,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1148] = {
+	[1246] = {
 		["Name"] = "Mebok Mizzyrix",
 		["Zone"] = "The Barrens",
 		["ID"] = 3446,
-		["maxLevel"] = 17,
 		["minLevel"] = 17,
+		["maxLevel"] = 17,
 	},
-	[1149] = {
+	[1247] = {
 		["Name"] = "Mechanical Squirrel",
 		["Zone"] = "The Barrens",
 		["ID"] = 2671,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[1150] = {
+	[1248] = {
 		["Name"] = "Meek Fusemix",
 		["Zone"] = "Durotar",
 		["ID"] = 91210,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
+		["maxLevel"] = 5,
 	},
-	[1151] = {
+	[1249] = {
 		["Name"] = "Melanastrasza",
 		["Zone"] = "Hyjal",
 		["ID"] = 61579,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[1152] = {
+	[1250] = {
 		["Name"] = "Melanthe Shadesong",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61823,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[1153] = {
+	[1251] = {
 		["Name"] = "Meldor Swiftlance",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 62086,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[1154] = {
+	[1252] = {
 		["Name"] = "Melea",
 		["Zone"] = "Darnassus",
 		["ID"] = 4177,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1155] = {
+	[1253] = {
 		["Name"] = "Melkolar Dawnrise",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 80268,
 		["maxLevel"] = 30,
 		["minLevel"] = 30,
 	},
-	[1156] = {
+	[1254] = {
 		["Name"] = "Melyndella",
 		["Zone"] = "Mulgore",
 		["ID"] = 60977,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[1157] = {
+	[1255] = {
 		["Name"] = "Menara Voidrender",
 		["Zone"] = "The Barrens",
 		["ID"] = 6266,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[1158] = {
+	[1256] = {
 		["Name"] = "Merelyssa",
 		["Zone"] = "Darnassus",
 		["ID"] = 4171,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1159] = {
+	[1257] = {
 		["Name"] = "Mickey Levine",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 11615,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1160] = {
+	[1258] = {
 		["Name"] = "Miles Welsh",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3044,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1161] = {
+	[1259] = {
 		["Name"] = "Miley Wildbit",
 		["Zone"] = "Durotar",
 		["ID"] = 80902,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
+		["maxLevel"] = 5,
 	},
-	[1162] = {
+	[1260] = {
 		["Name"] = "Milla Fairancora",
 		["Zone"] = "Darnassus",
 		["ID"] = 11041,
-		["maxLevel"] = 24,
 		["minLevel"] = 24,
+		["maxLevel"] = 24,
 	},
-	[1163] = {
+	[1261] = {
 		["Name"] = "Miner Glaktor",
 		["Zone"] = "Durotar",
 		["ID"] = 91277,
-		["maxLevel"] = 9,
 		["minLevel"] = 9,
+		["maxLevel"] = 9,
 	},
-	[1164] = {
+	[1262] = {
 		["Name"] = "Miner Gralwax",
 		["Zone"] = "Durotar",
 		["ID"] = 91269,
-		["maxLevel"] = 7,
 		["minLevel"] = 7,
+		["maxLevel"] = 7,
 	},
-	[1165] = {
+	[1263] = {
 		["Name"] = "Miner Kazzlebucket",
 		["Zone"] = "Durotar",
 		["ID"] = 91270,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[1166] = {
+	[1264] = {
 		["Name"] = "Miner Werrywrench",
 		["Zone"] = "Durotar",
 		["ID"] = 91273,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[1167] = {
+	[1265] = {
 		["Name"] = "Minx Oggbolt",
 		["Zone"] = "Durotar",
 		["ID"] = 91263,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
+		["maxLevel"] = 5,
 	},
-	[1168] = {
+	[1266] = {
 		["Name"] = "Miralin Wavesinger",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61805,
 		["maxLevel"] = 60,
 		["minLevel"] = 60,
 	},
-	[1169] = {
+	[1267] = {
+		["Name"] = "Mirefin Coastrunner",
+		["Zone"] = "Dustwallow Marsh",
+		["ID"] = 4362,
+		["minLevel"] = 36,
+		["maxLevel"] = 37,
+	},
+	[1268] = {
+		["Name"] = "Mirefin Muckdweller",
+		["Zone"] = "Dustwallow Marsh",
+		["ID"] = 4361,
+		["minLevel"] = 36,
+		["maxLevel"] = 37,
+	},
+	[1269] = {
+		["Name"] = "Mirefin Oracle",
+		["Zone"] = "Dustwallow Marsh",
+		["ID"] = 4363,
+		["minLevel"] = 37,
+		["maxLevel"] = 38,
+	},
+	[1270] = {
+		["Name"] = "Mirefin Warrior",
+		["Zone"] = "Dustwallow Marsh",
+		["ID"] = 4360,
+		["minLevel"] = 37,
+		["maxLevel"] = 38,
+	},
+	[1271] = {
 		["Name"] = "Mirket",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3325,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[1170] = {
+	[1272] = {
 		["Name"] = "Misthoof Sprinter",
 		["Zone"] = "Hyjal",
 		["ID"] = 61333,
-		["maxLevel"] = 60,
 		["minLevel"] = 58,
+		["maxLevel"] = 60,
 	},
-	[1171] = {
+	[1273] = {
 		["Name"] = "Misthoof Stag",
 		["Zone"] = "Hyjal",
 		["ID"] = 61332,
-		["maxLevel"] = 61,
 		["minLevel"] = 60,
+		["maxLevel"] = 61,
 	},
-	[1172] = {
+	[1274] = {
 		["Name"] = "Modopo",
 		["Zone"] = "Durotar",
 		["ID"] = 60538,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[1173] = {
+	[1275] = {
 		["Name"] = "Mogg",
 		["Zone"] = "The Barrens",
 		["ID"] = 14908,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[1174] = {
+	[1276] = {
 		["Name"] = "Mok'rash",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 1493,
 		["minLevel"] = 50,
 		["maxLevel"] = 50,
 	},
-	[1175] = {
+	[1277] = {
 		["Name"] = "Mokvar",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 16012,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1176] = {
+	[1278] = {
 		["Name"] = "Molten Destroyer",
 		["Zone"] = "Molten Core",
 		["ID"] = 11659,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[1177] = {
+	[1279] = {
 		["Name"] = "Molten Elemental",
 		["Zone"] = "Ragefire Chasm",
 		["ID"] = 11321,
-		["maxLevel"] = 15,
 		["minLevel"] = 13,
+		["maxLevel"] = 15,
 	},
-	[1178] = {
+	[1280] = {
 		["Name"] = "Molten Giant",
 		["Zone"] = "Molten Core",
 		["ID"] = 11658,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1179] = {
+	[1281] = {
 		["Name"] = "Monstrous Plaguebat",
 		["Zone"] = "Eastern Plaguelands",
 		["ID"] = 8602,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[1180] = {
+	[1282] = {
 		["Name"] = "Moorane Hearthgrain",
 		["Zone"] = "The Barrens",
 		["ID"] = 3480,
-		["maxLevel"] = 18,
 		["minLevel"] = 18,
+		["maxLevel"] = 18,
 	},
-	[1181] = {
+	[1283] = {
 		["Name"] = "Mooranta",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 7089,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1182] = {
+	[1284] = {
 		["Name"] = "Morgan",
 		["Zone"] = "The Barrens",
 		["ID"] = 51623,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
+		["maxLevel"] = 5,
 	},
-	[1183] = {
+	[1285] = {
 		["Name"] = "Morgan the Storm",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 51607,
 		["minLevel"] = 43,
 		["maxLevel"] = 44,
 	},
-	[1184] = {
+	[1286] = {
 		["Name"] = "Morgum",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3321,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1185] = {
+	[1287] = {
 		["Name"] = "Moroes",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61225,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1186] = {
+	[1288] = {
 		["Name"] = "Mot Dawnstrider",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 11071,
-		["maxLevel"] = 21,
 		["minLevel"] = 21,
+		["maxLevel"] = 21,
 	},
-	[1187] = {
+	[1289] = {
 		["Name"] = "Mottled Boar",
 		["Zone"] = "Durotar",
 		["ID"] = 3098,
-		["maxLevel"] = 2,
 		["minLevel"] = 1,
+		["maxLevel"] = 2,
 	},
-	[1188] = {
+	[1290] = {
 		["Name"] = "Mountain Yeti",
 		["Zone"] = "Alterac Mountains",
 		["ID"] = 2250,
-		["maxLevel"] = 33,
 		["minLevel"] = 32,
+		["maxLevel"] = 33,
 	},
-	[1189] = {
+	[1291] = {
 		["Name"] = "Mr. Twinkle",
 		["Zone"] = "The Barrens",
 		["ID"] = 60645,
 		["maxLevel"] = 20,
 		["minLevel"] = 20,
 	},
-	[1190] = {
+	[1292] = {
 		["Name"] = "Muckhowl",
 		["Zone"] = "Durotar",
 		["ID"] = 60976,
-		["maxLevel"] = 9,
 		["minLevel"] = 9,
+		["maxLevel"] = 9,
 	},
-	[1191] = {
+	[1293] = {
+		["Name"] = "Muculent Ooze",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6556,
+		["minLevel"] = 48,
+		["maxLevel"] = 50,
+	},
+	[1294] = {
+		["Name"] = "Mudrock Spikeshell",
+		["Zone"] = "Dustwallow Marsh",
+		["ID"] = 4397,
+		["minLevel"] = 38,
+		["maxLevel"] = 38,
+	},
+	[1295] = {
+		["Name"] = "Mudrock Tortoise",
+		["Zone"] = "Dustwallow Marsh",
+		["ID"] = 4396,
+		["minLevel"] = 36,
+		["maxLevel"] = 36,
+	},
+	[1296] = {
+		["Name"] = "Muigin",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9119,
+		["minLevel"] = 51,
+		["maxLevel"] = 51,
+	},
+	[1297] = {
 		["Name"] = "Mukdrak",
 		["Zone"] = "Durotar",
 		["ID"] = 11025,
-		["maxLevel"] = 26,
 		["minLevel"] = 26,
+		["maxLevel"] = 26,
 	},
-	[1192] = {
+	[1298] = {
 		["Name"] = "Muragus",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3330,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1193] = {
+	[1299] = {
 		["Name"] = "Murky",
 		["Zone"] = "Ironforge",
 		["ID"] = 15186,
 		["minLevel"] = 1,
 		["maxLevel"] = 1,
 	},
-	[1194] = {
+	[1300] = {
 		["Name"] = "Murky",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 15186,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[1195] = {
+	[1301] = {
 		["Name"] = "Murta Grimgut",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7608,
-		["maxLevel"] = 44,
 		["minLevel"] = 44,
+		["maxLevel"] = 44,
 	},
-	[1196] = {
+	[1302] = {
 		["Name"] = "Mutated Grub",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16297,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1197] = {
+	[1303] = {
 		["Name"] = "Mutated Venture Co. Drone",
 		["Zone"] = "The Barrens",
 		["ID"] = 7310,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[1198] = {
+	[1304] = {
 		["Name"] = "Mydrannul",
 		["Zone"] = "Darnassus",
 		["ID"] = 4241,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1199] = {
+	[1305] = {
 		["Name"] = "Myizz Luckycatch",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2834,
 		["minLevel"] = 43,
 		["maxLevel"] = 43,
 	},
-	[1200] = {
+	[1306] = {
 		["Name"] = "Myolor Sunderfury",
 		["Zone"] = "Ironforge",
 		["ID"] = 11145,
 		["minLevel"] = 53,
 		["maxLevel"] = 53,
 	},
-	[1201] = {
+	[1307] = {
 		["Name"] = "Myra Tyrngaarde",
 		["Zone"] = "Ironforge",
 		["ID"] = 5109,
 		["minLevel"] = 30,
 		["maxLevel"] = 30,
 	},
-	[1202] = {
+	[1308] = {
 		["Name"] = "Myranda the Hag",
 		["Zone"] = "Western Plaguelands",
 		["ID"] = 11872,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[1203] = {
+	[1309] = {
 		["Name"] = "Myriam Moonsinger",
 		["Zone"] = "The Barrens",
 		["ID"] = 12866,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1204] = {
+	[1310] = {
+		["Name"] = "Myrokos Silentform",
+		["Zone"] = "Alterac Mountains",
+		["ID"] = 13085,
+		["minLevel"] = 57,
+		["maxLevel"] = 57,
+	},
+	[1311] = {
 		["Name"] = "Mythidan",
 		["Zone"] = "Darnassus",
 		["ID"] = 4233,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1205] = {
+	[1312] = {
 		["Name"] = "Mythrin'dir",
 		["Zone"] = "Darnassus",
 		["ID"] = 4229,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1206] = {
+	[1313] = {
 		["Name"] = "Naal Mistrunner",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3027,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1207] = {
+	[1314] = {
 		["Name"] = "Naesanna Moongrace",
 		["Zone"] = "Hyjal",
 		["ID"] = 61355,
-		["maxLevel"] = 54,
 		["minLevel"] = 54,
+		["maxLevel"] = 54,
 	},
-	[1208] = {
+	[1315] = {
 		["Name"] = "Nak",
 		["Zone"] = "The Barrens",
 		["ID"] = 3434,
-		["maxLevel"] = 23,
 		["minLevel"] = 23,
+		["maxLevel"] = 23,
 	},
-	[1209] = {
+	[1316] = {
 		["Name"] = "Nan Mistrunner",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3017,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1210] = {
+	[1317] = {
 		["Name"] = "Nantai Truthwind",
 		["Zone"] = "Durotar",
 		["ID"] = 60700,
-		["maxLevel"] = 14,
 		["minLevel"] = 14,
+		["maxLevel"] = 14,
 	},
-	[1211] = {
+	[1318] = {
 		["Name"] = "Nanze",
 		["Zone"] = "Tanaris",
 		["ID"] = 80995,
-		["maxLevel"] = 51,
 		["minLevel"] = 51,
+		["maxLevel"] = 51,
 	},
-	[1212] = {
+	[1319] = {
 		["Name"] = "Nargal Deatheye",
 		["Zone"] = "The Barrens",
 		["ID"] = 3479,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1213] = {
+	[1320] = {
 		["Name"] = "Nargg",
 		["Zone"] = "Hyjal",
 		["ID"] = 61507,
-		["maxLevel"] = 57,
 		["minLevel"] = 57,
+		["maxLevel"] = 57,
 	},
-	[1214] = {
+	[1321] = {
 		["Name"] = "Narj Deepslice",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2814,
-		["maxLevel"] = 39,
 		["minLevel"] = 39,
+		["maxLevel"] = 39,
 	},
-	[1215] = {
+	[1322] = {
 		["Name"] = "Narkk",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2663,
 		["maxLevel"] = 42,
 		["minLevel"] = 42,
 	},
-	[1216] = {
+	[1323] = {
 		["Name"] = "Nartok",
 		["Zone"] = "Durotar",
 		["ID"] = 3156,
-		["maxLevel"] = 9,
 		["minLevel"] = 9,
+		["maxLevel"] = 9,
 	},
-	[1217] = {
+	[1324] = {
 		["Name"] = "Nata Dawnstrider",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3012,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1218] = {
+	[1325] = {
 		["Name"] = "Naxxramas Acolyte",
 		["Zone"] = "Naxxramas",
 		["ID"] = 15981,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1219] = {
+	[1326] = {
 		["Name"] = "Naxxramas Cultist",
 		["Zone"] = "Naxxramas",
 		["ID"] = 15980,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1220] = {
+	[1327] = {
 		["Name"] = "Naxxramas Follower",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16505,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1221] = {
+	[1328] = {
 		["Name"] = "Naxxramas Worshipper",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16506,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1222] = {
+	[1329] = {
 		["Name"] = "Nazgrel",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3230,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1223] = {
+	[1330] = {
 		["Name"] = "Nazgro Wacktoggle",
 		["Zone"] = "Durotar",
 		["ID"] = 91266,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[1224] = {
+	[1331] = {
 		["Name"] = "Nazzle Moreflak",
 		["Zone"] = "Durotar",
 		["ID"] = 91215,
-		["maxLevel"] = 36,
 		["minLevel"] = 36,
+		["maxLevel"] = 36,
 	},
-	[1225] = {
+	[1332] = {
 		["Name"] = "Necro Knight",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16165,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1226] = {
+	[1333] = {
 		["Name"] = "Necro Knight Guardian",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16452,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1227] = {
+	[1334] = {
 		["Name"] = "Necro Stalker",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16453,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1228] = {
+	[1335] = {
 		["Name"] = "Necrofiend",
 		["Zone"] = "Scholomance",
 		["ID"] = 11551,
-		["maxLevel"] = 60,
 		["minLevel"] = 58,
+		["maxLevel"] = 60,
 	},
-	[1229] = {
+	[1336] = {
 		["Name"] = "Necropolis Acolyte",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16368,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1230] = {
+	[1337] = {
 		["Name"] = "Neeru Fireblade",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3216,
-		["maxLevel"] = 37,
 		["minLevel"] = 37,
+		["maxLevel"] = 37,
 	},
-	[1231] = {
+	[1338] = {
 		["Name"] = "Nefarian",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 11583,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1232] = {
+	[1339] = {
 		["Name"] = "Nekrum Gutchewer",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7796,
-		["maxLevel"] = 46,
 		["minLevel"] = 46,
+		["maxLevel"] = 46,
 	},
-	[1233] = {
+	[1340] = {
 		["Name"] = "Nessa Shadowsong",
 		["Zone"] = "Teldrassil",
 		["ID"] = 10118,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[1234] = {
+	[1341] = {
 		["Name"] = "Nethergarde Cleric",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 6000,
-		["maxLevel"] = 51,
 		["minLevel"] = 51,
+		["maxLevel"] = 51,
 	},
-	[1235] = {
+	[1342] = {
 		["Name"] = "Nethergarde Engineer",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 5997,
-		["maxLevel"] = 48,
 		["minLevel"] = 48,
+		["maxLevel"] = 48,
 	},
-	[1236] = {
+	[1343] = {
 		["Name"] = "Nethergarde Miner",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 5996,
-		["maxLevel"] = 48,
 		["minLevel"] = 47,
+		["maxLevel"] = 48,
 	},
-	[1237] = {
+	[1344] = {
 		["Name"] = "Nethergarde Soldier",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 5999,
-		["maxLevel"] = 50,
 		["minLevel"] = 49,
+		["maxLevel"] = 50,
 	},
-	[1238] = {
+	[1345] = {
 		["Name"] = "Nez'raz",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 3149,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1239] = {
+	[1346] = {
 		["Name"] = "Nida Winterhoof",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3014,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1240] = {
+	[1347] = {
 		["Name"] = "Nirenia Swiftsun",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61824,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[1241] = {
+	[1348] = {
 		["Name"] = "Nixx Oldfuse",
 		["Zone"] = "Durotar",
 		["ID"] = 91250,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1242] = {
+	[1349] = {
 		["Name"] = "Nixx Sprocketspring",
 		["Zone"] = "Tanaris",
 		["ID"] = 8126,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1243] = {
+	[1350] = {
 		["Name"] = "Nixxrax Fillamug",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2832,
 		["minLevel"] = 38,
 		["maxLevel"] = 38,
 	},
-	[1244] = {
+	[1351] = {
 		["Name"] = "Nizzle",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 62708,
 		["minLevel"] = 60,
 		["maxLevel"] = 60,
 	},
-	[1245] = {
+	[1352] = {
 		["Name"] = "Nogg",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3412,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1246] = {
+	[1353] = {
 		["Name"] = "Nordanaar Guardian",
 		["Zone"] = "Hyjal",
 		["ID"] = 61527,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1247] = {
+	[1354] = {
 		["Name"] = "Nordrassil Nymph",
 		["Zone"] = "Hyjal",
 		["ID"] = 61582,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1248] = {
+	[1355] = {
 		["Name"] = "Noth the Plaguebringer",
 		["Zone"] = "Naxxramas",
 		["ID"] = 15954,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1249] = {
+	[1356] = {
 		["Name"] = "Novice Investor",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 51247,
 		["minLevel"] = 30,
 		["maxLevel"] = 30,
 	},
-	[1250] = {
+	[1357] = {
 		["Name"] = "Noxious Plaguebat",
 		["Zone"] = "Eastern Plaguelands",
 		["ID"] = 8601,
-		["maxLevel"] = 54,
 		["minLevel"] = 54,
+		["maxLevel"] = 54,
 	},
-	[1251] = {
+	[1358] = {
+		["Name"] = "Nyse",
+		["Zone"] = "Thousand Needles",
+		["ID"] = 4317,
+		["minLevel"] = 55,
+		["maxLevel"] = 55,
+	},
+	[1359] = {
 		["Name"] = "Oasis Snapjaw",
 		["Zone"] = "The Barrens",
 		["ID"] = 3461,
-		["maxLevel"] = 16,
 		["minLevel"] = 15,
+		["maxLevel"] = 16,
 	},
-	[1252] = {
+	[1360] = {
 		["Name"] = "Obsidian Eradicator",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15262,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1253] = {
+	[1361] = {
+		["Name"] = "Obsidian Feral Raptor",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 93347,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[1362] = {
 		["Name"] = "Obsidian Nullifier",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15312,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1254] = {
+	[1363] = {
 		["Name"] = "Occulus",
 		["Zone"] = "Tanaris",
 		["ID"] = 8196,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[1255] = {
+	[1364] = {
 		["Name"] = "Odo",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 80605,
-		["maxLevel"] = 37,
 		["minLevel"] = 37,
+		["maxLevel"] = 37,
 	},
-	[1256] = {
+	[1365] = {
 		["Name"] = "Oggleflint",
 		["Zone"] = "Ragefire Chasm",
 		["ID"] = 11517,
-		["maxLevel"] = 16,
 		["minLevel"] = 16,
+		["maxLevel"] = 16,
 	},
-	[1257] = {
+	[1366] = {
 		["Name"] = "Oglethorpe Obnoticus",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 7406,
 		["minLevel"] = 50,
 		["maxLevel"] = 50,
 	},
-	[1258] = {
+	[1367] = {
 		["Name"] = "Ogromm",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 987,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[1259] = {
+	[1368] = {
 		["Name"] = "Ogunaro Wolfrunner",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3362,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1260] = {
+	[1369] = {
 		["Name"] = "Ohanko",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 8398,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1261] = {
+	[1370] = {
 		["Name"] = "Oil Manager Tizzleflux",
 		["Zone"] = "Durotar",
 		["ID"] = 91213,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
+		["maxLevel"] = 5,
 	},
-	[1262] = {
+	[1371] = {
 		["Name"] = "Oilworker Brassrust",
 		["Zone"] = "Durotar",
 		["ID"] = 91223,
-		["maxLevel"] = 12,
 		["minLevel"] = 12,
+		["maxLevel"] = 12,
 	},
-	[1263] = {
+	[1372] = {
 		["Name"] = "Oilworker Gullydagger",
 		["Zone"] = "Durotar",
 		["ID"] = 91222,
-		["maxLevel"] = 16,
 		["minLevel"] = 16,
+		["maxLevel"] = 16,
 	},
-	[1264] = {
+	[1373] = {
 		["Name"] = "Oilworker Razlik",
 		["Zone"] = "Durotar",
 		["ID"] = 91208,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
+		["maxLevel"] = 5,
 	},
-	[1265] = {
+	[1374] = {
 		["Name"] = "Okla",
 		["Zone"] = "The Barrens",
 		["ID"] = 14873,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[1266] = {
+	[1375] = {
 		["Name"] = "Okothos Ironrager",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 11177,
-		["maxLevel"] = 52,
 		["minLevel"] = 52,
+		["maxLevel"] = 52,
 	},
-	[1267] = {
+	[1376] = {
+		["Name"] = "Ol' Biggins",
+		["Zone"] = "Alterac Mountains",
+		["ID"] = 50012,
+		["minLevel"] = 58,
+		["maxLevel"] = 58,
+	},
+	[1377] = {
 		["Name"] = "Old Man Heming",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2626,
 		["minLevel"] = 43,
 		["maxLevel"] = 43,
 	},
-	[1268] = {
+	[1378] = {
 		["Name"] = "Old-Tide Sam",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 60454,
 		["maxLevel"] = 52,
 		["minLevel"] = 52,
 	},
-	[1269] = {
+	[1379] = {
 		["Name"] = "Ollanus",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3317,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1270] = {
+	[1380] = {
+		["Name"] = "Olvia",
+		["Zone"] = "Orgrimmar",
+		["ID"] = 3312,
+		["minLevel"] = 50,
+		["maxLevel"] = 50,
+	},
+	[1381] = {
 		["Name"] = "Omusa Thunderhorn",
 		["Zone"] = "The Barrens",
 		["ID"] = 10378,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1271] = {
+	[1382] = {
 		["Name"] = "Ophek",
 		["Zone"] = "Durotar",
 		["ID"] = 3294,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[1272] = {
+	[1383] = {
 		["Name"] = "Ordenal Owlmane",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61796,
 		["maxLevel"] = 45,
 		["minLevel"] = 45,
 	},
-	[1273] = {
+	[1384] = {
 		["Name"] = "Orgnil Soulscar",
 		["Zone"] = "Durotar",
 		["ID"] = 3142,
-		["maxLevel"] = 18,
 		["minLevel"] = 18,
+		["maxLevel"] = 18,
 	},
-	[1274] = {
+	[1385] = {
 		["Name"] = "Orgrimmar Grunt",
 		["Zone"] = "The Barrens",
 		["ID"] = 3296,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
-	},
-	[1275] = {
-		["Name"] = "Orgrimmar Grunt",
-		["Zone"] = "Durotar",
-		["ID"] = 3296,
 		["maxLevel"] = 55,
-		["minLevel"] = 55,
 	},
-	[1276] = {
-		["Name"] = "Orgrimmar Grunt",
-		["Zone"] = "Orgrimmar",
-		["ID"] = 3296,
-		["maxLevel"] = 55,
-		["minLevel"] = 55,
-	},
-	[1277] = {
+	[1386] = {
 		["Name"] = "Orgrimmar Grunt",
 		["Zone"] = "Azshara",
 		["ID"] = 3296,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1278] = {
+	[1387] = {
+		["Name"] = "Orgrimmar Grunt",
+		["Zone"] = "Durotar",
+		["ID"] = 3296,
+		["minLevel"] = 55,
+		["maxLevel"] = 55,
+	},
+	[1388] = {
 		["Name"] = "Orgrimmar Grunt",
 		["Zone"] = "Ashenvale",
 		["ID"] = 3296,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1279] = {
+	[1389] = {
+		["Name"] = "Orgrimmar Grunt",
+		["Zone"] = "Orgrimmar",
+		["ID"] = 3296,
+		["minLevel"] = 55,
+		["maxLevel"] = 55,
+	},
+	[1390] = {
 		["Name"] = "Oriel Dendalion",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 62092,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[1280] = {
+	[1391] = {
 		["Name"] = "Orik Greystone",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61867,
 		["maxLevel"] = 40,
 		["minLevel"] = 40,
 	},
-	[1281] = {
+	[1392] = {
 		["Name"] = "Orm Stonehoof",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 6410,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1282] = {
+	[1393] = {
 		["Name"] = "Ormak Grimshot",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3352,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1283] = {
+	[1394] = {
 		["Name"] = "Ormok",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3328,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[1284] = {
+	[1395] = {
 		["Name"] = "Ormyr Flinteye",
 		["Zone"] = "Ironforge",
 		["ID"] = 5166,
 		["minLevel"] = 50,
 		["maxLevel"] = 50,
 	},
-	[1285] = {
+	[1396] = {
 		["Name"] = "Ornate Thalassian Unicorn",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 40044,
 		["maxLevel"] = 1,
 		["minLevel"] = 1,
 	},
-	[1286] = {
+	[1397] = {
 		["Name"] = "Ornery Plainstrider",
 		["Zone"] = "The Barrens",
 		["ID"] = 3245,
-		["maxLevel"] = 17,
 		["minLevel"] = 16,
+		["maxLevel"] = 17,
 	},
-	[1287] = {
+	[1398] = {
 		["Name"] = "Oro Eyegouge",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7606,
-		["maxLevel"] = 44,
 		["minLevel"] = 44,
+		["maxLevel"] = 44,
 	},
-	[1288] = {
+	[1399] = {
 		["Name"] = "Orokk Omosh",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 7790,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1289] = {
+	[1400] = {
 		["Name"] = "Orphan Matron Battlewail",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 14451,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[1290] = {
+	[1401] = {
 		["Name"] = "Othorion Whitelance",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61825,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[1291] = {
+	[1402] = {
 		["Name"] = "Ouro",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15517,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1292] = {
+	[1403] = {
 		["Name"] = "Overlord Runthak",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 14392,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1293] = {
+	[1404] = {
 		["Name"] = "Overseer Glibby",
 		["Zone"] = "The Barrens",
 		["ID"] = 6606,
 		["maxLevel"] = 16,
 		["minLevel"] = 16,
 	},
-	[1294] = {
+	[1405] = {
 		["Name"] = "Overwatch Mark I",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 3538,
-		["maxLevel"] = 32,
 		["minLevel"] = 32,
+		["maxLevel"] = 32,
 	},
-	[1295] = {
+	[1406] = {
 		["Name"] = "Owatanka",
 		["Zone"] = "The Barrens",
 		["ID"] = 3473,
-		["maxLevel"] = 24,
 		["minLevel"] = 24,
+		["maxLevel"] = 24,
 	},
-	[1296] = {
+	[1407] = {
 		["Name"] = "Ox",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 7793,
-		["maxLevel"] = 53,
 		["minLevel"] = 53,
+		["maxLevel"] = 53,
 	},
-	[1297] = {
-		["Name"] = "Pack Kodo",
-		["Zone"] = "Durotar",
-		["ID"] = 10636,
-		["maxLevel"] = 30,
-		["minLevel"] = 30,
-	},
-	[1298] = {
+	[1408] = {
 		["Name"] = "Pack Kodo",
 		["Zone"] = "The Barrens",
 		["ID"] = 10636,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1299] = {
+	[1409] = {
 		["Name"] = "Pack Kodo",
 		["Zone"] = "Thousand Needles",
 		["ID"] = 10636,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1300] = {
+	[1410] = {
+		["Name"] = "Pack Kodo",
+		["Zone"] = "Durotar",
+		["ID"] = 10636,
+		["minLevel"] = 30,
+		["maxLevel"] = 30,
+	},
+	[1411] = {
+		["Name"] = "Pack Mule",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 16225,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[1412] = {
+		["Name"] = "Packmaster Stonebruiser",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 16283,
+		["minLevel"] = 59,
+		["maxLevel"] = 59,
+	},
+	[1413] = {
 		["Name"] = "Pakwa",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 8364,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1301] = {
+	[1414] = {
 		["Name"] = "Palomino",
 		["Zone"] = "Tanaris",
 		["ID"] = 51561,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[1302] = {
+	[1415] = {
 		["Name"] = "Palomino",
 		["Zone"] = "The Barrens",
 		["ID"] = 51561,
 		["maxLevel"] = 1,
 		["minLevel"] = 1,
 	},
-	[1303] = {
+	[1416] = {
 		["Name"] = "Pand Stonebinder",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 2798,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1304] = {
+	[1417] = {
 		["Name"] = "Panella Evercrest",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61915,
 		["maxLevel"] = 25,
 		["minLevel"] = 25,
 	},
-	[1305] = {
+	[1418] = {
 		["Name"] = "Paranus",
 		["Zone"] = "Hyjal",
 		["ID"] = 61495,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[1306] = {
+	[1419] = {
+		["Name"] = "Parrot",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9600,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[1420] = {
 		["Name"] = "Patchwerk",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16028,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1307] = {
+	[1421] = {
 		["Name"] = "Patchwork Golem",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16017,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1308] = {
+	[1422] = {
 		["Name"] = "Pawe Mistrunner",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3447,
-		["maxLevel"] = 24,
 		["minLevel"] = 24,
+		["maxLevel"] = 24,
 	},
-	[1309] = {
+	[1423] = {
 		["Name"] = "Pazzle Brightwrench",
 		["Zone"] = "Durotar",
 		["ID"] = 91259,
-		["maxLevel"] = 13,
 		["minLevel"] = 13,
+		["maxLevel"] = 13,
 	},
-	[1310] = {
+	[1424] = {
 		["Name"] = "Peon",
 		["Zone"] = "The Barrens",
 		["ID"] = 14901,
-		["maxLevel"] = 4,
 		["minLevel"] = 4,
+		["maxLevel"] = 4,
 	},
-	[1311] = {
+	[1425] = {
 		["Name"] = "Pephredo",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5882,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1312] = {
+	[1426] = {
+		["Name"] = "Petra Grossen",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9273,
+		["minLevel"] = 46,
+		["maxLevel"] = 46,
+	},
+	[1427] = {
 		["Name"] = "Pezzik Villamar",
 		["Zone"] = "Durotar",
 		["ID"] = 70060,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
+		["maxLevel"] = 5,
 	},
-	[1313] = {
+	[1428] = {
 		["Name"] = "Phantom Cook",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61210,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1314] = {
+	[1429] = {
 		["Name"] = "Phantom Guardsman",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61200,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1315] = {
+	[1430] = {
 		["Name"] = "Phantom Servant",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61205,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1316] = {
+	[1431] = {
 		["Name"] = "Pikkle",
 		["Zone"] = "Tanaris",
 		["ID"] = 8128,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1317] = {
+	[1432] = {
 		["Name"] = "Pilot Wizzlecrank",
 		["Zone"] = "The Barrens",
 		["ID"] = 3451,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[1318] = {
+	[1433] = {
 		["Name"] = "Plague Beast",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16034,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1319] = {
+	[1434] = {
 		["Name"] = "Plague Slime",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16243,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1320] = {
+	[1435] = {
 		["Name"] = "Plague Slime (Blue)",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16783,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1321] = {
+	[1436] = {
 		["Name"] = "Plague Slime (Green)",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16785,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1322] = {
+	[1437] = {
 		["Name"] = "Plague Slime (Red)",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16784,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1323] = {
+	[1438] = {
+		["Name"] = "Plaguebat",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 8600,
+		["minLevel"] = 53,
+		["maxLevel"] = 55,
+	},
+	[1439] = {
 		["Name"] = "Plagued Bat",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16037,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1324] = {
+	[1440] = {
 		["Name"] = "Plagued Deathhound",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16448,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1325] = {
+	[1441] = {
 		["Name"] = "Plagued Gargoyle",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16446,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1326] = {
+	[1442] = {
 		["Name"] = "Plagued Ghoul",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16447,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1327] = {
+	[1443] = {
 		["Name"] = "Plagued Hatchling",
 		["Zone"] = "Scholomance",
 		["ID"] = 10678,
-		["maxLevel"] = 59,
 		["minLevel"] = 57,
+		["maxLevel"] = 59,
 	},
-	[1328] = {
+	[1444] = {
 		["Name"] = "Plagued Warrior",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16984,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1329] = {
+	[1445] = {
 		["Name"] = "Plaguehound",
 		["Zone"] = "Eastern Plaguelands",
 		["ID"] = 8597,
+		["minLevel"] = 55,
 		["maxLevel"] = 56,
-		["minLevel"] = 56,
 	},
-	[1330] = {
+	[1446] = {
+		["Name"] = "Plaguehound Runt",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 8596,
+		["minLevel"] = 54,
+		["maxLevel"] = 54,
+	},
+	[1447] = {
 		["Name"] = "Plains Creeper",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2563,
-		["maxLevel"] = 33,
 		["minLevel"] = 32,
+		["maxLevel"] = 33,
 	},
-	[1331] = {
+	[1448] = {
+		["Name"] = "Plated Stegodon",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6502,
+		["minLevel"] = 53,
+		["maxLevel"] = 54,
+	},
+	[1449] = {
 		["Name"] = "Pooka",
 		["Zone"] = "The Barrens",
 		["ID"] = 14909,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[1332] = {
+	[1450] = {
 		["Name"] = "Portal Seeker",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 5981,
-		["maxLevel"] = 53,
 		["minLevel"] = 53,
+		["maxLevel"] = 53,
 	},
-	[1333] = {
-		["Name"] = "Prairie Dog",
-		["Zone"] = "Arathi Highlands",
-		["ID"] = 2620,
-		["maxLevel"] = 1,
-		["minLevel"] = 1,
-	},
-	[1334] = {
-		["Name"] = "Prairie Dog",
-		["Zone"] = "Mulgore",
-		["ID"] = 2620,
-		["maxLevel"] = 1,
-		["minLevel"] = 1,
-	},
-	[1335] = {
+	[1451] = {
 		["Name"] = "Prairie Dog",
 		["Zone"] = "The Barrens",
 		["ID"] = 2620,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[1336] = {
+	[1452] = {
+		["Name"] = "Prairie Dog",
+		["Zone"] = "Mulgore",
+		["ID"] = 2620,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[1453] = {
+		["Name"] = "Prairie Dog",
+		["Zone"] = "Arathi Highlands",
+		["ID"] = 2620,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[1454] = {
 		["Name"] = "Prairie Stalker",
 		["Zone"] = "Mulgore",
 		["ID"] = 2959,
-		["maxLevel"] = 8,
 		["minLevel"] = 7,
+		["maxLevel"] = 8,
 	},
-	[1337] = {
+	[1455] = {
 		["Name"] = "Prairie Stalker",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 2959,
-		["maxLevel"] = 8,
 		["minLevel"] = 7,
+		["maxLevel"] = 8,
 	},
-	[1338] = {
+	[1456] = {
 		["Name"] = "Prairie Wolf Alpha",
 		["Zone"] = "Mulgore",
 		["ID"] = 2960,
-		["maxLevel"] = 10,
 		["minLevel"] = 9,
+		["maxLevel"] = 10,
 	},
-	[1339] = {
+	[1457] = {
 		["Name"] = "Priestess A'moora",
 		["Zone"] = "Darnassus",
 		["ID"] = 7313,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
-	[1340] = {
+	[1458] = {
 		["Name"] = "Priestess Alathea",
 		["Zone"] = "Darnassus",
 		["ID"] = 11401,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1341] = {
+	[1459] = {
+		["Name"] = "Primal Ooze",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6557,
+		["minLevel"] = 50,
+		["maxLevel"] = 52,
+	},
+	[1460] = {
+		["Name"] = "Primitive Owlbeast",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 2928,
+		["minLevel"] = 44,
+		["maxLevel"] = 45,
+	},
+	[1461] = {
 		["Name"] = "Princess Huhuran",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15509,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1342] = {
+	[1462] = {
 		["Name"] = "Princess Poobah",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2634,
 		["maxLevel"] = 42,
 		["minLevel"] = 42,
 	},
-	[1343] = {
+	[1463] = {
 		["Name"] = "Princess Yauj",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15543,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1344] = {
+	[1464] = {
 		["Name"] = "Privateer Bloads",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2494,
 		["minLevel"] = 40,
 		["maxLevel"] = 40,
 	},
-	[1345] = {
+	[1465] = {
 		["Name"] = "Professor Papucho",
 		["Zone"] = "Ironforge",
 		["ID"] = 50004,
 		["minLevel"] = 25,
 		["maxLevel"] = 25,
 	},
-	[1346] = {
+	[1466] = {
 		["Name"] = "Prospector Gunstan",
 		["Zone"] = "Tanaris",
 		["ID"] = 5389,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1347] = {
+	[1467] = {
 		["Name"] = "Prospector Ironboot",
 		["Zone"] = "Tanaris",
 		["ID"] = 10460,
-		["maxLevel"] = 48,
 		["minLevel"] = 48,
+		["maxLevel"] = 48,
 	},
-	[1348] = {
+	[1468] = {
 		["Name"] = "Prospector Khazgorm",
 		["Zone"] = "The Barrens",
 		["ID"] = 3392,
-		["maxLevel"] = 24,
 		["minLevel"] = 24,
+		["maxLevel"] = 24,
 	},
-	[1349] = {
+	[1469] = {
 		["Name"] = "Prospector Stormpike",
 		["Zone"] = "Ironforge",
 		["ID"] = 1356,
 		["minLevel"] = 30,
 		["maxLevel"] = 30,
 	},
-	[1350] = {
+	[1470] = {
+		["Name"] = "Pterrordax",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9166,
+		["minLevel"] = 50,
+		["maxLevel"] = 52,
+	},
+	[1471] = {
+		["Name"] = "Putrid Gargoyle",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 8534,
+		["minLevel"] = 54,
+		["maxLevel"] = 56,
+	},
+	[1472] = {
 		["Name"] = "Pygmy Surf Crawler",
 		["Zone"] = "Durotar",
 		["ID"] = 3106,
-		["maxLevel"] = 6,
 		["minLevel"] = 5,
+		["maxLevel"] = 6,
 	},
-	[1351] = {
+	[1473] = {
 		["Name"] = "Qiraji Brainwasher",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15247,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1352] = {
+	[1474] = {
 		["Name"] = "Qiraji Champion",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15252,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[1353] = {
+	[1475] = {
 		["Name"] = "Qiraji Lasher",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15249,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1354] = {
+	[1476] = {
 		["Name"] = "Qiraji Mindslayer",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15246,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1355] = {
+	[1477] = {
 		["Name"] = "Qiraji Scarab",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15316,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1356] = {
+	[1478] = {
 		["Name"] = "Qiraji Scorpion",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15317,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1357] = {
+	[1479] = {
 		["Name"] = "Qiraji Slayer",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15250,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1358] = {
+	[1480] = {
 		["Name"] = "Qizzik",
 		["Zone"] = "Tanaris",
 		["ID"] = 8124,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1359] = {
+	[1481] = {
 		["Name"] = "Quae",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2712,
-		["maxLevel"] = 38,
 		["minLevel"] = 38,
+		["maxLevel"] = 38,
 	},
-	[1360] = {
+	[1482] = {
 		["Name"] = "Quark",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 80601,
-		["maxLevel"] = 37,
 		["minLevel"] = 37,
+		["maxLevel"] = 37,
 	},
-	[1361] = {
+	[1483] = {
+		["Name"] = "Quartermaster Miranda Breechlock",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 11536,
+		["minLevel"] = 58,
+		["maxLevel"] = 58,
+	},
+	[1484] = {
 		["Name"] = "Quel'dorei Dragonhawk",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 803,
 		["maxLevel"] = 5,
 		["minLevel"] = 5,
 	},
-	[1362] = {
+	[1485] = {
 		["Name"] = "Quinn",
 		["Zone"] = "Tanaris",
 		["ID"] = 11756,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1363] = {
+	[1486] = {
+		["Name"] = "Quixxil",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 10977,
+		["minLevel"] = 53,
+		["maxLevel"] = 53,
+	},
+	[1487] = {
 		["Name"] = "Rabbit",
 		["Zone"] = "Winterspring",
 		["ID"] = 721,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
-	},
-	[1364] = {
-		["Name"] = "Rabbit",
-		["Zone"] = "Hyjal",
-		["ID"] = 721,
 		["maxLevel"] = 1,
-		["minLevel"] = 1,
 	},
-	[1365] = {
-		["Name"] = "Rabbit",
-		["Zone"] = "Hillsbrad Foothills",
-		["ID"] = 721,
-		["maxLevel"] = 1,
-		["minLevel"] = 1,
-	},
-	[1366] = {
+	[1488] = {
 		["Name"] = "Rabbit",
 		["Zone"] = "Dun Morogh",
 		["ID"] = 721,
 		["minLevel"] = 1,
 		["maxLevel"] = 1,
 	},
-	[1367] = {
+	[1489] = {
+		["Name"] = "Rabbit",
+		["Zone"] = "Hillsbrad Foothills",
+		["ID"] = 721,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[1490] = {
+		["Name"] = "Rabbit",
+		["Zone"] = "Hyjal",
+		["ID"] = 721,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[1491] = {
 		["Name"] = "Rabid Blisterpaw",
 		["Zone"] = "Tanaris",
 		["ID"] = 5427,
-		["maxLevel"] = 48,
 		["minLevel"] = 47,
+		["maxLevel"] = 48,
 	},
-	[1368] = {
+	[1492] = {
 		["Name"] = "Raedon Duskstriker",
 		["Zone"] = "Darnassus",
 		["ID"] = 14725,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1369] = {
+	[1493] = {
+		["Name"] = "Raela Moonarrow",
+		["Zone"] = "Feralas",
+		["ID"] = 61153,
+		["minLevel"] = 42,
+		["maxLevel"] = 42,
+	},
+	[1494] = {
 		["Name"] = "Ragefire Shaman",
 		["Zone"] = "Ragefire Chasm",
 		["ID"] = 11319,
-		["maxLevel"] = 15,
 		["minLevel"] = 13,
+		["maxLevel"] = 15,
 	},
-	[1370] = {
+	[1495] = {
 		["Name"] = "Ragefire Trogg",
 		["Zone"] = "Ragefire Chasm",
 		["ID"] = 11318,
-		["maxLevel"] = 15,
 		["minLevel"] = 13,
+		["maxLevel"] = 15,
 	},
-	[1371] = {
+	[1496] = {
 		["Name"] = "Raging Dune Smasher",
 		["Zone"] = "Tanaris",
 		["ID"] = 5470,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[1372] = {
+	[1497] = {
 		["Name"] = "Ragnaros",
 		["Zone"] = "Molten Core",
 		["ID"] = 11502,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1373] = {
+	[1498] = {
 		["Name"] = "Ralathius",
 		["Zone"] = "Hyjal",
 		["ID"] = 61326,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1374] = {
+	[1499] = {
 		["Name"] = "Ralonius Sundew",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 80249,
 		["maxLevel"] = 50,
 		["minLevel"] = 50,
 	},
-	[1375] = {
+	[1500] = {
 		["Name"] = "Ranellius Pureheart",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61916,
 		["maxLevel"] = 31,
 		["minLevel"] = 31,
 	},
-	[1376] = {
+	[1501] = {
 		["Name"] = "Ranger Protector",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 80216,
 		["maxLevel"] = 55,
 		["minLevel"] = 55,
 	},
-	[1377] = {
+	[1502] = {
 		["Name"] = "Ranger-Captain Nasuna Dawnbringer",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 80232,
 		["maxLevel"] = 60,
 		["minLevel"] = 60,
 	},
-	[1378] = {
+	[1503] = {
 		["Name"] = "Ranik",
 		["Zone"] = "The Barrens",
 		["ID"] = 3499,
-		["maxLevel"] = 22,
 		["minLevel"] = 22,
+		["maxLevel"] = 22,
 	},
-	[1379] = {
+	[1504] = {
 		["Name"] = "Ransin Donner",
 		["Zone"] = "Ironforge",
 		["ID"] = 2943,
 		["minLevel"] = 35,
 		["maxLevel"] = 35,
 	},
-	[1380] = {
+	[1505] = {
 		["Name"] = "Rarc",
 		["Zone"] = "Durotar",
 		["ID"] = 3161,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[1381] = {
+	[1506] = {
 		["Name"] = "Ras Frostwhisper",
 		["Zone"] = "Scholomance",
 		["ID"] = 10508,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1382] = {
+	[1507] = {
 		["Name"] = "Rashona Straglash",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 14726,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1383] = {
-		["Name"] = "Rat",
-		["Zone"] = "Naxxramas",
-		["ID"] = 4075,
-		["maxLevel"] = 1,
-		["minLevel"] = 1,
-	},
-	[1384] = {
-		["Name"] = "Rat",
-		["Zone"] = "Stranglethorn Vale",
-		["ID"] = 4075,
-		["minLevel"] = 1,
-		["maxLevel"] = 1,
-	},
-	[1385] = {
+	[1508] = {
 		["Name"] = "Rat",
 		["Zone"] = "Alterac Mountains",
 		["ID"] = 4075,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
-	},
-	[1386] = {
-		["Name"] = "Rat",
-		["Zone"] = "Scholomance",
-		["ID"] = 4075,
 		["maxLevel"] = 1,
-		["minLevel"] = 1,
 	},
-	[1387] = {
-		["Name"] = "Rat",
-		["Zone"] = "Tower of Karazhan",
-		["ID"] = 4075,
-		["maxLevel"] = 1,
-		["minLevel"] = 1,
-	},
-	[1388] = {
+	[1509] = {
 		["Name"] = "Rat",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 4075,
 		["minLevel"] = 1,
 		["maxLevel"] = 1,
 	},
-	[1389] = {
+	[1510] = {
+		["Name"] = "Rat",
+		["Zone"] = "Scholomance",
+		["ID"] = 4075,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[1511] = {
+		["Name"] = "Rat",
+		["Zone"] = "Tower of Karazhan",
+		["ID"] = 4075,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[1512] = {
+		["Name"] = "Rat",
+		["Zone"] = "Stranglethorn Vale",
+		["ID"] = 4075,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[1513] = {
+		["Name"] = "Rat",
+		["Zone"] = "Naxxramas",
+		["ID"] = 4075,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[1514] = {
+		["Name"] = "Rat",
+		["Zone"] = "Hillsbrad Foothills",
+		["ID"] = 4075,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[1515] = {
 		["Name"] = "Ratchet Bruiser",
 		["Zone"] = "The Barrens",
 		["ID"] = 3502,
-		["maxLevel"] = 57,
 		["minLevel"] = 57,
+		["maxLevel"] = 57,
 	},
-	[1390] = {
+	[1516] = {
 		["Name"] = "Rathorian",
 		["Zone"] = "The Barrens",
 		["ID"] = 3470,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[1391] = {
+	[1517] = {
 		["Name"] = "Rattlegore",
 		["Zone"] = "Scholomance",
 		["ID"] = 11622,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1392] = {
+	[1518] = {
+		["Name"] = "Ravasaur",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6505,
+		["minLevel"] = 48,
+		["maxLevel"] = 49,
+	},
+	[1519] = {
+		["Name"] = "Ravasaur Hunter",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6507,
+		["minLevel"] = 49,
+		["maxLevel"] = 50,
+	},
+	[1520] = {
+		["Name"] = "Ravasaur Matriarch",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6581,
+		["minLevel"] = 50,
+		["maxLevel"] = 50,
+	},
+	[1521] = {
+		["Name"] = "Ravasaur Runner",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6506,
+		["minLevel"] = 49,
+		["maxLevel"] = 50,
+	},
+	[1522] = {
 		["Name"] = "Raven",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7605,
-		["maxLevel"] = 44,
 		["minLevel"] = 44,
+		["maxLevel"] = 44,
 	},
-	[1393] = {
+	[1523] = {
+		["Name"] = "Ravenholdt Assassin",
+		["Zone"] = "Alterac Mountains",
+		["ID"] = 6771,
+		["minLevel"] = 50,
+		["maxLevel"] = 50,
+	},
+	[1524] = {
+		["Name"] = "Ravenholdt Guard",
+		["Zone"] = "Hillsbrad Foothills",
+		["ID"] = 6766,
+		["minLevel"] = 50,
+		["maxLevel"] = 50,
+	},
+	[1525] = {
+		["Name"] = "Ravenholdt Guard",
+		["Zone"] = "Alterac Mountains",
+		["ID"] = 6766,
+		["minLevel"] = 50,
+		["maxLevel"] = 50,
+	},
+	[1526] = {
 		["Name"] = "Rawrk",
 		["Zone"] = "Durotar",
 		["ID"] = 5943,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[1394] = {
+	[1527] = {
 		["Name"] = "Razor Hill Grunt",
 		["Zone"] = "Durotar",
 		["ID"] = 5953,
-		["maxLevel"] = 31,
 		["minLevel"] = 28,
+		["maxLevel"] = 31,
 	},
-	[1395] = {
+	[1528] = {
 		["Name"] = "Razorfen Battleguard",
 		["Zone"] = "Thousand Needles",
 		["ID"] = 7873,
-		["maxLevel"] = 33,
 		["minLevel"] = 33,
+		["maxLevel"] = 33,
 	},
-	[1396] = {
+	[1529] = {
 		["Name"] = "Razorfen Battleguard",
 		["Zone"] = "The Barrens",
 		["ID"] = 7873,
-		["maxLevel"] = 34,
 		["minLevel"] = 33,
+		["maxLevel"] = 34,
 	},
-	[1397] = {
+	[1530] = {
 		["Name"] = "Razorfen Servitor",
 		["Zone"] = "The Barrens",
 		["ID"] = 6132,
-		["maxLevel"] = 23,
 		["minLevel"] = 23,
+		["maxLevel"] = 23,
 	},
-	[1398] = {
+	[1531] = {
 		["Name"] = "Razorfen Thornweaver",
 		["Zone"] = "The Barrens",
 		["ID"] = 7874,
-		["maxLevel"] = 34,
 		["minLevel"] = 33,
+		["maxLevel"] = 34,
 	},
-	[1399] = {
+	[1532] = {
 		["Name"] = "Razorfen Thornweaver",
 		["Zone"] = "Thousand Needles",
 		["ID"] = 7874,
-		["maxLevel"] = 34,
 		["minLevel"] = 34,
+		["maxLevel"] = 34,
 	},
-	[1400] = {
+	[1533] = {
 		["Name"] = "Razorgore the Untamed",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 12435,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1401] = {
+	[1534] = {
 		["Name"] = "Razormane Defender",
 		["Zone"] = "The Barrens",
 		["ID"] = 3266,
-		["maxLevel"] = 13,
 		["minLevel"] = 12,
+		["maxLevel"] = 13,
 	},
-	[1402] = {
+	[1535] = {
 		["Name"] = "Razormane Geomancer",
 		["Zone"] = "The Barrens",
 		["ID"] = 3269,
-		["maxLevel"] = 13,
 		["minLevel"] = 12,
+		["maxLevel"] = 13,
 	},
-	[1403] = {
+	[1536] = {
 		["Name"] = "Razormane Hunter",
 		["Zone"] = "The Barrens",
 		["ID"] = 3265,
-		["maxLevel"] = 12,
 		["minLevel"] = 11,
+		["maxLevel"] = 12,
 	},
-	[1404] = {
+	[1537] = {
 		["Name"] = "Razormane Mystic",
 		["Zone"] = "The Barrens",
 		["ID"] = 3271,
-		["maxLevel"] = 14,
 		["minLevel"] = 13,
+		["maxLevel"] = 14,
 	},
-	[1405] = {
+	[1538] = {
 		["Name"] = "Razormane Pathfinder",
 		["Zone"] = "The Barrens",
 		["ID"] = 3456,
-		["maxLevel"] = 21,
 		["minLevel"] = 20,
+		["maxLevel"] = 21,
 	},
-	[1406] = {
+	[1539] = {
 		["Name"] = "Razormane Seer",
 		["Zone"] = "The Barrens",
 		["ID"] = 3458,
-		["maxLevel"] = 24,
 		["minLevel"] = 23,
+		["maxLevel"] = 24,
 	},
-	[1407] = {
+	[1540] = {
 		["Name"] = "Razormane Stalker",
 		["Zone"] = "The Barrens",
 		["ID"] = 3457,
-		["maxLevel"] = 23,
 		["minLevel"] = 22,
+		["maxLevel"] = 23,
 	},
-	[1408] = {
+	[1541] = {
 		["Name"] = "Razormane Thornweaver",
 		["Zone"] = "The Barrens",
 		["ID"] = 3268,
-		["maxLevel"] = 11,
 		["minLevel"] = 10,
+		["maxLevel"] = 11,
 	},
-	[1409] = {
+	[1542] = {
 		["Name"] = "Razormane Warfrenzy",
 		["Zone"] = "The Barrens",
 		["ID"] = 3459,
-		["maxLevel"] = 25,
 		["minLevel"] = 24,
+		["maxLevel"] = 25,
 	},
-	[1410] = {
+	[1543] = {
 		["Name"] = "Razormane Water Seeker",
 		["Zone"] = "The Barrens",
 		["ID"] = 3267,
-		["maxLevel"] = 11,
 		["minLevel"] = 10,
+		["maxLevel"] = 11,
 	},
-	[1411] = {
+	[1544] = {
 		["Name"] = "Razormane Wolf",
 		["Zone"] = "The Barrens",
 		["ID"] = 3939,
-		["maxLevel"] = 8,
 		["minLevel"] = 7,
+		["maxLevel"] = 8,
 	},
-	[1412] = {
+	[1545] = {
 		["Name"] = "Razzle Longpipe",
 		["Zone"] = "Durotar",
 		["ID"] = 91256,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[1413] = {
+	[1546] = {
 		["Name"] = "Reanimated Corpse",
 		["Zone"] = "Scholomance",
 		["ID"] = 10481,
-		["maxLevel"] = 59,
 		["minLevel"] = 58,
+		["maxLevel"] = 59,
 	},
-	[1414] = {
+	[1547] = {
 		["Name"] = "Reas",
 		["Zone"] = "Tanaris",
 		["ID"] = 51266,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1415] = {
+	[1548] = {
 		["Name"] = "Red Rocket Car",
 		["Zone"] = "Durotar",
 		["ID"] = 80301,
-		["maxLevel"] = 2,
 		["minLevel"] = 2,
+		["maxLevel"] = 2,
 	},
-	[1416] = {
+	[1549] = {
 		["Name"] = "Red Skeletal Horse",
 		["Zone"] = "Tanaris",
 		["ID"] = 51588,
-		["maxLevel"] = 2,
 		["minLevel"] = 2,
+		["maxLevel"] = 2,
 	},
-	[1417] = {
+	[1550] = {
 		["Name"] = "Redstone Basilisk",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 5990,
-		["maxLevel"] = 48,
 		["minLevel"] = 47,
+		["maxLevel"] = 48,
 	},
-	[1418] = {
+	[1551] = {
 		["Name"] = "Redstone Crystalhide",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 5991,
-		["maxLevel"] = 52,
 		["minLevel"] = 51,
+		["maxLevel"] = 52,
 	},
-	[1419] = {
+	[1552] = {
 		["Name"] = "Refuge Pointe Defender",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 10696,
-		["maxLevel"] = 45,
 		["minLevel"] = 41,
+		["maxLevel"] = 45,
 	},
-	[1420] = {
+	[1553] = {
 		["Name"] = "Reggifuz",
 		["Zone"] = "The Barrens",
 		["ID"] = 10063,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1421] = {
+	[1554] = {
 		["Name"] = "Regthar Deathgate",
 		["Zone"] = "The Barrens",
 		["ID"] = 3389,
-		["maxLevel"] = 28,
 		["minLevel"] = 28,
+		["maxLevel"] = 28,
 	},
-	[1422] = {
+	[1555] = {
 		["Name"] = "Rekkul",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3334,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1423] = {
+	[1556] = {
 		["Name"] = "Relentless Infernal",
 		["Zone"] = "Hyjal",
 		["ID"] = 61349,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1424] = {
+	[1557] = {
 		["Name"] = "Relentless Temptress",
 		["Zone"] = "Hyjal",
 		["ID"] = 61350,
-		["maxLevel"] = 61,
 		["minLevel"] = 60,
+		["maxLevel"] = 61,
 	},
-	[1425] = {
+	[1558] = {
 		["Name"] = "Rell",
 		["Zone"] = "The Barrens",
 		["ID"] = 51621,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1426] = {
+	[1559] = {
 		["Name"] = "Rellian Greenspyre",
 		["Zone"] = "Darnassus",
 		["ID"] = 3517,
-		["maxLevel"] = 17,
 		["minLevel"] = 17,
+		["maxLevel"] = 17,
 	},
-	[1427] = {
+	[1560] = {
 		["Name"] = "Relthan Highmoon",
 		["Zone"] = "Hyjal",
 		["ID"] = 61524,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1428] = {
+	[1561] = {
+		["Name"] = "Rendow",
+		["Zone"] = "Feralas",
+		["ID"] = 1695,
+		["minLevel"] = 45,
+		["maxLevel"] = 45,
+	},
+	[1562] = {
 		["Name"] = "Repulsing Ooze",
 		["Zone"] = "Hyjal",
 		["ID"] = 61334,
-		["maxLevel"] = 60,
 		["minLevel"] = 59,
+		["maxLevel"] = 60,
 	},
-	[1429] = {
+	[1563] = {
 		["Name"] = "Restless Shade",
 		["Zone"] = "Deadwind Pass",
 		["ID"] = 7370,
-		["maxLevel"] = 60,
 		["minLevel"] = 59,
+		["maxLevel"] = 60,
 	},
-	[1430] = {
+	[1564] = {
+		["Name"] = "Revantusk Watcher",
+		["Zone"] = "Durotar",
+		["ID"] = 80800,
+		["minLevel"] = 47,
+		["maxLevel"] = 47,
+	},
+	[1565] = {
 		["Name"] = "Revantusk Watcher",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 80800,
-		["maxLevel"] = 46,
 		["minLevel"] = 46,
+		["maxLevel"] = 46,
 	},
-	[1431] = {
+	[1566] = {
 		["Name"] = "Revantusk Watcher",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 80800,
+		["minLevel"] = 47,
 		["maxLevel"] = 55,
-		["minLevel"] = 47,
 	},
-	[1432] = {
-		["Name"] = "Revantusk Watcher",
-		["Zone"] = "Durotar",
-		["ID"] = 80800,
-		["maxLevel"] = 47,
-		["minLevel"] = 47,
-	},
-	[1433] = {
+	[1567] = {
 		["Name"] = "Rezlak",
 		["Zone"] = "Durotar",
 		["ID"] = 3293,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
+		["maxLevel"] = 5,
 	},
-	[1434] = {
+	[1568] = {
 		["Name"] = "Rhinag",
 		["Zone"] = "Durotar",
 		["ID"] = 3190,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[1435] = {
+	[1569] = {
 		["Name"] = "Rickle Goldgrubber",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 8123,
 		["minLevel"] = 55,
 		["maxLevel"] = 55,
 	},
-	[1436] = {
+	[1570] = {
 		["Name"] = "Riding Horse",
 		["Zone"] = "Tanaris",
 		["ID"] = 8883,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[1437] = {
+	[1571] = {
 		["Name"] = "Riding Raptor",
 		["Zone"] = "Tanaris",
 		["ID"] = 8885,
-		["maxLevel"] = 2,
 		["minLevel"] = 1,
+		["maxLevel"] = 2,
 	},
-	[1438] = {
+	[1572] = {
 		["Name"] = "Riding Spotted Frostsaber",
 		["Zone"] = "Darnassus",
 		["ID"] = 12359,
-		["maxLevel"] = 2,
 		["minLevel"] = 2,
+		["maxLevel"] = 2,
 	},
-	[1439] = {
+	[1573] = {
 		["Name"] = "Riding Striped Frostsaber",
 		["Zone"] = "Darnassus",
 		["ID"] = 12358,
-		["maxLevel"] = 2,
 		["minLevel"] = 2,
+		["maxLevel"] = 2,
 	},
-	[1440] = {
+	[1574] = {
 		["Name"] = "Riding Striped Nightsaber",
 		["Zone"] = "Darnassus",
 		["ID"] = 12360,
-		["maxLevel"] = 2,
 		["minLevel"] = 2,
+		["maxLevel"] = 2,
 	},
-	[1441] = {
+	[1575] = {
 		["Name"] = "Riding Tiger",
 		["Zone"] = "Tanaris",
 		["ID"] = 8882,
-		["maxLevel"] = 2,
 		["minLevel"] = 1,
+		["maxLevel"] = 2,
 	},
-	[1442] = {
+	[1576] = {
 		["Name"] = "Riggle Bassbait",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 15077,
 		["maxLevel"] = 50,
 		["minLevel"] = 50,
 	},
-	[1443] = {
+	[1577] = {
 		["Name"] = "Rilli Greasygob",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 9317,
-		["maxLevel"] = 22,
 		["minLevel"] = 22,
+		["maxLevel"] = 22,
 	},
-	[1444] = {
+	[1578] = {
+		["Name"] = "Rimblat Earthshatter",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 16134,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[1579] = {
+		["Name"] = "Rin'ji",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 7780,
+		["minLevel"] = 46,
+		["maxLevel"] = 46,
+	},
+	[1580] = {
 		["Name"] = "Risa Sandrocket",
 		["Zone"] = "Tanaris",
 		["ID"] = 80990,
-		["maxLevel"] = 51,
 		["minLevel"] = 51,
+		["maxLevel"] = 51,
 	},
-	[1445] = {
+	[1581] = {
 		["Name"] = "Risen Aberration",
 		["Zone"] = "Scholomance",
 		["ID"] = 10485,
-		["maxLevel"] = 58,
 		["minLevel"] = 57,
+		["maxLevel"] = 58,
 	},
-	[1446] = {
+	[1582] = {
 		["Name"] = "Risen Bonewarder",
 		["Zone"] = "Scholomance",
 		["ID"] = 10491,
-		["maxLevel"] = 59,
 		["minLevel"] = 58,
+		["maxLevel"] = 59,
 	},
-	[1447] = {
+	[1583] = {
 		["Name"] = "Risen Construct",
 		["Zone"] = "Scholomance",
 		["ID"] = 10488,
-		["maxLevel"] = 61,
 		["minLevel"] = 58,
+		["maxLevel"] = 61,
 	},
-	[1448] = {
+	[1584] = {
 		["Name"] = "Risen Deathknight",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16154,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1449] = {
+	[1585] = {
 		["Name"] = "Risen Guard",
 		["Zone"] = "Scholomance",
 		["ID"] = 10489,
-		["maxLevel"] = 59,
 		["minLevel"] = 57,
+		["maxLevel"] = 59,
 	},
-	[1450] = {
+	[1586] = {
 		["Name"] = "Risen Lackey",
 		["Zone"] = "Scholomance",
 		["ID"] = 10482,
-		["maxLevel"] = 56,
 		["minLevel"] = 55,
+		["maxLevel"] = 56,
 	},
-	[1451] = {
+	[1587] = {
 		["Name"] = "Risen Protector",
 		["Zone"] = "Scholomance",
 		["ID"] = 10487,
-		["maxLevel"] = 60,
 		["minLevel"] = 58,
+		["maxLevel"] = 60,
 	},
-	[1452] = {
+	[1588] = {
 		["Name"] = "Risen Warrior",
 		["Zone"] = "Scholomance",
 		["ID"] = 10486,
-		["maxLevel"] = 61,
 		["minLevel"] = 59,
+		["maxLevel"] = 61,
 	},
-	[1453] = {
+	[1589] = {
 		["Name"] = "River Crocolisk",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 1150,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1454] = {
+	[1590] = {
 		["Name"] = "Rixxle Copperdrive",
 		["Zone"] = "Durotar",
 		["ID"] = 91212,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
+		["maxLevel"] = 5,
 	},
-	[1455] = {
+	[1591] = {
 		["Name"] = "Roc",
 		["Zone"] = "Tanaris",
 		["ID"] = 5428,
-		["maxLevel"] = 43,
 		["minLevel"] = 41,
+		["maxLevel"] = 43,
 	},
-	[1456] = {
+	[1592] = {
 		["Name"] = "Rock Stalker",
 		["Zone"] = "Silithus",
 		["ID"] = 11739,
-		["maxLevel"] = 57,
 		["minLevel"] = 57,
+		["maxLevel"] = 57,
 	},
-	[1457] = {
+	[1593] = {
 		["Name"] = "Rodfather",
 		["Zone"] = "Hyjal",
 		["ID"] = 80320,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1458] = {
+	[1594] = {
 		["Name"] = "Rogvar",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 1386,
-		["maxLevel"] = 53,
 		["minLevel"] = 53,
+		["maxLevel"] = 53,
 	},
-	[1459] = {
+	[1595] = {
+		["Name"] = "Rohan the Assassin",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 16131,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[1596] = {
 		["Name"] = "Rokar Bladeshadow",
 		["Zone"] = "Durotar",
 		["ID"] = 6586,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1460] = {
+	[1597] = {
 		["Name"] = "Rollo Idleman",
 		["Zone"] = "Tanaris",
 		["ID"] = 61573,
-		["maxLevel"] = 41,
 		["minLevel"] = 41,
+		["maxLevel"] = 41,
 	},
-	[1461] = {
+	[1598] = {
 		["Name"] = "Rosarth Valebright",
 		["Zone"] = "Hyjal",
 		["ID"] = 61530,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1462] = {
+	[1599] = {
 		["Name"] = "Rotgath Stonebeard",
 		["Zone"] = "Ironforge",
 		["ID"] = 10276,
 		["minLevel"] = 31,
 		["maxLevel"] = 31,
 	},
-	[1463] = {
+	[1600] = {
 		["Name"] = "Rotting Maggot",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16057,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1464] = {
+	[1601] = {
 		["Name"] = "Rotting Slime",
 		["Zone"] = "Ashenvale",
 		["ID"] = 3928,
 		["maxLevel"] = 22,
 		["minLevel"] = 20,
 	},
-	[1465] = {
+	[1602] = {
 		["Name"] = "Roxxik",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 11017,
-		["maxLevel"] = 46,
 		["minLevel"] = 46,
+		["maxLevel"] = 46,
 	},
-	[1466] = {
+	[1603] = {
 		["Name"] = "Ruga Ragetotem",
 		["Zone"] = "The Barrens",
 		["ID"] = 6394,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1467] = {
+	[1604] = {
 		["Name"] = "Rugnar",
 		["Zone"] = "Durotar",
 		["ID"] = 91203,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1468] = {
+	[1605] = {
 		["Name"] = "Rumsen Fizzlebrack",
 		["Zone"] = "Tanaris",
 		["ID"] = 16417,
-		["maxLevel"] = 44,
 		["minLevel"] = 44,
+		["maxLevel"] = 44,
 	},
-	[1469] = {
+	[1606] = {
 		["Name"] = "Rumstag Proudstrider",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 14728,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1470] = {
+	[1607] = {
 		["Name"] = "Runk Windtamer",
 		["Zone"] = "Silithus",
 		["ID"] = 15178,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1471] = {
+	[1608] = {
 		["Name"] = "Ruuzlu",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7797,
-		["maxLevel"] = 46,
 		["minLevel"] = 46,
+		["maxLevel"] = 46,
 	},
-	[1472] = {
+	[1609] = {
 		["Name"] = "Ruzan",
 		["Zone"] = "Durotar",
 		["ID"] = 5765,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[1473] = {
+	[1610] = {
 		["Name"] = "Rwag",
 		["Zone"] = "Durotar",
 		["ID"] = 3155,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[1474] = {
+	[1611] = {
 		["Name"] = "Saeldor Dawnspark",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 62083,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[1475] = {
+	[1612] = {
 		["Name"] = "Saelyn Seastrider",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61827,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[1476] = {
+	[1613] = {
 		["Name"] = "Saenorion",
 		["Zone"] = "Darnassus",
 		["ID"] = 4225,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1477] = {
+	[1614] = {
 		["Name"] = "Sage Truthseeker",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3978,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1478] = {
+	[1615] = {
 		["Name"] = "Sagorne Creststrider",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 13417,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[1479] = {
+	[1616] = {
+		["Name"] = "Salome",
+		["Zone"] = "Alterac Mountains",
+		["ID"] = 11776,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[1617] = {
+		["Name"] = "Salt Flats Scavenger",
+		["Zone"] = "Thousand Needles",
+		["ID"] = 4154,
+		["minLevel"] = 30,
+		["maxLevel"] = 30,
+	},
+	[1618] = {
+		["Name"] = "Salt Flats Vulture",
+		["Zone"] = "Thousand Needles",
+		["ID"] = 4158,
+		["minLevel"] = 34,
+		["maxLevel"] = 34,
+	},
+	[1619] = {
 		["Name"] = "Samuel Hawke",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 15127,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1480] = {
+	[1620] = {
 		["Name"] = "Sana",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3319,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1481] = {
+	[1621] = {
 		["Name"] = "Sanctum Dragonkin",
 		["Zone"] = "Emerald Sanctum",
 		["ID"] = 60743,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[1482] = {
+	[1622] = {
 		["Name"] = "Sanctum Dreamer",
 		["Zone"] = "Emerald Sanctum",
 		["ID"] = 60742,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1483] = {
+	[1623] = {
 		["Name"] = "Sanctum Scalebane",
 		["Zone"] = "Emerald Sanctum",
 		["ID"] = 60746,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[1484] = {
+	[1624] = {
 		["Name"] = "Sanctum Supressor",
 		["Zone"] = "Emerald Sanctum",
 		["ID"] = 61212,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[1485] = {
+	[1625] = {
 		["Name"] = "Sanctum Wyrm",
 		["Zone"] = "Emerald Sanctum",
 		["ID"] = 60744,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[1486] = {
+	[1626] = {
 		["Name"] = "Sanctum Wyrmkin",
 		["Zone"] = "Emerald Sanctum",
 		["ID"] = 60745,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[1487] = {
+	[1627] = {
+		["Name"] = "Sand Skitterer",
+		["Zone"] = "Silithus",
+		["ID"] = 11738,
+		["minLevel"] = 55,
+		["maxLevel"] = 56,
+	},
+	[1628] = {
 		["Name"] = "Sandfury Acolyte",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 8876,
-		["maxLevel"] = 44,
 		["minLevel"] = 42,
+		["maxLevel"] = 44,
 	},
-	[1488] = {
+	[1629] = {
 		["Name"] = "Sandfury Axe Thrower",
 		["Zone"] = "Tanaris",
 		["ID"] = 5646,
-		["maxLevel"] = 44,
 		["minLevel"] = 42,
+		["maxLevel"] = 44,
 	},
-	[1489] = {
+	[1630] = {
 		["Name"] = "Sandfury Blood Drinker",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 5649,
-		["maxLevel"] = 45,
 		["minLevel"] = 44,
+		["maxLevel"] = 45,
 	},
-	[1490] = {
+	[1631] = {
 		["Name"] = "Sandfury Cretin",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7789,
-		["maxLevel"] = 45,
 		["minLevel"] = 43,
+		["maxLevel"] = 45,
 	},
-	[1491] = {
+	[1632] = {
 		["Name"] = "Sandfury Drudge",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7788,
-		["maxLevel"] = 45,
 		["minLevel"] = 44,
+		["maxLevel"] = 45,
 	},
-	[1492] = {
+	[1633] = {
 		["Name"] = "Sandfury Executioner",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7274,
-		["maxLevel"] = 46,
 		["minLevel"] = 46,
+		["maxLevel"] = 46,
 	},
-	[1493] = {
+	[1634] = {
 		["Name"] = "Sandfury Firecaller",
 		["Zone"] = "Tanaris",
 		["ID"] = 5647,
+		["minLevel"] = 43,
 		["maxLevel"] = 44,
-		["minLevel"] = 44,
 	},
-	[1494] = {
+	[1635] = {
 		["Name"] = "Sandfury Guardian",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7268,
-		["maxLevel"] = 46,
 		["minLevel"] = 45,
+		["maxLevel"] = 46,
 	},
-	[1495] = {
+	[1636] = {
 		["Name"] = "Sandfury Hideskinner",
 		["Zone"] = "Tanaris",
 		["ID"] = 5645,
-		["maxLevel"] = 43,
 		["minLevel"] = 42,
+		["maxLevel"] = 43,
 	},
-	[1496] = {
+	[1637] = {
 		["Name"] = "Sandfury Ritualist",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 62500,
-		["maxLevel"] = 46,
 		["minLevel"] = 46,
+		["maxLevel"] = 46,
 	},
-	[1497] = {
+	[1638] = {
 		["Name"] = "Sandfury Scorpid",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 62499,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1498] = {
+	[1639] = {
 		["Name"] = "Sandfury Shadowcaster",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 5648,
-		["maxLevel"] = 44,
 		["minLevel"] = 43,
+		["maxLevel"] = 44,
 	},
-	[1499] = {
+	[1640] = {
 		["Name"] = "Sandfury Shadowhunter",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7246,
-		["maxLevel"] = 46,
 		["minLevel"] = 45,
+		["maxLevel"] = 46,
 	},
-	[1500] = {
+	[1641] = {
 		["Name"] = "Sandfury Slave",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7787,
-		["maxLevel"] = 44,
 		["minLevel"] = 43,
+		["maxLevel"] = 44,
 	},
-	[1501] = {
+	[1642] = {
 		["Name"] = "Sandfury Soul Eater",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7247,
-		["maxLevel"] = 46,
 		["minLevel"] = 45,
+		["maxLevel"] = 46,
 	},
-	[1502] = {
+	[1643] = {
 		["Name"] = "Sandfury Witch Doctor",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 5650,
-		["maxLevel"] = 45,
 		["minLevel"] = 44,
+		["maxLevel"] = 45,
 	},
-	[1503] = {
+	[1644] = {
 		["Name"] = "Sandfury Zealot",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 8877,
-		["maxLevel"] = 45,
 		["minLevel"] = 44,
+		["maxLevel"] = 45,
 	},
-	[1504] = {
+	[1645] = {
 		["Name"] = "Sanuye Runetotem",
 		["Zone"] = "The Barrens",
 		["ID"] = 10380,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[1505] = {
+	[1646] = {
 		["Name"] = "Sapphiron",
 		["Zone"] = "The Upper Necropolis",
 		["ID"] = 15989,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1506] = {
+	[1647] = {
 		["Name"] = "Sara Balloo",
 		["Zone"] = "Ironforge",
 		["ID"] = 2695,
 		["minLevel"] = 15,
 		["maxLevel"] = 15,
 	},
-	[1507] = {
+	[1648] = {
 		["Name"] = "Sarilus Foulborne",
 		["Zone"] = "The Barrens",
 		["ID"] = 3986,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[1508] = {
+	[1649] = {
 		["Name"] = "Sarin Starlight",
 		["Zone"] = "Darnassus",
 		["ID"] = 11700,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1509] = {
+	[1650] = {
 		["Name"] = "Sark Blacktooth",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 60449,
 		["maxLevel"] = 50,
 		["minLevel"] = 50,
 	},
-	[1510] = {
+	[1651] = {
 		["Name"] = "Sarkoth",
 		["Zone"] = "Durotar",
 		["ID"] = 3281,
-		["maxLevel"] = 4,
 		["minLevel"] = 4,
+		["maxLevel"] = 4,
 	},
-	[1511] = {
+	[1652] = {
 		["Name"] = "Sarn Strongrog",
 		["Zone"] = "Durotar",
 		["ID"] = 60702,
-		["maxLevel"] = 12,
 		["minLevel"] = 12,
+		["maxLevel"] = 12,
 	},
-	[1512] = {
+	[1653] = {
 		["Name"] = "Sarok",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5614,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[1513] = {
+	[1654] = {
 		["Name"] = "Sartura's Royal Guard",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15984,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1514] = {
+	[1655] = {
 		["Name"] = "Saru Steelfury",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3355,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1515] = {
+	[1656] = {
 		["Name"] = "Savannah Cub",
 		["Zone"] = "The Barrens",
 		["ID"] = 5766,
-		["maxLevel"] = 5,
 		["minLevel"] = 4,
+		["maxLevel"] = 5,
 	},
-	[1516] = {
+	[1657] = {
 		["Name"] = "Savannah Highmane",
 		["Zone"] = "The Barrens",
 		["ID"] = 3243,
-		["maxLevel"] = 13,
 		["minLevel"] = 12,
+		["maxLevel"] = 13,
 	},
-	[1517] = {
+	[1658] = {
 		["Name"] = "Savannah Huntress",
 		["Zone"] = "The Barrens",
 		["ID"] = 3415,
-		["maxLevel"] = 12,
 		["minLevel"] = 11,
+		["maxLevel"] = 12,
 	},
-	[1518] = {
+	[1659] = {
 		["Name"] = "Savannah Matriarch",
 		["Zone"] = "The Barrens",
 		["ID"] = 3416,
-		["maxLevel"] = 18,
 		["minLevel"] = 17,
+		["maxLevel"] = 18,
 	},
-	[1519] = {
+	[1660] = {
 		["Name"] = "Savannah Patriarch",
 		["Zone"] = "The Barrens",
 		["ID"] = 3241,
-		["maxLevel"] = 16,
 		["minLevel"] = 15,
+		["maxLevel"] = 16,
 	},
-	[1520] = {
+	[1661] = {
 		["Name"] = "Savannah Prowler",
 		["Zone"] = "The Barrens",
 		["ID"] = 3425,
-		["maxLevel"] = 15,
 		["minLevel"] = 14,
+		["maxLevel"] = 15,
 	},
-	[1521] = {
+	[1662] = {
 		["Name"] = "Sayoc",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 11868,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[1522] = {
+	[1663] = {
 		["Name"] = "Sazzy Gearlight",
 		["Zone"] = "Durotar",
 		["ID"] = 91211,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
+		["maxLevel"] = 5,
 	},
-	[1523] = {
+	[1664] = {
 		["Name"] = "Scarab",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7269,
-		["maxLevel"] = 46,
 		["minLevel"] = 44,
+		["maxLevel"] = 46,
 	},
-	[1524] = {
+	[1665] = {
 		["Name"] = "Scarshield Sentry",
 		["Zone"] = "Blackrock Mountain",
 		["ID"] = 9044,
-		["maxLevel"] = 54,
 		["minLevel"] = 53,
+		["maxLevel"] = 54,
 	},
-	[1525] = {
+	[1666] = {
 		["Name"] = "Scholomance Acolyte",
 		["Zone"] = "Scholomance",
 		["ID"] = 10471,
-		["maxLevel"] = 58,
 		["minLevel"] = 57,
+		["maxLevel"] = 58,
 	},
-	[1526] = {
+	[1667] = {
 		["Name"] = "Scholomance Adept",
 		["Zone"] = "Scholomance",
 		["ID"] = 10469,
-		["maxLevel"] = 59,
 		["minLevel"] = 58,
+		["maxLevel"] = 59,
 	},
-	[1527] = {
+	[1668] = {
 		["Name"] = "Scholomance Dark Summoner",
 		["Zone"] = "Scholomance",
 		["ID"] = 11582,
-		["maxLevel"] = 59,
 		["minLevel"] = 58,
+		["maxLevel"] = 59,
 	},
-	[1528] = {
+	[1669] = {
 		["Name"] = "Scholomance Handler",
 		["Zone"] = "Scholomance",
 		["ID"] = 11257,
-		["maxLevel"] = 60,
 		["minLevel"] = 59,
+		["maxLevel"] = 60,
 	},
-	[1529] = {
+	[1670] = {
 		["Name"] = "Scholomance Necrolyte",
 		["Zone"] = "Scholomance",
 		["ID"] = 10476,
-		["maxLevel"] = 58,
 		["minLevel"] = 57,
+		["maxLevel"] = 58,
 	},
-	[1530] = {
+	[1671] = {
 		["Name"] = "Scholomance Necromancer",
 		["Zone"] = "Scholomance",
 		["ID"] = 10477,
-		["maxLevel"] = 59,
 		["minLevel"] = 58,
+		["maxLevel"] = 59,
 	},
-	[1531] = {
+	[1672] = {
 		["Name"] = "Scholomance Neophyte",
 		["Zone"] = "Scholomance",
 		["ID"] = 10470,
-		["maxLevel"] = 58,
 		["minLevel"] = 57,
+		["maxLevel"] = 58,
 	},
-	[1532] = {
+	[1673] = {
 		["Name"] = "Scholomance Occultist",
 		["Zone"] = "Scholomance",
 		["ID"] = 10472,
-		["maxLevel"] = 59,
 		["minLevel"] = 58,
+		["maxLevel"] = 59,
 	},
-	[1533] = {
+	[1674] = {
 		["Name"] = "Scholomance Student",
 		["Zone"] = "Scholomance",
 		["ID"] = 10475,
-		["maxLevel"] = 59,
 		["minLevel"] = 58,
+		["maxLevel"] = 59,
 	},
-	[1534] = {
+	[1675] = {
 		["Name"] = "School of Fish",
 		["Zone"] = "Durotar",
 		["ID"] = 6145,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[1535] = {
+	[1676] = {
 		["Name"] = "Scooty",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 7853,
 		["minLevel"] = 30,
 		["maxLevel"] = 30,
 	},
-	[1536] = {
+	[1677] = {
+		["Name"] = "Scorching Elemental",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6520,
+		["minLevel"] = 53,
+		["maxLevel"] = 54,
+	},
+	[1678] = {
 		["Name"] = "Scorpid Duneburrower",
 		["Zone"] = "Tanaris",
 		["ID"] = 7803,
-		["maxLevel"] = 47,
 		["minLevel"] = 46,
+		["maxLevel"] = 47,
 	},
-	[1537] = {
+	[1679] = {
 		["Name"] = "Scorpid Dunestalker",
 		["Zone"] = "Tanaris",
 		["ID"] = 5424,
-		["maxLevel"] = 47,
 		["minLevel"] = 46,
+		["maxLevel"] = 47,
 	},
-	[1538] = {
+	[1680] = {
 		["Name"] = "Scorpid Hunter",
 		["Zone"] = "Tanaris",
 		["ID"] = 5422,
-		["maxLevel"] = 41,
 		["minLevel"] = 40,
+		["maxLevel"] = 41,
 	},
-	[1539] = {
+	[1681] = {
+		["Name"] = "Scorpid Reaver",
+		["Zone"] = "Thousand Needles",
+		["ID"] = 4140,
+		["minLevel"] = 31,
+		["maxLevel"] = 31,
+	},
+	[1682] = {
 		["Name"] = "Scorpid Tail Lasher",
 		["Zone"] = "Tanaris",
 		["ID"] = 5423,
-		["maxLevel"] = 44,
 		["minLevel"] = 43,
+		["maxLevel"] = 44,
 	},
-	[1540] = {
+	[1683] = {
+		["Name"] = "Scorpid Terror",
+		["Zone"] = "Thousand Needles",
+		["ID"] = 4139,
+		["minLevel"] = 34,
+		["maxLevel"] = 34,
+	},
+	[1684] = {
 		["Name"] = "Scorpid Worker",
 		["Zone"] = "Durotar",
 		["ID"] = 3124,
-		["maxLevel"] = 3,
 		["minLevel"] = 3,
+		["maxLevel"] = 3,
 	},
-	[1541] = {
+	[1685] = {
 		["Name"] = "Scorpok Stinger",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 5988,
-		["maxLevel"] = 51,
 		["minLevel"] = 50,
+		["maxLevel"] = 51,
 	},
-	[1542] = {
+	[1686] = {
 		["Name"] = "Scout Manslayer",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 14376,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1543] = {
+	[1687] = {
 		["Name"] = "Scout Stronghand",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 14375,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1544] = {
+	[1688] = {
 		["Name"] = "Scout Tharr",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 14377,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1545] = {
-		["Name"] = "Scytheclaw Pureborn",
-		["Zone"] = "The Upper Necropolis",
-		["ID"] = 40054,
-		["maxLevel"] = 61,
-		["minLevel"] = 61,
-	},
-	[1546] = {
+	[1689] = {
 		["Name"] = "Scytheclaw Pureborn",
 		["Zone"] = "Naxxramas",
 		["ID"] = 40054,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1547] = {
+	[1690] = {
+		["Name"] = "Scytheclaw Pureborn",
+		["Zone"] = "The Upper Necropolis",
+		["ID"] = 40054,
+		["minLevel"] = 61,
+		["maxLevel"] = 61,
+	},
+	[1691] = {
 		["Name"] = "Searing Blade Cultist",
 		["Zone"] = "Ragefire Chasm",
 		["ID"] = 11322,
-		["maxLevel"] = 15,
 		["minLevel"] = 13,
+		["maxLevel"] = 15,
 	},
-	[1548] = {
+	[1692] = {
 		["Name"] = "Searing Blade Enforcer",
 		["Zone"] = "Ragefire Chasm",
 		["ID"] = 11323,
-		["maxLevel"] = 15,
 		["minLevel"] = 13,
+		["maxLevel"] = 15,
 	},
-	[1549] = {
+	[1693] = {
 		["Name"] = "Searing Blade Warlock",
 		["Zone"] = "Ragefire Chasm",
 		["ID"] = 11324,
-		["maxLevel"] = 15,
 		["minLevel"] = 13,
+		["maxLevel"] = 15,
 	},
-	[1550] = {
+	[1694] = {
 		["Name"] = "Searing Ghoul",
 		["Zone"] = "Western Plaguelands",
 		["ID"] = 1795,
-		["maxLevel"] = 56,
 		["minLevel"] = 55,
+		["maxLevel"] = 56,
 	},
-	[1551] = {
+	[1695] = {
 		["Name"] = "Searing Roc",
 		["Zone"] = "Tanaris",
 		["ID"] = 5430,
-		["maxLevel"] = 49,
 		["minLevel"] = 47,
+		["maxLevel"] = 49,
 	},
-	[1552] = {
+	[1696] = {
 		["Name"] = "Searn Firewarder",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5892,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[1553] = {
+	[1697] = {
 		["Name"] = "Security Chief Bilgewhizzle",
 		["Zone"] = "Tanaris",
 		["ID"] = 7882,
-		["maxLevel"] = 51,
 		["minLevel"] = 51,
+		["maxLevel"] = 51,
 	},
-	[1554] = {
-		["Name"] = "Seereth Stonebreak",
-		["Zone"] = "The Barrens",
-		["ID"] = 4049,
-		["maxLevel"] = 26,
-		["minLevel"] = 26,
-	},
-	[1555] = {
+	[1698] = {
 		["Name"] = "Seereth Stonebreak",
 		["Zone"] = "Stonetalon Mountains",
 		["ID"] = 4049,
-		["maxLevel"] = 26,
 		["minLevel"] = 26,
+		["maxLevel"] = 26,
 	},
-	[1556] = {
+	[1699] = {
+		["Name"] = "Seereth Stonebreak",
+		["Zone"] = "The Barrens",
+		["ID"] = 4049,
+		["minLevel"] = 26,
+		["maxLevel"] = 26,
+	},
+	[1700] = {
 		["Name"] = "Senegal",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 7389,
 		["maxLevel"] = 1,
 		["minLevel"] = 1,
 	},
-	[1557] = {
+	[1701] = {
 		["Name"] = "Senior Surveyor Fizzledowser",
 		["Zone"] = "Tanaris",
 		["ID"] = 7724,
-		["maxLevel"] = 44,
 		["minLevel"] = 44,
+		["maxLevel"] = 44,
 	},
-	[1558] = {
+	[1702] = {
+		["Name"] = "Sentinel Amaera",
+		["Zone"] = "Feralas",
+		["ID"] = 61154,
+		["minLevel"] = 40,
+		["maxLevel"] = 40,
+	},
+	[1703] = {
 		["Name"] = "Sentinel Amandana",
 		["Zone"] = "Ashenvale",
 		["ID"] = 61142,
 		["maxLevel"] = 45,
 		["minLevel"] = 45,
 	},
-	[1559] = {
+	[1704] = {
 		["Name"] = "Sentinel Dalia Sunblade",
 		["Zone"] = "Darnassus",
 		["ID"] = 8396,
-		["maxLevel"] = 44,
 		["minLevel"] = 44,
+		["maxLevel"] = 44,
 	},
-	[1560] = {
+	[1705] = {
 		["Name"] = "Sergeant Ba'sha",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 12799,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1561] = {
+	[1706] = {
 		["Name"] = "Sergeant Bly",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7604,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1562] = {
+	[1707] = {
 		["Name"] = "Sergeant Burnside",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 60792,
-		["maxLevel"] = 54,
 		["minLevel"] = 54,
+		["maxLevel"] = 54,
 	},
-	[1563] = {
+	[1708] = {
 		["Name"] = "Sergeant Maclear",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 14984,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1564] = {
+	[1709] = {
 		["Name"] = "Sergra Darkthorn",
 		["Zone"] = "The Barrens",
 		["ID"] = 3338,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1565] = {
+	[1710] = {
 		["Name"] = "Servant of Alexi Barov",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 11637,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1566] = {
+	[1711] = {
 		["Name"] = "Servant of Allistarj",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 7670,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1567] = {
+	[1712] = {
 		["Name"] = "Servant of Grol",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 7669,
-		["maxLevel"] = 54,
 		["minLevel"] = 54,
+		["maxLevel"] = 54,
 	},
-	[1568] = {
+	[1713] = {
 		["Name"] = "Servant of Razelikh",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 7668,
-		["maxLevel"] = 57,
 		["minLevel"] = 57,
+		["maxLevel"] = 57,
 	},
-	[1569] = {
+	[1714] = {
 		["Name"] = "Servant of Weldon Barov",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 11636,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1570] = {
+	[1715] = {
 		["Name"] = "Sewa Mistrunner",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3029,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1571] = {
+	[1716] = {
 		["Name"] = "Sewage Slime",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16375,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1572] = {
+	[1717] = {
 		["Name"] = "Shade of Naxxramas",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16164,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1573] = {
+	[1718] = {
 		["Name"] = "Shadeflayer Berserker",
 		["Zone"] = "Hyjal",
 		["ID"] = 61356,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1574] = {
+	[1719] = {
 		["Name"] = "Shadeflayer Shadowhunter",
 		["Zone"] = "Hyjal",
 		["ID"] = 61357,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1575] = {
+	[1720] = {
 		["Name"] = "Shadeflayer Shaman",
 		["Zone"] = "Hyjal",
 		["ID"] = 61358,
-		["maxLevel"] = 62,
 		["minLevel"] = 61,
+		["maxLevel"] = 62,
 	},
-	[1576] = {
+	[1721] = {
 		["Name"] = "Shadeflayer Trapper",
 		["Zone"] = "Hyjal",
 		["ID"] = 61359,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1577] = {
+	[1722] = {
 		["Name"] = "Shadeflayer Troll",
 		["Zone"] = "Hyjal",
 		["ID"] = 61367,
-		["maxLevel"] = 61,
 		["minLevel"] = 60,
+		["maxLevel"] = 61,
 	},
-	[1578] = {
+	[1723] = {
 		["Name"] = "Shadethicket Bark Ripper",
 		["Zone"] = "Ashenvale",
 		["ID"] = 3784,
 		["maxLevel"] = 26,
 		["minLevel"] = 26,
 	},
-	[1579] = {
+	[1724] = {
 		["Name"] = "Shadethicket Oracle",
 		["Zone"] = "Ashenvale",
 		["ID"] = 3931,
 		["maxLevel"] = 30,
 		["minLevel"] = 30,
 	},
-	[1580] = {
+	[1725] = {
 		["Name"] = "Shadethicket Stone Mover",
 		["Zone"] = "Ashenvale",
 		["ID"] = 3782,
 		["maxLevel"] = 26,
 		["minLevel"] = 25,
 	},
-	[1581] = {
+	[1726] = {
 		["Name"] = "Shadi Mistrunner",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 8363,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1582] = {
+	[1727] = {
 		["Name"] = "Shadow Priestess Vandis",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 11055,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1583] = {
+	[1728] = {
 		["Name"] = "Shadowbane Alpha",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61191,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[1584] = {
+	[1729] = {
 		["Name"] = "Shadowbane Ambusher",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61193,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1585] = {
+	[1730] = {
 		["Name"] = "Shadowbane Darkcaster",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61192,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1586] = {
+	[1731] = {
 		["Name"] = "Shadowbane Glutton",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61211,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1587] = {
+	[1732] = {
 		["Name"] = "Shadowbane Ragefang",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61194,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1588] = {
+	[1733] = {
 		["Name"] = "Shadowforge Blazeweaver",
 		["Zone"] = "Molten Core",
 		["ID"] = 52152,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1589] = {
+	[1734] = {
 		["Name"] = "Shadowforge Guardian",
 		["Zone"] = "Molten Core",
 		["ID"] = 52150,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1590] = {
+	[1735] = {
 		["Name"] = "Shadowforge Hierophant",
 		["Zone"] = "Molten Core",
 		["ID"] = 52151,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1591] = {
+	[1736] = {
 		["Name"] = "Shadowpriest Sezz'ziz",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7275,
-		["maxLevel"] = 47,
 		["minLevel"] = 47,
+		["maxLevel"] = 47,
 	},
-	[1592] = {
+	[1737] = {
 		["Name"] = "Shadowsworn Adept",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 6006,
-		["maxLevel"] = 53,
 		["minLevel"] = 52,
+		["maxLevel"] = 53,
 	},
-	[1593] = {
+	[1738] = {
 		["Name"] = "Shadowsworn Cultist",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 6004,
-		["maxLevel"] = 52,
 		["minLevel"] = 51,
+		["maxLevel"] = 52,
 	},
-	[1594] = {
+	[1739] = {
 		["Name"] = "Shadowsworn Thug",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 6005,
-		["maxLevel"] = 53,
 		["minLevel"] = 52,
+		["maxLevel"] = 53,
 	},
-	[1595] = {
+	[1740] = {
 		["Name"] = "Shady Individual",
 		["Zone"] = "Tanaris",
 		["ID"] = 62684,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1596] = {
+	[1741] = {
 		["Name"] = "Shak 'The Hack'",
 		["Zone"] = "Durotar",
 		["ID"] = 91260,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[1597] = {
+	[1742] = {
 		["Name"] = "Shalgrig Pipeshack",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 91282,
 		["minLevel"] = 13,
 		["maxLevel"] = 13,
 	},
-	[1598] = {
+	[1743] = {
 		["Name"] = "Shalumon",
 		["Zone"] = "Darnassus",
 		["ID"] = 5191,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[1599] = {
+	[1744] = {
 		["Name"] = "Shan'ti",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3342,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1600] = {
+	[1745] = {
 		["Name"] = "Shankys",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3333,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1601] = {
+	[1746] = {
 		["Name"] = "Sharptalon",
 		["Zone"] = "Ashenvale",
 		["ID"] = 12676,
 		["maxLevel"] = 31,
 		["minLevel"] = 31,
 	},
-	[1602] = {
+	[1747] = {
 		["Name"] = "Sharptooth Frenzy",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 905,
-		["maxLevel"] = 32,
 		["minLevel"] = 31,
+		["maxLevel"] = 32,
 	},
-	[1603] = {
+	[1748] = {
 		["Name"] = "Shattercage Magiskull",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61199,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1604] = {
+	[1749] = {
 		["Name"] = "Shattercage Spearman",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61198,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1605] = {
+	[1750] = {
 		["Name"] = "Shayis Steelfury",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 7230,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1606] = {
+	[1751] = {
 		["Name"] = "Shazknock",
 		["Zone"] = "The Barrens",
 		["ID"] = 91298,
-		["maxLevel"] = 18,
 		["minLevel"] = 18,
+		["maxLevel"] = 18,
 	},
-	[1607] = {
+	[1752] = {
 		["Name"] = "Shazzrah",
 		["Zone"] = "Molten Core",
 		["ID"] = 12264,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1608] = {
+	[1753] = {
 		["Name"] = "Shell Co Associate",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 51239,
-		["maxLevel"] = 18,
 		["minLevel"] = 18,
+		["maxLevel"] = 18,
 	},
-	[1609] = {
+	[1754] = {
 		["Name"] = "Shellcoin Promoter",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 7294,
+		["minLevel"] = 32,
 		["maxLevel"] = 33,
-		["minLevel"] = 33,
 	},
-	[1610] = {
+	[1755] = {
 		["Name"] = "Shenthul",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3401,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1611] = {
+	[1756] = {
 		["Name"] = "Shikrik",
 		["Zone"] = "Durotar",
 		["ID"] = 3157,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[1612] = {
+	[1757] = {
 		["Name"] = "Shim'la",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 7294,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1613] = {
+	[1758] = {
 		["Name"] = "Shimra",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5817,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1614] = {
+	[1759] = {
+		["Name"] = "Shizzle",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9998,
+		["minLevel"] = 40,
+		["maxLevel"] = 40,
+	},
+	[1760] = {
 		["Name"] = "Shoja'my",
 		["Zone"] = "Durotar",
 		["ID"] = 9987,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1615] = {
+	[1761] = {
 		["Name"] = "Shoma",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3361,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1616] = {
+	[1762] = {
 		["Name"] = "Shredder Operator Boltratchet",
 		["Zone"] = "Durotar",
 		["ID"] = 91267,
-		["maxLevel"] = 11,
 		["minLevel"] = 11,
+		["maxLevel"] = 11,
 	},
-	[1617] = {
+	[1763] = {
 		["Name"] = "Shredder Operator Kixol",
 		["Zone"] = "Durotar",
 		["ID"] = 91286,
-		["maxLevel"] = 11,
 		["minLevel"] = 11,
+		["maxLevel"] = 11,
 	},
-	[1618] = {
+	[1764] = {
 		["Name"] = "Shreev",
 		["Zone"] = "Tanaris",
 		["ID"] = 4708,
-		["maxLevel"] = 39,
 		["minLevel"] = 39,
+		["maxLevel"] = 39,
 	},
-	[1619] = {
+	[1765] = {
 		["Name"] = "Shylenai",
 		["Zone"] = "Darnassus",
 		["ID"] = 8665,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1620] = {
+	[1766] = {
 		["Name"] = "Sian'dur",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3407,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1621] = {
+	[1767] = {
 		["Name"] = "Sian'tsu",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3403,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1622] = {
+	[1768] = {
 		["Name"] = "Sickly Gazelle",
 		["Zone"] = "The Barrens",
 		["ID"] = 12296,
-		["maxLevel"] = 3,
 		["minLevel"] = 3,
+		["maxLevel"] = 3,
 	},
-	[1623] = {
+	[1769] = {
 		["Name"] = "Sikwa",
 		["Zone"] = "The Barrens",
 		["ID"] = 9981,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1624] = {
+	[1770] = {
 		["Name"] = "Sildanair",
 		["Zone"] = "Darnassus",
 		["ID"] = 4089,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1625] = {
+	[1771] = {
 		["Name"] = "Silithid Creeper",
 		["Zone"] = "The Barrens",
 		["ID"] = 3250,
-		["maxLevel"] = 21,
 		["minLevel"] = 20,
+		["maxLevel"] = 21,
 	},
-	[1626] = {
+	[1772] = {
 		["Name"] = "Silithid Grub",
 		["Zone"] = "The Barrens",
 		["ID"] = 3251,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
-	[1627] = {
+	[1773] = {
+		["Name"] = "Silithid Hive Drone",
+		["Zone"] = "Thousand Needles",
+		["ID"] = 4133,
+		["minLevel"] = 33,
+		["maxLevel"] = 33,
+	},
+	[1774] = {
+		["Name"] = "Silithid Invader",
+		["Zone"] = "Thousand Needles",
+		["ID"] = 4131,
+		["minLevel"] = 34,
+		["maxLevel"] = 34,
+	},
+	[1775] = {
 		["Name"] = "Silithid Protector",
 		["Zone"] = "The Barrens",
 		["ID"] = 3503,
-		["maxLevel"] = 19,
 		["minLevel"] = 18,
+		["maxLevel"] = 19,
 	},
-	[1628] = {
-		["Name"] = "Silithid Swarm",
-		["Zone"] = "The Barrens",
-		["ID"] = 4196,
-		["maxLevel"] = 22,
-		["minLevel"] = 21,
-	},
-	[1629] = {
+	[1776] = {
 		["Name"] = "Silithid Swarm",
 		["Zone"] = "Tanaris",
 		["ID"] = 4196,
-		["maxLevel"] = 50,
 		["minLevel"] = 21,
+		["maxLevel"] = 50,
 	},
-	[1630] = {
+	[1777] = {
+		["Name"] = "Silithid Swarm",
+		["Zone"] = "The Barrens",
+		["ID"] = 4196,
+		["minLevel"] = 21,
+		["maxLevel"] = 22,
+	},
+	[1778] = {
 		["Name"] = "Silithid Swarmer",
 		["Zone"] = "The Barrens",
 		["ID"] = 3252,
-		["maxLevel"] = 22,
 		["minLevel"] = 21,
+		["maxLevel"] = 22,
 	},
-	[1631] = {
+	[1779] = {
 		["Name"] = "Siln Skychaser",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3030,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[1632] = {
+	[1780] = {
+		["Name"] = "Silvermane Howler",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 2925,
+		["minLevel"] = 46,
+		["maxLevel"] = 46,
+	},
+	[1781] = {
+		["Name"] = "Silvermane Wolf",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 2924,
+		["minLevel"] = 43,
+		["maxLevel"] = 44,
+	},
+	[1782] = {
 		["Name"] = "Silverwing Emissary",
 		["Zone"] = "Darnassus",
 		["ID"] = 15102,
-		["maxLevel"] = 23,
 		["minLevel"] = 22,
+		["maxLevel"] = 23,
 	},
-	[1633] = {
+	[1783] = {
 		["Name"] = "Silverwing Sentinel",
 		["Zone"] = "Ashenvale",
 		["ID"] = 12896,
 		["maxLevel"] = 23,
 		["minLevel"] = 22,
 	},
-	[1634] = {
+	[1784] = {
 		["Name"] = "Silverwing Warrior",
 		["Zone"] = "Ashenvale",
 		["ID"] = 12897,
 		["maxLevel"] = 21,
 		["minLevel"] = 21,
 	},
-	[1635] = {
+	[1785] = {
+		["Name"] = "Sindri Thunderforge",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 61757,
+		["minLevel"] = 46,
+		["maxLevel"] = 46,
+	},
+	[1786] = {
 		["Name"] = "Sinodas Azuresky",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61894,
 		["maxLevel"] = 35,
 		["minLevel"] = 35,
 	},
-	[1636] = {
+	[1787] = {
 		["Name"] = "Sir Danuvis",
 		["Zone"] = "The Barrens",
 		["ID"] = 60902,
-		["maxLevel"] = 18,
 		["minLevel"] = 18,
+		["maxLevel"] = 18,
 	},
-	[1637] = {
+	[1788] = {
 		["Name"] = "Sir Zeliek",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16063,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1638] = {
+	[1789] = {
 		["Name"] = "Sister Aquinne",
 		["Zone"] = "Darnassus",
 		["ID"] = 7316,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[1639] = {
+	[1790] = {
 		["Name"] = "Skeletal Acolyte",
 		["Zone"] = "Western Plaguelands",
 		["ID"] = 1789,
-		["maxLevel"] = 56,
 		["minLevel"] = 55,
+		["maxLevel"] = 56,
 	},
-	[1640] = {
+	[1791] = {
 		["Name"] = "Skeletal Executioner",
 		["Zone"] = "Western Plaguelands",
 		["ID"] = 1787,
-		["maxLevel"] = 55,
 		["minLevel"] = 54,
+		["maxLevel"] = 55,
 	},
-	[1641] = {
+	[1792] = {
 		["Name"] = "Skeletal Flayer",
 		["Zone"] = "Western Plaguelands",
 		["ID"] = 1783,
 		["minLevel"] = 50,
 		["maxLevel"] = 51,
 	},
-	[1642] = {
+	[1793] = {
 		["Name"] = "Skeletal Smith",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16193,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1643] = {
+	[1794] = {
 		["Name"] = "Skeletal Sorcerer",
 		["Zone"] = "Western Plaguelands",
 		["ID"] = 1784,
-		["maxLevel"] = 52,
 		["minLevel"] = 51,
+		["maxLevel"] = 52,
 	},
-	[1644] = {
+	[1795] = {
 		["Name"] = "Skeletal Steed",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16067,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1645] = {
+	[1796] = {
 		["Name"] = "Skeletal Warlord",
 		["Zone"] = "Western Plaguelands",
 		["ID"] = 1788,
-		["maxLevel"] = 56,
 		["minLevel"] = 56,
+		["maxLevel"] = 56,
 	},
-	[1646] = {
+	[1797] = {
 		["Name"] = "Skitterweb Crawler",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61206,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1647] = {
+	[1798] = {
 		["Name"] = "Skitterweb Darkfang",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61207,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1648] = {
+	[1799] = {
 		["Name"] = "Skitterweb Leaper",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61208,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1649] = {
+	[1800] = {
 		["Name"] = "Skitterweb Venomfang",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61208,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1650] = {
+	[1801] = {
 		["Name"] = "Skuerto",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2789,
-		["maxLevel"] = 36,
 		["minLevel"] = 36,
+		["maxLevel"] = 36,
 	},
-	[1651] = {
+	[1802] = {
 		["Name"] = "Skymane Gorilla",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2521,
 		["maxLevel"] = 50,
 		["minLevel"] = 50,
 	},
-	[1652] = {
+	[1803] = {
 		["Name"] = "Slavering Ghoul",
 		["Zone"] = "Western Plaguelands",
 		["ID"] = 1791,
-		["maxLevel"] = 52,
 		["minLevel"] = 50,
+		["maxLevel"] = 52,
 	},
-	[1653] = {
+	[1804] = {
 		["Name"] = "Slickwick Bruiser",
 		["Zone"] = "Tanaris",
 		["ID"] = 62622,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1654] = {
+	[1805] = {
 		["Name"] = "Slickwick Worker",
 		["Zone"] = "Tanaris",
 		["ID"] = 62619,
-		["maxLevel"] = 50,
 		["minLevel"] = 48,
+		["maxLevel"] = 50,
 	},
-	[1655] = {
+	[1806] = {
 		["Name"] = "Slimeshell Makrura",
 		["Zone"] = "The Barrens",
 		["ID"] = 6020,
-		["maxLevel"] = 19,
 		["minLevel"] = 19,
+		["maxLevel"] = 19,
 	},
-	[1656] = {
+	[1807] = {
 		["Name"] = "Sludge Belcher",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16029,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1657] = {
+	[1808] = {
 		["Name"] = "Slumbnaz",
 		["Zone"] = "Hyjal",
 		["ID"] = 61531,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[1658] = {
+	[1809] = {
 		["Name"] = "Sly Garrett",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2622,
 		["minLevel"] = 46,
 		["maxLevel"] = 46,
 	},
-	[1659] = {
+	[1810] = {
 		["Name"] = "Small Incendic Egg",
 		["Zone"] = "Molten Core",
 		["ID"] = 52146,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1660] = {
+	[1811] = {
+		["Name"] = "Smokey LaRue",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 11033,
+		["minLevel"] = 55,
+		["maxLevel"] = 55,
+	},
+	[1812] = {
 		["Name"] = "Smoldaris",
 		["Zone"] = "Molten Core",
 		["ID"] = 65021,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1661] = {
+	[1813] = {
+		["Name"] = "Smudge Thunderwood",
+		["Zone"] = "Alterac Mountains",
+		["ID"] = 6779,
+		["minLevel"] = 45,
+		["maxLevel"] = 45,
+	},
+	[1814] = {
+		["Name"] = "Snake",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 2914,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[1815] = {
 		["Name"] = "Snang",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 2855,
-		["maxLevel"] = 24,
 		["minLevel"] = 24,
+		["maxLevel"] = 24,
 	},
-	[1662] = {
+	[1816] = {
 		["Name"] = "Snapjaw Crocolisk",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 1152,
-		["maxLevel"] = 36,
 		["minLevel"] = 35,
+		["maxLevel"] = 36,
 	},
-	[1663] = {
+	[1817] = {
 		["Name"] = "Snarl",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 1383,
-		["maxLevel"] = 31,
 		["minLevel"] = 31,
+		["maxLevel"] = 31,
 	},
-	[1664] = {
+	[1818] = {
 		["Name"] = "Snickerfang Hyena",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 5985,
-		["maxLevel"] = 50,
 		["minLevel"] = 49,
+		["maxLevel"] = 50,
 	},
-	[1665] = {
+	[1819] = {
 		["Name"] = "Snurk Bucksquick",
 		["Zone"] = "Durotar",
 		["ID"] = 12136,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1666] = {
+	[1820] = {
 		["Name"] = "Soalara Dawnstar",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 80266,
 		["maxLevel"] = 11,
 		["minLevel"] = 11,
 	},
-	[1667] = {
+	[1821] = {
 		["Name"] = "Sognar Cliffbeard",
 		["Zone"] = "Ironforge",
 		["ID"] = 5124,
 		["minLevel"] = 30,
 		["maxLevel"] = 30,
 	},
-	[1668] = {
+	[1822] = {
 		["Name"] = "Soldier of the Frozen Wastes",
 		["Zone"] = "The Upper Necropolis",
 		["ID"] = 16427,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1669] = {
+	[1823] = {
 		["Name"] = "Soleil Stonemantle",
 		["Zone"] = "Ironforge",
 		["ID"] = 5099,
 		["minLevel"] = 45,
 		["maxLevel"] = 45,
 	},
-	[1670] = {
+	[1824] = {
 		["Name"] = "Solnius",
 		["Zone"] = "Emerald Sanctum",
 		["ID"] = 60748,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1671] = {
+	[1825] = {
 		["Name"] = "Son of Flame",
 		["Zone"] = "Molten Core",
 		["ID"] = 12143,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1672] = {
+	[1826] = {
 		["Name"] = "Soran",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3320,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1673] = {
+	[1827] = {
 		["Name"] = "Sorcerer-Thane Thaurissan",
 		["Zone"] = "Molten Core",
 		["ID"] = 57642,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1674] = {
+	[1828] = {
 		["Name"] = "Sorek",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3354,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[1675] = {
+	[1829] = {
 		["Name"] = "Sorlugg",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 60759,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[1676] = {
+	[1830] = {
 		["Name"] = "Soul Weaver",
 		["Zone"] = "The Upper Necropolis",
 		["ID"] = 16429,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1677] = {
+	[1831] = {
 		["Name"] = "Soulless Ghoul",
 		["Zone"] = "Western Plaguelands",
 		["ID"] = 1794,
-		["maxLevel"] = 55,
 		["minLevel"] = 54,
+		["maxLevel"] = 55,
 	},
-	[1678] = {
+	[1832] = {
 		["Name"] = "Southern Sand Crawler",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2544,
 		["minLevel"] = 40,
 		["maxLevel"] = 41,
 	},
-	[1679] = {
+	[1833] = {
 		["Name"] = "Southfury Bruiser",
 		["Zone"] = "The Barrens",
 		["ID"] = 60639,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1680] = {
+	[1834] = {
 		["Name"] = "Southfury Peon",
 		["Zone"] = "The Barrens",
 		["ID"] = 60678,
-		["maxLevel"] = 4,
 		["minLevel"] = 4,
+		["maxLevel"] = 4,
 	},
-	[1681] = {
+	[1835] = {
 		["Name"] = "Southsea Brigand",
 		["Zone"] = "The Barrens",
 		["ID"] = 3381,
-		["maxLevel"] = 13,
 		["minLevel"] = 12,
+		["maxLevel"] = 13,
 	},
-	[1682] = {
+	[1836] = {
 		["Name"] = "Southsea Cannoneer",
 		["Zone"] = "The Barrens",
 		["ID"] = 3382,
-		["maxLevel"] = 14,
 		["minLevel"] = 13,
+		["maxLevel"] = 14,
 	},
-	[1683] = {
+	[1837] = {
 		["Name"] = "Southsea Cutthroat",
 		["Zone"] = "The Barrens",
 		["ID"] = 3383,
-		["maxLevel"] = 15,
 		["minLevel"] = 14,
+		["maxLevel"] = 15,
 	},
-	[1684] = {
+	[1838] = {
 		["Name"] = "Southsea Dock Worker",
 		["Zone"] = "Tanaris",
 		["ID"] = 7857,
-		["maxLevel"] = 45,
 		["minLevel"] = 44,
+		["maxLevel"] = 45,
 	},
-	[1685] = {
+	[1839] = {
 		["Name"] = "Southsea Freebooter",
 		["Zone"] = "Tanaris",
 		["ID"] = 7856,
-		["maxLevel"] = 45,
 		["minLevel"] = 44,
+		["maxLevel"] = 45,
 	},
-	[1686] = {
+	[1840] = {
 		["Name"] = "Southsea Pirate",
 		["Zone"] = "Tanaris",
 		["ID"] = 7855,
-		["maxLevel"] = 45,
 		["minLevel"] = 44,
+		["maxLevel"] = 45,
 	},
-	[1687] = {
+	[1841] = {
 		["Name"] = "Southsea Privateer",
 		["Zone"] = "The Barrens",
 		["ID"] = 3384,
-		["maxLevel"] = 15,
 		["minLevel"] = 14,
+		["maxLevel"] = 15,
 	},
-	[1688] = {
+	[1842] = {
 		["Name"] = "Southsea Swashbuckler",
 		["Zone"] = "Tanaris",
 		["ID"] = 7858,
-		["maxLevel"] = 45,
 		["minLevel"] = 44,
+		["maxLevel"] = 45,
 	},
-	[1689] = {
+	[1843] = {
 		["Name"] = "Southshore Guard",
 		["Zone"] = "Alterac Mountains",
 		["ID"] = 2386,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1690] = {
+	[1844] = {
 		["Name"] = "Southshore Guard",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 2386,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1691] = {
+	[1845] = {
 		["Name"] = "Sovik",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3413,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1692] = {
+	[1846] = {
 		["Name"] = "Spanessa Fogwater",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 91281,
 		["minLevel"] = 11,
 		["maxLevel"] = 11,
 	},
-	[1693] = {
+	[1847] = {
+		["Name"] = "Spark Nilminer",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9272,
+		["minLevel"] = 45,
+		["maxLevel"] = 45,
+	},
+	[1848] = {
+		["Name"] = "Sparkleshell Borer",
+		["Zone"] = "Thousand Needles",
+		["ID"] = 4144,
+		["minLevel"] = 32,
+		["maxLevel"] = 32,
+	},
+	[1849] = {
+		["Name"] = "Sparkleshell Tortoise",
+		["Zone"] = "Thousand Needles",
+		["ID"] = 4142,
+		["minLevel"] = 30,
+		["maxLevel"] = 30,
+	},
+	[1850] = {
 		["Name"] = "Sparkwater Bruiser",
 		["Zone"] = "Durotar",
 		["ID"] = 91236,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1694] = {
+	[1851] = {
 		["Name"] = "Spawn of Fankriss",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15630,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[1695] = {
+	[1852] = {
 		["Name"] = "Spawn of Incindis",
 		["Zone"] = "Molten Core",
 		["ID"] = 52148,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1696] = {
+	[1853] = {
 		["Name"] = "Speaker Frulgg",
 		["Zone"] = "Hyjal",
 		["ID"] = 61509,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1697] = {
+	[1854] = {
 		["Name"] = "Speaker Gan'hota",
 		["Zone"] = "Hyjal",
 		["ID"] = 61361,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[1698] = {
+	[1855] = {
 		["Name"] = "Spectral Attendant",
 		["Zone"] = "Western Plaguelands",
 		["ID"] = 11873,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1699] = {
+	[1856] = {
 		["Name"] = "Spectral Deathknight",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16148,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1700] = {
+	[1857] = {
 		["Name"] = "Spectral Horse",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16149,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[1701] = {
+	[1858] = {
 		["Name"] = "Spectral Projection",
 		["Zone"] = "Scholomance",
 		["ID"] = 11263,
-		["maxLevel"] = 59,
 		["minLevel"] = 58,
+		["maxLevel"] = 59,
 	},
-	[1702] = {
+	[1859] = {
 		["Name"] = "Spectral Researcher",
 		["Zone"] = "Scholomance",
 		["ID"] = 10499,
-		["maxLevel"] = 60,
 		["minLevel"] = 58,
+		["maxLevel"] = 60,
 	},
-	[1703] = {
+	[1860] = {
 		["Name"] = "Spectral Rider",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16150,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[1704] = {
+	[1861] = {
 		["Name"] = "Spectral Teacher",
 		["Zone"] = "Scholomance",
 		["ID"] = 10500,
-		["maxLevel"] = 61,
 		["minLevel"] = 58,
+		["maxLevel"] = 61,
 	},
-	[1705] = {
+	[1862] = {
 		["Name"] = "Spectral Trainee",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16127,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1706] = {
+	[1863] = {
 		["Name"] = "Spectral Tutor",
 		["Zone"] = "Scholomance",
 		["ID"] = 10498,
-		["maxLevel"] = 60,
 		["minLevel"] = 58,
+		["maxLevel"] = 60,
 	},
-	[1707] = {
+	[1864] = {
 		["Name"] = "Spider",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 14881,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[1708] = {
+	[1865] = {
 		["Name"] = "Spider",
 		["Zone"] = "Naxxramas",
 		["ID"] = 14881,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[1709] = {
+	[1866] = {
 		["Name"] = "Spigot Operator Luglunket",
 		["Zone"] = "Tanaris",
 		["ID"] = 7408,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1710] = {
+	[1867] = {
+		["Name"] = "Spiked Stegodon",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6503,
+		["minLevel"] = 53,
+		["maxLevel"] = 54,
+	},
+	[1868] = {
+		["Name"] = "Spirit Healer",
+		["Zone"] = "Western Plaguelands",
+		["ID"] = 6491,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[1869] = {
+		["Name"] = "Spirit Healer",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 6491,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[1870] = {
 		["Name"] = "Spirit Healer",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 6491,
 		["maxLevel"] = 60,
 		["minLevel"] = 60,
 	},
-	[1711] = {
-		["Name"] = "Spirit Healer",
-		["Zone"] = "Scholomance",
-		["ID"] = 6491,
-		["maxLevel"] = 60,
-		["minLevel"] = 60,
-	},
-	[1712] = {
-		["Name"] = "Spirit Healer",
-		["Zone"] = "Western Plaguelands",
-		["ID"] = 6491,
-		["maxLevel"] = 60,
-		["minLevel"] = 60,
-	},
-	[1713] = {
+	[1871] = {
 		["Name"] = "Spirit Healer",
 		["Zone"] = "The Barrens",
 		["ID"] = 6491,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1714] = {
+	[1872] = {
+		["Name"] = "Spirit Healer",
+		["Zone"] = "Scholomance",
+		["ID"] = 6491,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[1873] = {
 		["Name"] = "Spirit Healer",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 6491,
 		["maxLevel"] = 60,
 		["minLevel"] = 60,
 	},
-	[1715] = {
-		["Name"] = "Spirit Healer",
-		["Zone"] = "Eastern Plaguelands",
-		["ID"] = 6491,
-		["maxLevel"] = 60,
-		["minLevel"] = 60,
-	},
-	[1716] = {
+	[1874] = {
 		["Name"] = "Spirit of Naxxramas",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16449,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1717] = {
+	[1875] = {
 		["Name"] = "Spiteflayer",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 8299,
-		["maxLevel"] = 52,
 		["minLevel"] = 52,
+		["maxLevel"] = 52,
 	},
-	[1718] = {
+	[1876] = {
 		["Name"] = "Splintered Skeleton",
 		["Zone"] = "Scholomance",
 		["ID"] = 10478,
-		["maxLevel"] = 60,
 		["minLevel"] = 59,
+		["maxLevel"] = 60,
 	},
-	[1719] = {
+	[1877] = {
 		["Name"] = "Splintertree Guard",
 		["Zone"] = "Ashenvale",
 		["ID"] = 12903,
 		["maxLevel"] = 40,
 		["minLevel"] = 40,
 	},
-	[1720] = {
+	[1878] = {
 		["Name"] = "Spore",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16286,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1721] = {
+	[1879] = {
+		["Name"] = "Spraggle Frock",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9997,
+		["minLevel"] = 37,
+		["maxLevel"] = 37,
+	},
+	[1880] = {
 		["Name"] = "Sprinkle",
 		["Zone"] = "Tanaris",
 		["ID"] = 7583,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1722] = {
+	[1881] = {
 		["Name"] = "Sprogger",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2594,
 		["minLevel"] = 37,
 		["maxLevel"] = 37,
 	},
-	[1723] = {
+	[1882] = {
 		["Name"] = "Sproutling",
 		["Zone"] = "Molten Core",
 		["ID"] = 57644,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1724] = {
+	[1883] = {
 		["Name"] = "Sputtervalve",
 		["Zone"] = "The Barrens",
 		["ID"] = 3442,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[1725] = {
+	[1884] = {
 		["Name"] = "Sraaz",
 		["Zone"] = "Ironforge",
 		["ID"] = 9099,
 		["minLevel"] = 30,
 		["maxLevel"] = 30,
 	},
-	[1726] = {
+	[1885] = {
 		["Name"] = "Stalagg",
 		["Zone"] = "Naxxramas",
 		["ID"] = 15929,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1727] = {
+	[1886] = {
 		["Name"] = "Starving Blisterpaw",
 		["Zone"] = "Tanaris",
 		["ID"] = 5425,
-		["maxLevel"] = 42,
 		["minLevel"] = 41,
+		["maxLevel"] = 42,
 	},
-	[1728] = {
+	[1887] = {
 		["Name"] = "Starving Mountain Lion",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 2384,
-		["maxLevel"] = 24,
 		["minLevel"] = 23,
+		["maxLevel"] = 24,
 	},
-	[1729] = {
+	[1888] = {
 		["Name"] = "Starving Snickerfang",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 5984,
-		["maxLevel"] = 46,
 		["minLevel"] = 45,
+		["maxLevel"] = 46,
 	},
-	[1730] = {
+	[1889] = {
 		["Name"] = "Steeljaw Snapper",
 		["Zone"] = "Tanaris",
 		["ID"] = 14123,
-		["maxLevel"] = 43,
 		["minLevel"] = 42,
+		["maxLevel"] = 43,
 	},
-	[1731] = {
+	[1890] = {
+		["Name"] = "Stegodon",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6501,
+		["minLevel"] = 52,
+		["maxLevel"] = 53,
+	},
+	[1891] = {
 		["Name"] = "Stitched Horror",
 		["Zone"] = "Eastern Plaguelands",
 		["ID"] = 8543,
-		["maxLevel"] = 58,
 		["minLevel"] = 57,
+		["maxLevel"] = 58,
 	},
-	[1732] = {
+	[1892] = {
 		["Name"] = "Stitched Spewer",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16025,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[1733] = {
+	[1893] = {
 		["Name"] = "Stoley",
 		["Zone"] = "Tanaris",
 		["ID"] = 7881,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1734] = {
+	[1894] = {
 		["Name"] = "Stonard Grunt",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 866,
-		["maxLevel"] = 56,
 		["minLevel"] = 56,
+		["maxLevel"] = 56,
 	},
-	[1735] = {
+	[1895] = {
 		["Name"] = "Stonard Orc",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 864,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[1736] = {
+	[1896] = {
 		["Name"] = "Stonard Scout",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 861,
-		["maxLevel"] = 37,
 		["minLevel"] = 37,
+		["maxLevel"] = 37,
 	},
-	[1737] = {
+	[1897] = {
+		["Name"] = "Stone Guardian",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6560,
+		["minLevel"] = 60,
+		["maxLevel"] = 61,
+	},
+	[1898] = {
 		["Name"] = "Stonelash Pincer",
 		["Zone"] = "Silithus",
 		["ID"] = 11736,
-		["maxLevel"] = 56,
 		["minLevel"] = 56,
+		["maxLevel"] = 56,
 	},
-	[1738] = {
+	[1899] = {
+		["Name"] = "Stonelash Scorpid",
+		["Zone"] = "Silithus",
+		["ID"] = 11735,
+		["minLevel"] = 55,
+		["maxLevel"] = 55,
+	},
+	[1900] = {
 		["Name"] = "Stoneskin Gargoyle",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16168,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1739] = {
+	[1901] = {
 		["Name"] = "Stormhide",
 		["Zone"] = "The Barrens",
 		["ID"] = 3238,
-		["maxLevel"] = 23,
 		["minLevel"] = 22,
+		["maxLevel"] = 23,
 	},
-	[1740] = {
+	[1902] = {
+		["Name"] = "Stormpike Emissary",
+		["Zone"] = "Darnassus",
+		["ID"] = 15103,
+		["maxLevel"] = 55,
+		["minLevel"] = 55,
+	},
+	[1903] = {
 		["Name"] = "Stormsnout",
 		["Zone"] = "The Barrens",
 		["ID"] = 3240,
-		["maxLevel"] = 19,
 		["minLevel"] = 18,
+		["maxLevel"] = 19,
 	},
-	[1741] = {
+	[1904] = {
 		["Name"] = "Strahad Farsan",
 		["Zone"] = "The Barrens",
 		["ID"] = 6251,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1742] = {
+	[1905] = {
 		["Name"] = "Stranglethorn Tigress",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 772,
-		["maxLevel"] = 37,
 		["minLevel"] = 37,
+		["maxLevel"] = 37,
 	},
-	[1743] = {
+	[1906] = {
 		["Name"] = "Stromgarde Cavalryman",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2738,
-		["maxLevel"] = 37,
 		["minLevel"] = 36,
+		["maxLevel"] = 37,
 	},
-	[1744] = {
+	[1907] = {
 		["Name"] = "Stupefied Orcish Peon",
 		["Zone"] = "Ironforge",
 		["ID"] = 50005,
 		["minLevel"] = 5,
 		["maxLevel"] = 5,
 	},
-	[1745] = {
+	[1908] = {
 		["Name"] = "Sturk the Rat",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 80604,
-		["maxLevel"] = 37,
 		["minLevel"] = 37,
+		["maxLevel"] = 37,
 	},
-	[1746] = {
+	[1909] = {
 		["Name"] = "Successful Investor",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 51246,
 		["minLevel"] = 60,
 		["maxLevel"] = 60,
 	},
-	[1747] = {
+	[1910] = {
 		["Name"] = "Succubus Minion",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 10928,
-		["Owner"] = "Bloodsail Warlock",
-		["minLevel"] = 41,
 		["maxLevel"] = 43,
+		["minLevel"] = 41,
 	},
-	[1748] = {
+	[1911] = {
 		["Name"] = "Sul'lithuz Abomination",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 8120,
-		["maxLevel"] = 47,
 		["minLevel"] = 47,
+		["maxLevel"] = 47,
 	},
-	[1749] = {
+	[1912] = {
 		["Name"] = "Sul'lithuz Sandcrawler",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 8095,
-		["maxLevel"] = 47,
 		["minLevel"] = 45,
+		["maxLevel"] = 47,
 	},
-	[1750] = {
+	[1913] = {
 		["Name"] = "Sulfuron Harbinger",
 		["Zone"] = "Molten Core",
 		["ID"] = 12098,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1751] = {
+	[1914] = {
 		["Name"] = "Sumi",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3356,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1752] = {
+	[1915] = {
 		["Name"] = "Sunn Ragetotem",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3022,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
-	},
-	[1753] = {
-		["Name"] = "Sunnyglade Emissary",
-		["Zone"] = "Thunder Bluff",
-		["ID"] = 20123,
 		["maxLevel"] = 30,
-		["minLevel"] = 30,
 	},
-	[1754] = {
+	[1916] = {
 		["Name"] = "Sunnyglade Emissary",
 		["Zone"] = "Darnassus",
 		["ID"] = 20123,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
-	},
-	[1755] = {
-		["Name"] = "Sunnyglade Emissary",
-		["Zone"] = "Orgrimmar",
-		["ID"] = 20123,
 		["maxLevel"] = 30,
-		["minLevel"] = 30,
 	},
-	[1756] = {
+	[1917] = {
 		["Name"] = "Sunnyglade Emissary",
 		["Zone"] = "Ironforge",
 		["ID"] = 20123,
 		["minLevel"] = 30,
 		["maxLevel"] = 30,
 	},
-	[1757] = {
+	[1918] = {
+		["Name"] = "Sunnyglade Emissary",
+		["Zone"] = "Thunder Bluff",
+		["ID"] = 20123,
+		["minLevel"] = 30,
+		["maxLevel"] = 30,
+	},
+	[1919] = {
+		["Name"] = "Sunnyglade Emissary",
+		["Zone"] = "Orgrimmar",
+		["ID"] = 20123,
+		["minLevel"] = 30,
+		["maxLevel"] = 30,
+	},
+	[1920] = {
 		["Name"] = "Sunscale Lashtail",
 		["Zone"] = "The Barrens",
 		["ID"] = 3254,
-		["maxLevel"] = 13,
 		["minLevel"] = 12,
+		["maxLevel"] = 13,
 	},
-	[1758] = {
+	[1921] = {
 		["Name"] = "Sunscale Screecher",
 		["Zone"] = "The Barrens",
 		["ID"] = 3255,
-		["maxLevel"] = 15,
 		["minLevel"] = 13,
+		["maxLevel"] = 15,
 	},
-	[1759] = {
+	[1922] = {
 		["Name"] = "Sunscale Scytheclaw",
 		["Zone"] = "The Barrens",
 		["ID"] = 3256,
-		["maxLevel"] = 18,
 		["minLevel"] = 16,
+		["maxLevel"] = 18,
 	},
-	[1760] = {
+	[1923] = {
 		["Name"] = "Supervisor Lugwizzle",
 		["Zone"] = "The Barrens",
 		["ID"] = 3445,
 		["maxLevel"] = 18,
 		["minLevel"] = 18,
 	},
-	[1761] = {
+	[1924] = {
 		["Name"] = "Sura Wildmane",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3023,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1762] = {
+	[1925] = {
 		["Name"] = "Surf Crawler",
 		["Zone"] = "Durotar",
 		["ID"] = 3107,
-		["maxLevel"] = 8,
 		["minLevel"] = 7,
+		["maxLevel"] = 8,
 	},
-	[1763] = {
+	[1926] = {
 		["Name"] = "Surf Crawler",
 		["Zone"] = "The Barrens",
 		["ID"] = 3107,
-		["maxLevel"] = 7,
 		["minLevel"] = 7,
+		["maxLevel"] = 7,
 	},
-	[1764] = {
+	[1927] = {
 		["Name"] = "Surf Glider",
 		["Zone"] = "Tanaris",
 		["ID"] = 5431,
-		["maxLevel"] = 50,
 		["minLevel"] = 48,
+		["maxLevel"] = 50,
 	},
-	[1765] = {
+	[1928] = {
 		["Name"] = "Surgical Assistant",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16022,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1766] = {
+	[1929] = {
 		["Name"] = "Suspicious Southsea Pirate",
 		["Zone"] = "The Barrens",
 		["ID"] = 50008,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[1767] = {
+	[1930] = {
 		["Name"] = "Swart",
 		["Zone"] = "Durotar",
 		["ID"] = 3173,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[1768] = {
+	[1931] = {
 		["Name"] = "Swift Brown Wolf",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 14540,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[1769] = {
+	[1932] = {
 		["Name"] = "Swift Frostsaber",
 		["Zone"] = "Darnassus",
 		["ID"] = 14556,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[1770] = {
+	[1933] = {
 		["Name"] = "Swift Gray Wolf",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 14541,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[1771] = {
+	[1934] = {
 		["Name"] = "Swift Mistsaber",
 		["Zone"] = "Darnassus",
 		["ID"] = 14555,
-		["maxLevel"] = 2,
 		["minLevel"] = 1,
+		["maxLevel"] = 2,
 	},
-	[1772] = {
+	[1935] = {
 		["Name"] = "Swift Stormsaber",
 		["Zone"] = "Darnassus",
 		["ID"] = 14602,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[1773] = {
+	[1936] = {
 		["Name"] = "Swift Timber Wolf",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 14539,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[1774] = {
+	[1937] = {
 		["Name"] = "Swift White Steed",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 14560,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[1775] = {
-		["Name"] = "Swine",
-		["Zone"] = "The Barrens",
-		["ID"] = 10685,
-		["maxLevel"] = 3,
-		["minLevel"] = 3,
-	},
-	[1776] = {
+	[1938] = {
 		["Name"] = "Swine",
 		["Zone"] = "Durotar",
 		["ID"] = 10685,
-		["maxLevel"] = 3,
 		["minLevel"] = 3,
+		["maxLevel"] = 3,
 	},
-	[1777] = {
+	[1939] = {
+		["Name"] = "Swine",
+		["Zone"] = "The Barrens",
+		["ID"] = 10685,
+		["minLevel"] = 3,
+		["maxLevel"] = 3,
+	},
+	[1940] = {
 		["Name"] = "Swoop",
 		["Zone"] = "Mulgore",
 		["ID"] = 2970,
-		["maxLevel"] = 9,
 		["minLevel"] = 7,
+		["maxLevel"] = 9,
 	},
-	[1778] = {
+	[1941] = {
 		["Name"] = "Sylvanna Forestmoon",
 		["Zone"] = "Darnassus",
 		["ID"] = 11042,
-		["maxLevel"] = 32,
 		["minLevel"] = 32,
+		["maxLevel"] = 32,
 	},
-	[1779] = {
+	[1942] = {
+		["Name"] = "Syndicate Rogue",
+		["Zone"] = "Hillsbrad Foothills",
+		["ID"] = 2260,
+		["minLevel"] = 21,
+		["maxLevel"] = 22,
+	},
+	[1943] = {
 		["Name"] = "Syndicate Sentry",
 		["Zone"] = "Alterac Mountains",
 		["ID"] = 2243,
-		["maxLevel"] = 36,
 		["minLevel"] = 36,
+		["maxLevel"] = 36,
 	},
-	[1780] = {
+	[1944] = {
 		["Name"] = "Syndicate Shadow Mage",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 2244,
 		["minLevel"] = 21,
-		["maxLevel"] = 21,
+		["maxLevel"] = 22,
 	},
-	[1781] = {
+	[1945] = {
 		["Name"] = "Syndicate Spy",
 		["Zone"] = "Alterac Mountains",
 		["ID"] = 2242,
-		["maxLevel"] = 36,
 		["minLevel"] = 35,
+		["maxLevel"] = 36,
 	},
-	[1782] = {
+	[1946] = {
 		["Name"] = "Syndicate Watchman",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 2261,
 		["minLevel"] = 20,
-		["maxLevel"] = 20,
+		["maxLevel"] = 21,
 	},
-	[1783] = {
+	[1947] = {
 		["Name"] = "Syndicate Wizard",
 		["Zone"] = "Alterac Mountains",
 		["ID"] = 2319,
-		["maxLevel"] = 35,
 		["minLevel"] = 34,
+		["maxLevel"] = 35,
 	},
-	[1784] = {
+	[1948] = {
 		["Name"] = "Syurna",
 		["Zone"] = "Darnassus",
 		["ID"] = 4163,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1785] = {
+	[1949] = {
 		["Name"] = "Szabo",
 		["Zone"] = "Durotar",
 		["ID"] = 80133,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[1786] = {
+	[1950] = {
 		["Name"] = "Tacknazz Copperfire",
 		["Zone"] = "Durotar",
 		["ID"] = 61927,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1787] = {
+	[1951] = {
 		["Name"] = "Tagain",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3092,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1788] = {
+	[1952] = {
 		["Name"] = "Tah Winterhoof",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3024,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1789] = {
+	[1953] = {
 		["Name"] = "Tai'jin",
 		["Zone"] = "Durotar",
 		["ID"] = 3706,
-		["maxLevel"] = 18,
 		["minLevel"] = 18,
+		["maxLevel"] = 18,
 	},
-	[1790] = {
+	[1954] = {
 		["Name"] = "Takrin Pathseeker",
 		["Zone"] = "Durotar",
 		["ID"] = 3336,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1791] = {
+	[1955] = {
 		["Name"] = "Tal",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 2995,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1792] = {
+	[1956] = {
 		["Name"] = "Taladan",
 		["Zone"] = "Darnassus",
 		["ID"] = 4213,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1793] = {
+	[1957] = {
 		["Name"] = "Talaelar",
 		["Zone"] = "Darnassus",
 		["ID"] = 4221,
-		["minLevel"] = 30,
 		["maxLevel"] = 30,
+		["minLevel"] = 30,
 	},
-	[1794] = {
+	[1958] = {
 		["Name"] = "Talona Gladeheart",
 		["Zone"] = "Hyjal",
 		["ID"] = 61505,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[1795] = {
+	[1959] = {
 		["Name"] = "Taloned Swoop",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 2971,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[1796] = {
+	[1960] = {
 		["Name"] = "Taloned Swoop",
 		["Zone"] = "Mulgore",
 		["ID"] = 2971,
-		["maxLevel"] = 9,
 		["minLevel"] = 8,
+		["maxLevel"] = 9,
 	},
-	[1797] = {
+	[1961] = {
 		["Name"] = "Tamar",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3366,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1798] = {
+	[1962] = {
 		["Name"] = "Tammix Razzfire",
 		["Zone"] = "Durotar",
 		["ID"] = 91202,
-		["maxLevel"] = 23,
 		["minLevel"] = 23,
+		["maxLevel"] = 23,
 	},
-	[1799] = {
+	[1963] = {
 		["Name"] = "Tanalla Sagebranch",
 		["Zone"] = "Hyjal",
 		["ID"] = 61327,
-		["maxLevel"] = 56,
 		["minLevel"] = 56,
+		["maxLevel"] = 56,
 	},
-	[1800] = {
+	[1964] = {
 		["Name"] = "Tand",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3016,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1801] = {
+	[1965] = {
+		["Name"] = "Tanner Brightbelt",
+		["Zone"] = "Eastern Plaguelands",
+		["ID"] = 61572,
+		["minLevel"] = 58,
+		["maxLevel"] = 58,
+	},
+	[1966] = {
 		["Name"] = "Tanthos Everbreeze",
 		["Zone"] = "Hyjal",
 		["ID"] = 61491,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[1802] = {
+	[1967] = {
+		["Name"] = "Tar Beast",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6517,
+		["minLevel"] = 51,
+		["maxLevel"] = 51,
+	},
+	[1968] = {
+		["Name"] = "Tar Creeper",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6527,
+		["minLevel"] = 51,
+		["maxLevel"] = 52,
+	},
+	[1969] = {
+		["Name"] = "Tar Lord",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6519,
+		["minLevel"] = 53,
+		["maxLevel"] = 54,
+	},
+	[1970] = {
+		["Name"] = "Tar Lurker",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6518,
+		["minLevel"] = 52,
+		["maxLevel"] = 54,
+	},
+	[1971] = {
 		["Name"] = "Taragaman the Hungerer",
 		["Zone"] = "Ragefire Chasm",
 		["ID"] = 11520,
-		["maxLevel"] = 16,
 		["minLevel"] = 16,
+		["maxLevel"] = 16,
 	},
-	[1803] = {
+	[1972] = {
 		["Name"] = "Tarban Hearthgrain",
 		["Zone"] = "The Barrens",
 		["ID"] = 8307,
-		["maxLevel"] = 22,
 		["minLevel"] = 22,
+		["maxLevel"] = 22,
 	},
-	[1804] = {
+	[1973] = {
 		["Name"] = "Targot Jinglepocket",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 15124,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1805] = {
+	[1974] = {
 		["Name"] = "Tari'qa",
 		["Zone"] = "The Barrens",
 		["ID"] = 3482,
-		["maxLevel"] = 14,
 		["minLevel"] = 14,
+		["maxLevel"] = 14,
 	},
-	[1806] = {
+	[1975] = {
 		["Name"] = "Tarn",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 11084,
-		["maxLevel"] = 36,
 		["minLevel"] = 36,
+		["maxLevel"] = 36,
 	},
-	[1807] = {
+	[1976] = {
 		["Name"] = "Tarren Mill Deathguard",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 2405,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1808] = {
+	[1977] = {
 		["Name"] = "Tarshaw Jaggedscar",
 		["Zone"] = "Durotar",
 		["ID"] = 3169,
-		["maxLevel"] = 43,
 		["minLevel"] = 43,
+		["maxLevel"] = 43,
 	},
-	[1809] = {
+	[1978] = {
 		["Name"] = "Tarwegg Dustbrow",
 		["Zone"] = "Ironforge",
 		["ID"] = 62416,
 		["minLevel"] = 30,
 		["maxLevel"] = 30,
 	},
-	[1810] = {
+	[1979] = {
 		["Name"] = "Taskmaster Fizzule",
 		["Zone"] = "The Barrens",
 		["ID"] = 7233,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1811] = {
+	[1980] = {
 		["Name"] = "Tatternack Steelforge",
 		["Zone"] = "The Barrens",
 		["ID"] = 3433,
-		["maxLevel"] = 14,
 		["minLevel"] = 14,
+		["maxLevel"] = 14,
 	},
-	[1812] = {
+	[1981] = {
 		["Name"] = "Taur Stonehoof",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 2999,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1813] = {
+	[1982] = {
 		["Name"] = "Tazan",
 		["Zone"] = "The Barrens",
 		["ID"] = 6494,
-		["maxLevel"] = 13,
 		["minLevel"] = 13,
+		["maxLevel"] = 13,
 	},
-	[1814] = {
+	[1983] = {
 		["Name"] = "Technician Balwaz",
 		["Zone"] = "Durotar",
 		["ID"] = 91235,
-		["maxLevel"] = 13,
 		["minLevel"] = 13,
+		["maxLevel"] = 13,
 	},
-	[1815] = {
+	[1984] = {
 		["Name"] = "Technician Fraxdust",
 		["Zone"] = "Durotar",
 		["ID"] = 91268,
-		["maxLevel"] = 11,
 		["minLevel"] = 11,
+		["maxLevel"] = 11,
 	},
-	[1816] = {
+	[1985] = {
 		["Name"] = "Technician Grimzlow",
 		["Zone"] = "Durotar",
 		["ID"] = 91234,
-		["maxLevel"] = 13,
 		["minLevel"] = 13,
+		["maxLevel"] = 13,
 	},
-	[1817] = {
+	[1986] = {
 		["Name"] = "Technician Haztick",
 		["Zone"] = "Durotar",
 		["ID"] = 91233,
-		["maxLevel"] = 14,
 		["minLevel"] = 14,
+		["maxLevel"] = 14,
 	},
-	[1818] = {
+	[1987] = {
 		["Name"] = "Technician Nel'doriel",
 		["Zone"] = "Ironforge",
 		["ID"] = 60875,
 		["minLevel"] = 20,
 		["maxLevel"] = 20,
 	},
-	[1819] = {
+	[1988] = {
 		["Name"] = "Technician Spuzzle",
 		["Zone"] = "Durotar",
 		["ID"] = 91214,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
+		["maxLevel"] = 5,
 	},
-	[1820] = {
+	[1989] = {
 		["Name"] = "Teg Dawnstrider",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3011,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1821] = {
+	[1990] = {
 		["Name"] = "Telina Shadehand",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61835,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[1822] = {
+	[1991] = {
 		["Name"] = "Telonis",
 		["Zone"] = "Darnassus",
 		["ID"] = 4212,
-		["maxLevel"] = 46,
 		["minLevel"] = 46,
+		["maxLevel"] = 46,
 	},
-	[1823] = {
+	[1992] = {
 		["Name"] = "Tenris Mirkblood",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61772,
 		["maxLevel"] = 60,
 		["minLevel"] = 60,
 	},
-	[1824] = {
+	[1993] = {
 		["Name"] = "Tepa",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3004,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1825] = {
+	[1994] = {
 		["Name"] = "Thaddius",
 		["Zone"] = "Naxxramas",
 		["ID"] = 15928,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1826] = {
+	[1995] = {
+		["Name"] = "Thalanaar Sentinel",
+		["Zone"] = "Feralas",
+		["ID"] = 61600,
+		["minLevel"] = 55,
+		["maxLevel"] = 55,
+	},
+	[1996] = {
 		["Name"] = "Thalassian Sentinel",
 		["Zone"] = "Thalassian Highlands",
 		["ID"] = 61770,
 		["maxLevel"] = 55,
 		["minLevel"] = 55,
 	},
-	[1827] = {
+	[1997] = {
 		["Name"] = "Thalassian Stag",
 		["Zone"] = "Thalassian Highlands",
 		["ID"] = 61694,
 		["maxLevel"] = 7,
 		["minLevel"] = 7,
 	},
-	[1828] = {
+	[1998] = {
 		["Name"] = "Thalassian Tender",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 40013,
 		["maxLevel"] = 1,
 		["minLevel"] = 1,
 	},
-	[1829] = {
+	[1999] = {
 		["Name"] = "Thalassian Tender",
 		["Zone"] = "Thalassian Highlands",
 		["ID"] = 40013,
 		["maxLevel"] = 1,
 		["minLevel"] = 1,
 	},
-	[1830] = {
+	[2000] = {
 		["Name"] = "Thalassian Treant",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61701,
 		["maxLevel"] = 7,
 		["minLevel"] = 7,
 	},
-	[1831] = {
+	[2001] = {
 		["Name"] = "Thalassian Treant",
 		["Zone"] = "Thalassian Highlands",
 		["ID"] = 61701,
 		["maxLevel"] = 7,
 		["minLevel"] = 7,
 	},
-	[1832] = {
+	[2002] = {
 		["Name"] = "Thalion Noblewarden",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61828,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[1833] = {
+	[2003] = {
 		["Name"] = "Thane Korth'azz",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16064,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1834] = {
+	[2004] = {
 		["Name"] = "Tharl Stonebleeder",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 16076,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1835] = {
+	[2005] = {
 		["Name"] = "The Cook",
 		["Zone"] = "Tower of Karazhan",
 		["ID"] = 61328,
-		["maxLevel"] = 54,
 		["minLevel"] = 54,
+		["maxLevel"] = 54,
 	},
-	[1836] = {
+	[2006] = {
 		["Name"] = "The Master's Eye",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15963,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1837] = {
+	[2007] = {
 		["Name"] = "The Peach King",
 		["Zone"] = "The Barrens",
 		["ID"] = 9940,
 		["maxLevel"] = 20,
 		["minLevel"] = 20,
 	},
-	[1838] = {
+	[2008] = {
 		["Name"] = "The Prophet Skeram",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15263,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1839] = {
+	[2009] = {
 		["Name"] = "The Ravenian",
 		["Zone"] = "Scholomance",
 		["ID"] = 10507,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1840] = {
+	[2010] = {
 		["Name"] = "The Rov",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 80603,
-		["maxLevel"] = 37,
 		["minLevel"] = 37,
+		["maxLevel"] = 37,
 	},
-	[1841] = {
+	[2011] = {
+		["Name"] = "Theramore Combat Dummy",
+		["Zone"] = "Dustwallow Marsh",
+		["ID"] = 4952,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[2012] = {
 		["Name"] = "Theramore Marine",
 		["Zone"] = "The Barrens",
 		["ID"] = 3385,
-		["maxLevel"] = 16,
 		["minLevel"] = 15,
+		["maxLevel"] = 16,
 	},
-	[1842] = {
+	[2013] = {
+		["Name"] = "Theramore Practicing Guard",
+		["Zone"] = "Dustwallow Marsh",
+		["ID"] = 4951,
+		["minLevel"] = 51,
+		["maxLevel"] = 51,
+	},
+	[2014] = {
 		["Name"] = "Theramore Preserver",
 		["Zone"] = "The Barrens",
 		["ID"] = 3386,
-		["maxLevel"] = 17,
 		["minLevel"] = 16,
+		["maxLevel"] = 17,
 	},
-	[1843] = {
+	[2015] = {
 		["Name"] = "Therzok",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 6446,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
-	[1844] = {
+	[2016] = {
 		["Name"] = "Thessalia Dawnspark",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 62084,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[1845] = {
+	[2017] = {
 		["Name"] = "Thief Catcher Farmountain",
 		["Zone"] = "Ironforge",
 		["ID"] = 14365,
 		["minLevel"] = 60,
 		["maxLevel"] = 60,
 	},
-	[1846] = {
+	[2018] = {
 		["Name"] = "Thief Catcher Shadowdelve",
 		["Zone"] = "Ironforge",
 		["ID"] = 14363,
 		["minLevel"] = 60,
 		["maxLevel"] = 60,
 	},
-	[1847] = {
+	[2019] = {
 		["Name"] = "Thief Catcher Thunderbrew",
 		["Zone"] = "Ironforge",
 		["ID"] = 14367,
 		["minLevel"] = 60,
 		["maxLevel"] = 60,
 	},
-	[1848] = {
+	[2020] = {
 		["Name"] = "Thistleshrub Dew Collector",
 		["Zone"] = "Tanaris",
 		["ID"] = 5481,
-		["maxLevel"] = 48,
 		["minLevel"] = 47,
+		["maxLevel"] = 48,
 	},
-	[1849] = {
+	[2021] = {
 		["Name"] = "Thistleshrub Rootshaper",
 		["Zone"] = "Tanaris",
 		["ID"] = 5485,
-		["maxLevel"] = 50,
 		["minLevel"] = 49,
+		["maxLevel"] = 50,
 	},
-	[1850] = {
+	[2022] = {
 		["Name"] = "Thorg the Big",
 		["Zone"] = "Durotar",
 		["ID"] = 91240,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[1851] = {
+	[2023] = {
 		["Name"] = "Thork",
 		["Zone"] = "The Barrens",
 		["ID"] = 3429,
-		["maxLevel"] = 42,
 		["minLevel"] = 42,
+		["maxLevel"] = 42,
 	},
-	[1852] = {
+	[2024] = {
 		["Name"] = "Thotar",
 		["Zone"] = "Durotar",
 		["ID"] = 3171,
-		["maxLevel"] = 16,
 		["minLevel"] = 16,
+		["maxLevel"] = 16,
 	},
-	[1853] = {
+	[2025] = {
 		["Name"] = "Thrag Stonehoof",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 10278,
-		["maxLevel"] = 24,
 		["minLevel"] = 24,
+		["maxLevel"] = 24,
 	},
-	[1854] = {
+	[2026] = {
 		["Name"] = "Thrall",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 4949,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1855] = {
+	[2027] = {
 		["Name"] = "Thralosh",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 984,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1856] = {
+	[2028] = {
 		["Name"] = "Thrumn",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 5189,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[1857] = {
+	[2029] = {
 		["Name"] = "Thultash",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 982,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1858] = {
+	[2030] = {
 		["Name"] = "Thultazor",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 983,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1859] = {
+	[2031] = {
 		["Name"] = "Thund",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 2857,
-		["maxLevel"] = 23,
 		["minLevel"] = 23,
+		["maxLevel"] = 23,
 	},
-	[1860] = {
+	[2032] = {
 		["Name"] = "Thunderhawk Cloudscraper",
 		["Zone"] = "The Barrens",
 		["ID"] = 3424,
-		["maxLevel"] = 22,
 		["minLevel"] = 20,
+		["maxLevel"] = 22,
 	},
-	[1861] = {
+	[2033] = {
 		["Name"] = "Thunderhawk Hatchling",
 		["Zone"] = "The Barrens",
 		["ID"] = 3247,
-		["maxLevel"] = 20,
 		["minLevel"] = 18,
+		["maxLevel"] = 20,
 	},
-	[1862] = {
+	[2034] = {
 		["Name"] = "Thunderhead",
 		["Zone"] = "The Barrens",
 		["ID"] = 3239,
-		["maxLevel"] = 21,
 		["minLevel"] = 20,
+		["maxLevel"] = 21,
 	},
-	[1863] = {
+	[2035] = {
 		["Name"] = "Thundering Exile",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2762,
-		["maxLevel"] = 39,
 		["minLevel"] = 38,
+		["maxLevel"] = 39,
 	},
-	[1864] = {
+	[2036] = {
+		["Name"] = "Thunderstomp Stegodon",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6504,
+		["minLevel"] = 54,
+		["maxLevel"] = 55,
+	},
+	[2037] = {
 		["Name"] = "Thurgrum Deepforge",
 		["Zone"] = "Ironforge",
 		["ID"] = 4259,
 		["minLevel"] = 30,
 		["maxLevel"] = 30,
 	},
-	[1865] = {
+	[2038] = {
 		["Name"] = "Thurston Xane",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3049,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[1866] = {
+	[2039] = {
 		["Name"] = "Thuul",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5958,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1867] = {
+	[2040] = {
 		["Name"] = "Thuwd",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 7088,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1868] = {
+	[2041] = {
 		["Name"] = "Thyn'tel Bladeweaver",
 		["Zone"] = "Darnassus",
 		["ID"] = 8026,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1869] = {
+	[2042] = {
+		["Name"] = "Thyssiana",
+		["Zone"] = "Feralas",
+		["ID"] = 4319,
+		["minLevel"] = 55,
+		["maxLevel"] = 55,
+	},
+	[2043] = {
 		["Name"] = "Thysta",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 1387,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1870] = {
+	[2044] = {
 		["Name"] = "Tick",
 		["Zone"] = "Tanaris",
 		["ID"] = 8198,
-		["maxLevel"] = 52,
 		["minLevel"] = 52,
+		["maxLevel"] = 52,
 	},
-	[1871] = {
+	[2045] = {
 		["Name"] = "Tigor Skychaser",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3031,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1872] = {
+	[2046] = {
+		["Name"] = "Timber Riding Wolf",
+		["Zone"] = "Thousand Needles",
+		["ID"] = 51581,
+		["minLevel"] = 2,
+		["maxLevel"] = 2,
+	},
+	[2047] = {
 		["Name"] = "Timber Riding Wolf",
 		["Zone"] = "Durotar",
 		["ID"] = 51581,
-		["maxLevel"] = 2,
 		["minLevel"] = 2,
-	},
-	[1873] = {
-		["Name"] = "Timber Riding Wolf",
-		["Zone"] = "The Barrens",
-		["ID"] = 51581,
 		["maxLevel"] = 2,
-		["minLevel"] = 1,
 	},
-	[1874] = {
+	[2048] = {
 		["Name"] = "Timber Riding Wolf",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 12353,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[1875] = {
-		["Name"] = "Timber Riding Wolf",
-		["Zone"] = "Swamp of Sorrows",
-		["ID"] = 51581,
-		["maxLevel"] = 1,
-		["minLevel"] = 1,
-	},
-	[1876] = {
-		["Name"] = "Timber Riding Wolf",
-		["Zone"] = "Tanaris",
-		["ID"] = 51581,
-		["maxLevel"] = 2,
-		["minLevel"] = 2,
-	},
-	[1877] = {
+	[2049] = {
 		["Name"] = "Timber Riding Wolf",
 		["Zone"] = "Ashenvale",
 		["ID"] = 51581,
 		["maxLevel"] = 2,
 		["minLevel"] = 2,
 	},
-	[1878] = {
+	[2050] = {
 		["Name"] = "Timber Riding Wolf",
-		["Zone"] = "Thousand Needles",
+		["Zone"] = "Tanaris",
 		["ID"] = 51581,
+		["minLevel"] = 1,
 		["maxLevel"] = 2,
-		["minLevel"] = 2,
 	},
-	[1879] = {
+	[2051] = {
+		["Name"] = "Timber Riding Wolf",
+		["Zone"] = "The Barrens",
+		["ID"] = 51581,
+		["minLevel"] = 1,
+		["maxLevel"] = 2,
+	},
+	[2052] = {
+		["Name"] = "Timber Riding Wolf",
+		["Zone"] = "Swamp of Sorrows",
+		["ID"] = 51581,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[2053] = {
 		["Name"] = "Tinkerer Sniggles",
 		["Zone"] = "The Barrens",
 		["ID"] = 3471,
-		["maxLevel"] = 16,
 		["minLevel"] = 16,
+		["maxLevel"] = 16,
 	},
-	[1880] = {
+	[2054] = {
 		["Name"] = "Tinkerwiz",
 		["Zone"] = "The Barrens",
 		["ID"] = 3494,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[1881] = {
+	[2055] = {
 		["Name"] = "Tiriel Brightwater",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61831,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[1882] = {
+	[2056] = {
 		["Name"] = "Tirisfal Farmhand",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 1935,
-		["maxLevel"] = 6,
 		["minLevel"] = 6,
+		["maxLevel"] = 6,
 	},
-	[1883] = {
+	[2057] = {
 		["Name"] = "Tizak Boltratch",
 		["Zone"] = "Durotar",
 		["ID"] = 60625,
 		["maxLevel"] = 45,
 		["minLevel"] = 45,
 	},
-	[1884] = {
+	[2058] = {
 		["Name"] = "Toad",
 		["Zone"] = "Darnassus",
 		["ID"] = 1420,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[1885] = {
+	[2059] = {
 		["Name"] = "Toad",
 		["Zone"] = "Emerald Sanctum",
 		["ID"] = 1420,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[1886] = {
+	[2060] = {
+		["Name"] = "Toad",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 1420,
+		["minLevel"] = 1,
+		["maxLevel"] = 1,
+	},
+	[2061] = {
 		["Name"] = "Toci Flipper",
 		["Zone"] = "Tanaris",
 		["ID"] = 80997,
-		["maxLevel"] = 51,
 		["minLevel"] = 51,
+		["maxLevel"] = 51,
 	},
-	[1887] = {
+	[2062] = {
+		["Name"] = "Tog'thar",
+		["Zone"] = "Hillsbrad Foothills",
+		["ID"] = 2238,
+		["minLevel"] = 25,
+		["maxLevel"] = 25,
+	},
+	[2063] = {
 		["Name"] = "Tomb Horror",
 		["Zone"] = "Naxxramas",
 		["ID"] = 15979,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1888] = {
+	[2064] = {
 		["Name"] = "Tonga Runetotem",
 		["Zone"] = "The Barrens",
 		["ID"] = 3448,
-		["maxLevel"] = 22,
 		["minLevel"] = 22,
+		["maxLevel"] = 22,
 	},
-	[1889] = {
+	[2065] = {
 		["Name"] = "Tooga",
 		["Zone"] = "Tanaris",
 		["ID"] = 5955,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1890] = {
+	[2066] = {
 		["Name"] = "Tor'phan",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3315,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1891] = {
+	[2067] = {
 		["Name"] = "Tormus Deepforge",
 		["Zone"] = "Ironforge",
 		["ID"] = 6031,
 		["minLevel"] = 30,
 		["maxLevel"] = 30,
 	},
-	[1892] = {
+	[2068] = {
 		["Name"] = "Torn",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 2996,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1893] = {
+	[2069] = {
 		["Name"] = "Torn Screamer",
 		["Zone"] = "Eastern Plaguelands",
 		["ID"] = 8540,
-		["maxLevel"] = 55,
 		["minLevel"] = 53,
+		["maxLevel"] = 55,
 	},
-	[1894] = {
+	[2070] = {
 		["Name"] = "Torta",
 		["Zone"] = "Tanaris",
 		["ID"] = 6015,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1895] = {
+	[2071] = {
+		["Name"] = "Torwa Pathfinder",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9619,
+		["minLevel"] = 51,
+		["maxLevel"] = 51,
+	},
+	[2072] = {
 		["Name"] = "Tosamina",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 14498,
-		["maxLevel"] = 34,
 		["minLevel"] = 34,
+		["maxLevel"] = 34,
 	},
-	[1896] = {
+	[2073] = {
 		["Name"] = "Traaz Ironfinger",
 		["Zone"] = "The Barrens",
 		["ID"] = 51601,
-		["maxLevel"] = 42,
 		["minLevel"] = 42,
+		["maxLevel"] = 42,
 	},
-	[1897] = {
+	[2074] = {
 		["Name"] = "Tradesman Laz",
 		["Zone"] = "Durotar",
 		["ID"] = 91237,
-		["maxLevel"] = 52,
 		["minLevel"] = 52,
+		["maxLevel"] = 52,
 	},
-	[1898] = {
+	[2075] = {
+		["Name"] = "Trained Razorbeak",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 2657,
+		["minLevel"] = 41,
+		["maxLevel"] = 42,
+	},
+	[2076] = {
 		["Name"] = "Trak'gen",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3313,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1899] = {
+	[2077] = {
 		["Name"] = "Tran'rek",
 		["Zone"] = "Tanaris",
 		["ID"] = 7876,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1900] = {
+	[2078] = {
 		["Name"] = "Trash Collector Gaston",
 		["Zone"] = "The Barrens",
 		["ID"] = 8,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[1901] = {
+	[2079] = {
 		["Name"] = "Traugh",
 		["Zone"] = "The Barrens",
 		["ID"] = 3478,
-		["maxLevel"] = 31,
 		["minLevel"] = 31,
+		["maxLevel"] = 31,
 	},
-	[1902] = {
+	[2080] = {
 		["Name"] = "Traxis",
 		["Zone"] = "The Barrens",
 		["ID"] = 61977,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1903] = {
+	[2081] = {
 		["Name"] = "Treggi",
 		["Zone"] = "Tanaris",
 		["ID"] = 62624,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1904] = {
+	[2082] = {
 		["Name"] = "Trenton Lighthammer",
 		["Zone"] = "Tanaris",
 		["ID"] = 7804,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1905] = {
+	[2083] = {
 		["Name"] = "Treshala Fallowbrook",
 		["Zone"] = "Darnassus",
 		["ID"] = 4521,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
-	[1906] = {
+	[2084] = {
 		["Name"] = "Trianna",
 		["Zone"] = "Darnassus",
 		["ID"] = 11050,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[1907] = {
+	[2085] = {
 		["Name"] = "Trok",
 		["Zone"] = "The Barrens",
 		["ID"] = 14872,
-		["maxLevel"] = 2,
 		["minLevel"] = 2,
+		["maxLevel"] = 2,
 	},
-	[1908] = {
+	[2086] = {
 		["Name"] = "Tumi",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5812,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1909] = {
+	[2087] = {
 		["Name"] = "Tynnus Venomsprout",
 		["Zone"] = "Ironforge",
 		["ID"] = 5169,
 		["minLevel"] = 30,
 		["maxLevel"] = 30,
 	},
-	[1910] = {
+	[2088] = {
 		["Name"] = "Tyrande Whisperwind",
 		["Zone"] = "Darnassus",
 		["ID"] = 7999,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1911] = {
+	[2089] = {
+		["Name"] = "Tyrant Devilsaur",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6500,
+		["minLevel"] = 54,
+		["maxLevel"] = 55,
+	},
+	[2090] = {
+		["Name"] = "U'cha",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9622,
+		["minLevel"] = 55,
+		["maxLevel"] = 55,
+	},
+	[2091] = {
 		["Name"] = "Ug'thok",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 10266,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[1912] = {
+	[2092] = {
 		["Name"] = "Uhgar",
 		["Zone"] = "Durotar",
 		["ID"] = 3163,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[1913] = {
+	[2093] = {
 		["Name"] = "Ukor",
 		["Zone"] = "Durotar",
 		["ID"] = 6786,
-		["maxLevel"] = 4,
 		["minLevel"] = 4,
+		["maxLevel"] = 4,
 	},
-	[1914] = {
+	[2094] = {
 		["Name"] = "Ukra'nor",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3349,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1915] = {
+	[2095] = {
 		["Name"] = "Ulthir",
 		["Zone"] = "Darnassus",
 		["ID"] = 4226,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1916] = {
+	[2096] = {
+		["Name"] = "Un'Goro Gorilla",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6514,
+		["minLevel"] = 50,
+		["maxLevel"] = 51,
+	},
+	[2097] = {
+		["Name"] = "Un'Goro Stomper",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6513,
+		["minLevel"] = 51,
+		["maxLevel"] = 52,
+	},
+	[2098] = {
+		["Name"] = "Un'Goro Thunderer",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6516,
+		["minLevel"] = 53,
+		["maxLevel"] = 53,
+	},
+	[2099] = {
 		["Name"] = "Una",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3007,
-		["maxLevel"] = 46,
 		["minLevel"] = 46,
+		["maxLevel"] = 46,
 	},
-	[1917] = {
+	[2100] = {
 		["Name"] = "Unholy Axe",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16194,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1918] = {
+	[2101] = {
 		["Name"] = "Unholy Staff",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16215,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1919] = {
+	[2102] = {
 		["Name"] = "Unholy Swords",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16216,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1920] = {
+	[2103] = {
 		["Name"] = "Unliving Caretaker",
 		["Zone"] = "Deadwind Pass",
 		["ID"] = 12379,
-		["maxLevel"] = 59,
 		["minLevel"] = 59,
+		["maxLevel"] = 59,
 	},
-	[1921] = {
+	[2104] = {
 		["Name"] = "Unliving Resident",
 		["Zone"] = "Deadwind Pass",
 		["ID"] = 12380,
-		["maxLevel"] = 60,
 		["minLevel"] = 59,
+		["maxLevel"] = 60,
 	},
-	[1922] = {
+	[2105] = {
 		["Name"] = "Unstable Corpse",
 		["Zone"] = "Scholomance",
 		["ID"] = 10480,
-		["maxLevel"] = 59,
 		["minLevel"] = 58,
+		["maxLevel"] = 59,
 	},
-	[1923] = {
+	[2106] = {
 		["Name"] = "Unstoppable Abomination",
 		["Zone"] = "The Upper Necropolis",
 		["ID"] = 16428,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1924] = {
+	[2107] = {
 		["Name"] = "Ur'kyo",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 6018,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1925] = {
+	[2108] = {
 		["Name"] = "Ureda",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 80857,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1926] = {
+	[2109] = {
 		["Name"] = "Ursyn Ghull",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3048,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1927] = {
+	[2110] = {
 		["Name"] = "Urtrun Clanbringer",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3370,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[1928] = {
+	[2111] = {
 		["Name"] = "Uthel'nay",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 7311,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1929] = {
+	[2112] = {
 		["Name"] = "Uthrok",
 		["Zone"] = "The Barrens",
 		["ID"] = 3488,
-		["maxLevel"] = 16,
 		["minLevel"] = 16,
+		["maxLevel"] = 16,
 	},
-	[1930] = {
+	[2113] = {
 		["Name"] = "Vaean",
 		["Zone"] = "Darnassus",
 		["ID"] = 4228,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1931] = {
+	[2114] = {
 		["Name"] = "Vaelastrasz the Corrupt",
 		["Zone"] = "Blackwing Lair",
 		["ID"] = 13020,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1932] = {
+	[2115] = {
 		["Name"] = "Vaenar Hollowstar",
 		["Zone"] = "Hyjal",
 		["ID"] = 61519,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1933] = {
+	[2116] = {
 		["Name"] = "Valkar",
 		["Zone"] = "Durotar",
 		["ID"] = 91246,
-		["maxLevel"] = 13,
 		["minLevel"] = 13,
+		["maxLevel"] = 13,
 	},
-	[1934] = {
+	[2117] = {
 		["Name"] = "Valon Oaklight",
 		["Zone"] = "Ashenvale",
 		["ID"] = 61144,
 		["maxLevel"] = 36,
 		["minLevel"] = 36,
 	},
-	[1935] = {
+	[2118] = {
 		["Name"] = "Vampiric Duskbat",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 1554,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[1936] = {
+	[2119] = {
 		["Name"] = "Vanessa Clang",
 		["Zone"] = "Durotar",
 		["ID"] = 80961,
-		["maxLevel"] = 11,
 		["minLevel"] = 11,
+		["maxLevel"] = 11,
 	},
-	[1937] = {
+	[2120] = {
 		["Name"] = "Vanira Quel'Belore",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 80453,
 		["maxLevel"] = 11,
 		["minLevel"] = 11,
 	},
-	[1938] = {
+	[2121] = {
 		["Name"] = "Vannamyr Featherwind",
 		["Zone"] = "Hyjal",
 		["ID"] = 61493,
-		["maxLevel"] = 58,
 		["minLevel"] = 58,
+		["maxLevel"] = 58,
 	},
-	[1939] = {
+	[2122] = {
 		["Name"] = "Vazario Linkgrease",
 		["Zone"] = "The Barrens",
 		["ID"] = 8738,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[1940] = {
+	[2123] = {
 		["Name"] = "Vean'za",
 		["Zone"] = "Durotar",
 		["ID"] = 60703,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[1941] = {
+	[2124] = {
 		["Name"] = "Vectus",
 		["Zone"] = "Scholomance",
 		["ID"] = 10432,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1942] = {
+	[2125] = {
 		["Name"] = "Vehena",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 14727,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[1943] = {
+	[2126] = {
 		["Name"] = "Vekniss Borer",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15622,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1944] = {
+	[2127] = {
 		["Name"] = "Vekniss Drone",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15300,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1945] = {
+	[2128] = {
 		["Name"] = "Vekniss Guardian",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15233,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1946] = {
+	[2129] = {
 		["Name"] = "Vekniss Hatchling",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15962,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1947] = {
+	[2130] = {
 		["Name"] = "Vekniss Hive Crawler",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15240,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1948] = {
+	[2131] = {
 		["Name"] = "Vekniss Soldier",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15229,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1949] = {
+	[2132] = {
 		["Name"] = "Vekniss Stinger",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15235,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[1950] = {
+	[2133] = {
 		["Name"] = "Vekniss Warrior",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15230,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1951] = {
+	[2134] = {
 		["Name"] = "Vekniss Wasp",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15236,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[1952] = {
+	[2135] = {
+		["Name"] = "Velos Sharpstrike",
+		["Zone"] = "Feralas",
+		["ID"] = 61588,
+		["minLevel"] = 55,
+		["maxLevel"] = 55,
+	},
+	[2136] = {
 		["Name"] = "Vem",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15544,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1953] = {
-		["Name"] = "Venom Mist Lurker",
-		["Zone"] = "Western Plaguelands",
-		["ID"] = 1822,
-		["maxLevel"] = 51,
-		["minLevel"] = 50,
-	},
-	[1954] = {
+	[2137] = {
 		["Name"] = "Venom Mist Lurker",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 1822,
-		["maxLevel"] = 51,
 		["minLevel"] = 50,
+		["maxLevel"] = 51,
 	},
-	[1955] = {
+	[2138] = {
+		["Name"] = "Venom Mist Lurker",
+		["Zone"] = "Western Plaguelands",
+		["ID"] = 1822,
+		["minLevel"] = 50,
+		["maxLevel"] = 51,
+	},
+	[2139] = {
 		["Name"] = "Venom Stalker",
 		["Zone"] = "Naxxramas",
 		["ID"] = 15976,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1956] = {
+	[2140] = {
+		["Name"] = "Venomhide Ravasaur",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 6508,
+		["minLevel"] = 50,
+		["maxLevel"] = 51,
+	},
+	[2141] = {
+		["Name"] = "Venomlash Chimaera",
+		["Zone"] = "Feralas",
+		["ID"] = 61596,
+		["minLevel"] = 42,
+		["maxLevel"] = 44,
+	},
+	[2142] = {
 		["Name"] = "Venomtail Scorpid",
 		["Zone"] = "Durotar",
 		["ID"] = 3127,
-		["maxLevel"] = 10,
 		["minLevel"] = 9,
+		["maxLevel"] = 10,
 	},
-	[1957] = {
+	[2143] = {
 		["Name"] = "Venomtail Scorpid",
 		["Zone"] = "The Barrens",
 		["ID"] = 3127,
 		["maxLevel"] = 10,
 		["minLevel"] = 9,
 	},
-	[1958] = {
+	[2144] = {
 		["Name"] = "Venture Co. Drone",
 		["Zone"] = "The Barrens",
 		["ID"] = 7067,
-		["maxLevel"] = 22,
 		["minLevel"] = 22,
+		["maxLevel"] = 22,
 	},
-	[1959] = {
+	[2145] = {
 		["Name"] = "Venture Co. Drudger",
 		["Zone"] = "The Barrens",
 		["ID"] = 3284,
-		["maxLevel"] = 15,
 		["minLevel"] = 14,
+		["maxLevel"] = 15,
 	},
-	[1960] = {
+	[2146] = {
 		["Name"] = "Venture Co. Enforcer",
 		["Zone"] = "The Barrens",
 		["ID"] = 3283,
-		["maxLevel"] = 17,
 		["minLevel"] = 16,
+		["maxLevel"] = 17,
 	},
-	[1961] = {
+	[2147] = {
 		["Name"] = "Venture Co. Laborer",
 		["Zone"] = "Mulgore",
 		["ID"] = 2976,
-		["maxLevel"] = 7,
 		["minLevel"] = 6,
+		["maxLevel"] = 7,
 	},
-	[1962] = {
+	[2148] = {
 		["Name"] = "Venture Co. Lookout",
 		["Zone"] = "The Barrens",
 		["ID"] = 7307,
-		["maxLevel"] = 23,
 		["minLevel"] = 23,
+		["maxLevel"] = 23,
 	},
-	[1963] = {
+	[2149] = {
 		["Name"] = "Venture Co. Mercenary",
 		["Zone"] = "The Barrens",
 		["ID"] = 3282,
-		["maxLevel"] = 16,
 		["minLevel"] = 15,
+		["maxLevel"] = 16,
 	},
-	[1964] = {
+	[2150] = {
 		["Name"] = "Venture Co. Overseer",
 		["Zone"] = "The Barrens",
 		["ID"] = 3286,
-		["maxLevel"] = 18,
 		["minLevel"] = 17,
+		["maxLevel"] = 18,
 	},
-	[1965] = {
+	[2151] = {
 		["Name"] = "Venture Co. Patroller",
 		["Zone"] = "The Barrens",
 		["ID"] = 7308,
-		["maxLevel"] = 22,
 		["minLevel"] = 22,
+		["maxLevel"] = 22,
 	},
-	[1966] = {
+	[2152] = {
 		["Name"] = "Venture Co. Peon",
 		["Zone"] = "The Barrens",
 		["ID"] = 3285,
-		["maxLevel"] = 14,
 		["minLevel"] = 13,
+		["maxLevel"] = 14,
 	},
-	[1967] = {
+	[2153] = {
 		["Name"] = "Venture Co. Taskmaster",
 		["Zone"] = "Mulgore",
 		["ID"] = 2977,
-		["maxLevel"] = 8,
 		["minLevel"] = 7,
+		["maxLevel"] = 8,
 	},
-	[1968] = {
+	[2154] = {
 		["Name"] = "Verdant Ooze",
 		["Zone"] = "Hyjal",
 		["ID"] = 61335,
-		["maxLevel"] = 61,
 		["minLevel"] = 60,
+		["maxLevel"] = 61,
 	},
-	[1969] = {
+	[2155] = {
 		["Name"] = "Vereesa Windrunner",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 80877,
 		["maxLevel"] = -1,
 		["minLevel"] = -1,
 	},
-	[1970] = {
+	[2156] = {
 		["Name"] = "Veren Tallstrider",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 3050,
-		["maxLevel"] = 21,
 		["minLevel"] = 21,
+		["maxLevel"] = 21,
 	},
-	[1971] = {
+	[2157] = {
 		["Name"] = "Verog the Dervish",
 		["Zone"] = "The Barrens",
 		["ID"] = 3395,
-		["maxLevel"] = 18,
 		["minLevel"] = 18,
+		["maxLevel"] = 18,
 	},
-	[1972] = {
+	[2158] = {
 		["Name"] = "Verrus Trueshine",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61883,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[1973] = {
+	[2159] = {
 		["Name"] = "Very Sad Investor",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 52121,
 		["minLevel"] = 25,
 		["maxLevel"] = 25,
 	},
-	[1974] = {
+	[2160] = {
 		["Name"] = "Vesprystus",
 		["Zone"] = "Teldrassil",
 		["ID"] = 3838,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[1975] = {
+	[2161] = {
 		["Name"] = "Vess",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 60400,
 		["minLevel"] = 50,
 		["maxLevel"] = 50,
 	},
-	[1976] = {
+	[2162] = {
 		["Name"] = "Vexspindle",
 		["Zone"] = "The Barrens",
 		["ID"] = 3492,
-		["maxLevel"] = 24,
 		["minLevel"] = 24,
+		["maxLevel"] = 24,
 	},
-	[1977] = {
+	[2163] = {
 		["Name"] = "Vhan",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 11051,
-		["maxLevel"] = 26,
 		["minLevel"] = 26,
+		["maxLevel"] = 26,
 	},
-	[1978] = {
+	[2164] = {
 		["Name"] = "Vicious Gray Bear",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 2354,
-		["maxLevel"] = 23,
 		["minLevel"] = 22,
+		["maxLevel"] = 23,
 	},
-	[1979] = {
+	[2165] = {
+		["Name"] = "Vicious Owlbeast",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 2927,
+		["minLevel"] = 42,
+		["maxLevel"] = 43,
+	},
+	[2166] = {
 		["Name"] = "Viessa Windseeker",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 62089,
 		["maxLevel"] = 10,
 		["minLevel"] = 10,
 	},
-	[1980] = {
+	[2167] = {
 		["Name"] = "Vikki Lonsav",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2808,
-		["maxLevel"] = 36,
 		["minLevel"] = 36,
+		["maxLevel"] = 36,
 	},
-	[1981] = {
+	[2168] = {
 		["Name"] = "Vil'do One-Tusk",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 60459,
 		["maxLevel"] = 45,
 		["minLevel"] = 45,
 	},
-	[1982] = {
+	[2169] = {
 		["Name"] = "Vile Familiar",
 		["Zone"] = "Durotar",
 		["ID"] = 3101,
-		["maxLevel"] = 4,
 		["minLevel"] = 3,
+		["maxLevel"] = 4,
 	},
-	[1983] = {
+	[2170] = {
 		["Name"] = "Vile Fin Minor Oracle",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 1544,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[1984] = {
+	[2171] = {
 		["Name"] = "Vile Fin Muckdweller",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 1545,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[1985] = {
+	[2172] = {
 		["Name"] = "Vilemusk Felsworn",
 		["Zone"] = "Hyjal",
 		["ID"] = 61339,
-		["maxLevel"] = 61,
 		["minLevel"] = 60,
+		["maxLevel"] = 61,
 	},
-	[1986] = {
+	[2173] = {
 		["Name"] = "Vilemusk Hellcaller",
 		["Zone"] = "Hyjal",
 		["ID"] = 61341,
-		["maxLevel"] = 62,
 		["minLevel"] = 61,
+		["maxLevel"] = 62,
 	},
-	[1987] = {
+	[2174] = {
 		["Name"] = "Vilemusk Satyr",
 		["Zone"] = "Hyjal",
 		["ID"] = 61338,
-		["maxLevel"] = 59,
 		["minLevel"] = 58,
+		["maxLevel"] = 59,
 	},
-	[1988] = {
+	[2175] = {
 		["Name"] = "Vilemusk Shadowstalker",
 		["Zone"] = "Hyjal",
 		["ID"] = 61340,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[1989] = {
+	[2176] = {
 		["Name"] = "Vinasia",
 		["Zone"] = "Darnassus",
 		["ID"] = 4175,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[1990] = {
+	[2177] = {
 		["Name"] = "Viscidus",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15299,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1991] = {
+	[2178] = {
 		["Name"] = "Viznik Goldgrubber",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2625,
 		["minLevel"] = 55,
 		["maxLevel"] = 55,
 	},
-	[1992] = {
+	[2179] = {
 		["Name"] = "Vizzklick",
 		["Zone"] = "Tanaris",
 		["ID"] = 6568,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[1993] = {
+	[2180] = {
 		["Name"] = "Voidwalker Minion",
-		["Zone"] = "Ragefire Chasm",
+		["Zone"] = "Durotar",
 		["ID"] = 8996,
-		["maxLevel"] = 15,
-		["minLevel"] = 13,
+		["minLevel"] = 10,
+		["maxLevel"] = 14,
 	},
-	[1994] = {
+	[2181] = {
 		["Name"] = "Voidwalker Minion",
 		["Zone"] = "Tanaris",
 		["ID"] = 8996,
-		["Owner"] = "Wastewander Shadow Mage",
-		["maxLevel"] = 43,
 		["minLevel"] = 42,
+		["maxLevel"] = 43,
 	},
-	[1995] = {
+	[2182] = {
+		["Name"] = "Voidwalker Minion",
+		["Zone"] = "Ragefire Chasm",
+		["ID"] = 8996,
+		["minLevel"] = 13,
+		["maxLevel"] = 15,
+	},
+	[2183] = {
 		["Name"] = "Voidwalker Minion",
 		["Zone"] = "Ashenvale",
 		["ID"] = 8996,
-		["Owner"] = "Bleakheart Hellcaller",
 		["maxLevel"] = 27,
 		["minLevel"] = 27,
 	},
-	[1996] = {
-		["Name"] = "Voidwalker Minion",
-		["Zone"] = "Durotar",
-		["ID"] = 8996,
-		["maxLevel"] = 14,
-		["minLevel"] = 10,
-	},
-	[1997] = {
+	[2184] = {
 		["Name"] = "Vol'jin",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 10540,
-		["maxLevel"] = -1,
 		["minLevel"] = -1,
+		["maxLevel"] = -1,
 	},
-	[1998] = {
+	[2185] = {
+		["Name"] = "Voldana",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 81044,
+		["minLevel"] = 44,
+		["maxLevel"] = 44,
+	},
+	[2186] = {
 		["Name"] = "Voloren",
 		["Zone"] = "Darnassus",
 		["ID"] = 4222,
-		["minLevel"] = 30,
 		["maxLevel"] = 30,
+		["minLevel"] = 30,
 	},
-	[1999] = {
+	[2187] = {
+		["Name"] = "Voltra",
+		["Zone"] = "Feralas",
+		["ID"] = 61589,
+		["minLevel"] = 45,
+		["maxLevel"] = 45,
+	},
+	[2188] = {
 		["Name"] = "Volz'draza",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 80799,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[2000] = {
+	[2189] = {
 		["Name"] = "Voodoo Troll",
 		["Zone"] = "Durotar",
 		["ID"] = 3206,
-		["maxLevel"] = 9,
 		["minLevel"] = 8,
+		["maxLevel"] = 9,
 	},
-	[2001] = {
+	[2190] = {
 		["Name"] = "Voren'thal the Scryer",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61804,
 		["maxLevel"] = 60,
 		["minLevel"] = 60,
 	},
-	[2002] = {
+	[2191] = {
 		["Name"] = "Vorthos Everbreeze",
 		["Zone"] = "Hyjal",
 		["ID"] = 61525,
-		["maxLevel"] = 56,
 		["minLevel"] = 56,
+		["maxLevel"] = 56,
 	},
-	[2003] = {
+	[2192] = {
 		["Name"] = "Voryn Skystrider",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 93100,
 		["maxLevel"] = 55,
 		["minLevel"] = 55,
 	},
-	[2004] = {
+	[2193] = {
 		["Name"] = "Vrang Wildgore",
 		["Zone"] = "The Barrens",
 		["ID"] = 3682,
-		["maxLevel"] = 48,
 		["minLevel"] = 48,
+		["maxLevel"] = 48,
 	},
-	[2005] = {
+	[2194] = {
 		["Name"] = "Wailing Spectre",
 		["Zone"] = "Deadwind Pass",
 		["ID"] = 12377,
-		["maxLevel"] = 59,
 		["minLevel"] = 58,
+		["maxLevel"] = 59,
 	},
-	[2006] = {
+	[2195] = {
 		["Name"] = "Wandering Barrens Giraffe",
 		["Zone"] = "The Barrens",
 		["ID"] = 3463,
-		["maxLevel"] = 19,
 		["minLevel"] = 18,
+		["maxLevel"] = 19,
 	},
-	[2007] = {
+	[2196] = {
 		["Name"] = "Warbringer Dar'nakk",
 		["Zone"] = "Durotar",
 		["ID"] = 61026,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
-	[2008] = {
+	[2197] = {
 		["Name"] = "Warcaller Gorlach",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 10880,
-		["maxLevel"] = 3,
 		["minLevel"] = 3,
+		["maxLevel"] = 3,
 	},
-	[2009] = {
+	[2198] = {
 		["Name"] = "Warlord Hanzento",
 		["Zone"] = "Hyjal",
 		["ID"] = 61360,
-		["maxLevel"] = 63,
 		["minLevel"] = 63,
+		["maxLevel"] = 63,
 	},
-	[2010] = {
+	[2199] = {
 		["Name"] = "Warlord Krom'zar",
 		["Zone"] = "The Barrens",
 		["ID"] = 9456,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
-	[2011] = {
+	[2200] = {
+		["Name"] = "Warsong Emissary",
+		["Zone"] = "Orgrimmar",
+		["ID"] = 15105,
+		["minLevel"] = 30,
+		["maxLevel"] = 30,
+	},
+	[2201] = {
 		["Name"] = "Warsong Outrider",
 		["Zone"] = "Ashenvale",
 		["ID"] = 12864,
 		["maxLevel"] = 30,
 		["minLevel"] = 30,
 	},
-	[2012] = {
+	[2202] = {
 		["Name"] = "Warsong Scout",
 		["Zone"] = "Ashenvale",
 		["ID"] = 12862,
 		["maxLevel"] = 28,
 		["minLevel"] = 28,
 	},
-	[2013] = {
+	[2203] = {
 		["Name"] = "Washte Pawne",
 		["Zone"] = "The Barrens",
 		["ID"] = 3472,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[2014] = {
+	[2204] = {
 		["Name"] = "Wastemanager Taxx",
 		["Zone"] = "Durotar",
 		["ID"] = 91262,
-		["maxLevel"] = 6,
 		["minLevel"] = 6,
+		["maxLevel"] = 6,
 	},
-	[2015] = {
+	[2205] = {
 		["Name"] = "Wastewander Assassin",
 		["Zone"] = "Tanaris",
 		["ID"] = 5623,
-		["maxLevel"] = 45,
 		["minLevel"] = 44,
+		["maxLevel"] = 45,
 	},
-	[2016] = {
+	[2206] = {
 		["Name"] = "Wastewander Bandit",
 		["Zone"] = "Tanaris",
 		["ID"] = 5618,
-		["maxLevel"] = 42,
 		["minLevel"] = 41,
+		["maxLevel"] = 42,
 	},
-	[2017] = {
+	[2207] = {
 		["Name"] = "Wastewander Rogue",
 		["Zone"] = "Tanaris",
 		["ID"] = 5615,
-		["maxLevel"] = 44,
 		["minLevel"] = 43,
+		["maxLevel"] = 44,
 	},
-	[2018] = {
+	[2208] = {
 		["Name"] = "Wastewander Scofflaw",
 		["Zone"] = "Tanaris",
 		["ID"] = 7805,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[2019] = {
+	[2209] = {
 		["Name"] = "Wastewander Shadow Mage",
 		["Zone"] = "Tanaris",
 		["ID"] = 5617,
-		["maxLevel"] = 43,
 		["minLevel"] = 42,
+		["maxLevel"] = 43,
 	},
-	[2020] = {
+	[2210] = {
 		["Name"] = "Wastewander Thief",
 		["Zone"] = "Tanaris",
 		["ID"] = 5616,
-		["maxLevel"] = 41,
 		["minLevel"] = 40,
+		["maxLevel"] = 41,
 	},
-	[2021] = {
+	[2211] = {
 		["Name"] = "Weegli Blastfuse",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7607,
-		["maxLevel"] = 43,
 		["minLevel"] = 43,
+		["maxLevel"] = 43,
 	},
-	[2022] = {
+	[2212] = {
 		["Name"] = "Wendy Copperhack",
 		["Zone"] = "Durotar",
 		["ID"] = 91258,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[2023] = {
+	[2213] = {
 		["Name"] = "Wenikee Boltbucket",
 		["Zone"] = "The Barrens",
 		["ID"] = 9316,
-		["maxLevel"] = 19,
 		["minLevel"] = 19,
+		["maxLevel"] = 19,
 	},
-	[2024] = {
+	[2214] = {
 		["Name"] = "Werg Thickblade",
 		["Zone"] = "Tirisfal Glades",
 		["ID"] = 12943,
-		["maxLevel"] = 55,
 		["minLevel"] = 55,
+		["maxLevel"] = 55,
 	},
-	[2025] = {
+	[2215] = {
 		["Name"] = "Wesley",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 9978,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[2026] = {
+	[2216] = {
 		["Name"] = "Wharfmaster Dizzywig",
 		["Zone"] = "The Barrens",
 		["ID"] = 3453,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[2027] = {
+	[2217] = {
 		["Name"] = "Wharfmaster Lozgil",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 4631,
 		["minLevel"] = 35,
 		["maxLevel"] = 35,
 	},
-	[2028] = {
+	[2218] = {
 		["Name"] = "Whiskey Slim",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2491,
 		["minLevel"] = 38,
 		["maxLevel"] = 38,
 	},
-	[2029] = {
+	[2219] = {
 		["Name"] = "White Thalassian Unicorn",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 40045,
 		["maxLevel"] = 1,
 		["minLevel"] = 1,
 	},
-	[2030] = {
+	[2220] = {
 		["Name"] = "Whuut",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 11046,
-		["maxLevel"] = 23,
 		["minLevel"] = 23,
+		["maxLevel"] = 23,
 	},
-	[2031] = {
+	[2221] = {
 		["Name"] = "Wigcik",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2842,
 		["minLevel"] = 43,
 		["maxLevel"] = 43,
 	},
-	[2032] = {
+	[2222] = {
+		["Name"] = "Wildhammer Sentry",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 7865,
+		["minLevel"] = 55,
+		["maxLevel"] = 55,
+	},
+	[2223] = {
 		["Name"] = "Wildixle Fizzmind",
 		["Zone"] = "Tanaris",
 		["ID"] = 80994,
-		["maxLevel"] = 51,
 		["minLevel"] = 51,
+		["maxLevel"] = 51,
 	},
-	[2033] = {
+	[2224] = {
 		["Name"] = "Wildthorn Stalker",
 		["Zone"] = "Ashenvale",
 		["ID"] = 3819,
 		["maxLevel"] = 20,
 		["minLevel"] = 20,
 	},
-	[2034] = {
+	[2225] = {
+		["Name"] = "Williden Marshal",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9270,
+		["minLevel"] = 48,
+		["maxLevel"] = 48,
+	},
+	[2226] = {
+		["Name"] = "Winstone Wolfe",
+		["Zone"] = "Alterac Mountains",
+		["ID"] = 7323,
+		["minLevel"] = 52,
+		["maxLevel"] = 52,
+	},
+	[2227] = {
 		["Name"] = "Winter Wolf",
 		["Zone"] = "Dun Morogh",
 		["ID"] = 1131,
 		["minLevel"] = 8,
 		["maxLevel"] = 8,
 	},
-	[2035] = {
+	[2228] = {
 		["Name"] = "Winterfall Envoy",
 		["Zone"] = "Hyjal",
 		["ID"] = 61510,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[2036] = {
+	[2229] = {
 		["Name"] = "Wisp",
 		["Zone"] = "Darnassus",
 		["ID"] = 3681,
-		["maxLevel"] = 1,
 		["minLevel"] = 1,
+		["maxLevel"] = 1,
 	},
-	[2037] = {
+	[2230] = {
 		["Name"] = "Witchwing Harpy",
 		["Zone"] = "The Barrens",
 		["ID"] = 3276,
-		["maxLevel"] = 15,
 		["minLevel"] = 14,
+		["maxLevel"] = 15,
 	},
-	[2038] = {
+	[2231] = {
 		["Name"] = "Witchwing Roguefeather",
 		["Zone"] = "The Barrens",
 		["ID"] = 3277,
-		["maxLevel"] = 16,
 		["minLevel"] = 15,
+		["maxLevel"] = 16,
 	},
-	[2039] = {
+	[2232] = {
 		["Name"] = "Witchwing Slayer",
 		["Zone"] = "The Barrens",
 		["ID"] = 3278,
-		["maxLevel"] = 17,
 		["minLevel"] = 16,
+		["maxLevel"] = 17,
 	},
-	[2040] = {
+	[2233] = {
 		["Name"] = "Witchwing Windcaller",
 		["Zone"] = "The Barrens",
 		["ID"] = 3280,
-		["maxLevel"] = 18,
 		["minLevel"] = 18,
+		["maxLevel"] = 18,
 	},
-	[2041] = {
-		["Name"] = "Withered Refugee",
-		["Zone"] = "Thalassian Highlands",
-		["ID"] = 61773,
-		["maxLevel"] = 5,
-		["minLevel"] = 5,
+	[2234] = {
+		["Name"] = "Witherbark Bloodling",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 7768,
+		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[2042] = {
+	[2235] = {
+		["Name"] = "Witherbark Broodguard",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 2686,
+		["minLevel"] = 44,
+		["maxLevel"] = 45,
+	},
+	[2236] = {
+		["Name"] = "Witherbark Caller",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 2654,
+		["minLevel"] = 46,
+		["maxLevel"] = 46,
+	},
+	[2237] = {
+		["Name"] = "Witherbark Hideskinner",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 2651,
+		["minLevel"] = 42,
+		["maxLevel"] = 43,
+	},
+	[2238] = {
+		["Name"] = "Witherbark Sadist",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 2653,
+		["minLevel"] = 44,
+		["maxLevel"] = 45,
+	},
+	[2239] = {
+		["Name"] = "Witherbark Scalper",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 2649,
+		["minLevel"] = 40,
+		["maxLevel"] = 41,
+	},
+	[2240] = {
+		["Name"] = "Witherbark Venomblood",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 2652,
+		["minLevel"] = 43,
+		["maxLevel"] = 43,
+	},
+	[2241] = {
+		["Name"] = "Witherbark Zealot",
+		["Zone"] = "The Hinterlands",
+		["ID"] = 2650,
+		["minLevel"] = 41,
+		["maxLevel"] = 42,
+	},
+	[2242] = {
 		["Name"] = "Withered Refugee",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61773,
 		["maxLevel"] = 5,
 		["minLevel"] = 5,
 	},
-	[2043] = {
-		["Name"] = "Withering Refugee",
-		["Zone"] = "Alah'Thalas",
-		["ID"] = 61874,
-		["maxLevel"] = 7,
-		["minLevel"] = 7,
+	[2243] = {
+		["Name"] = "Withered Refugee",
+		["Zone"] = "Thalassian Highlands",
+		["ID"] = 61773,
+		["maxLevel"] = 5,
+		["minLevel"] = 5,
 	},
-	[2044] = {
+	[2244] = {
 		["Name"] = "Withering Refugee",
 		["Zone"] = "Thalassian Highlands",
 		["ID"] = 61874,
 		["maxLevel"] = 7,
 		["minLevel"] = 7,
 	},
-	[2045] = {
+	[2245] = {
+		["Name"] = "Withering Refugee",
+		["Zone"] = "Alah'Thalas",
+		["ID"] = 61874,
+		["maxLevel"] = 7,
+		["minLevel"] = 7,
+	},
+	[2246] = {
 		["Name"] = "Wixx",
 		["Zone"] = "Durotar",
 		["ID"] = 91248,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[2046] = {
+	[2247] = {
 		["Name"] = "Wizzlecrank's Shredder",
 		["Zone"] = "The Barrens",
 		["ID"] = 3439,
-		["maxLevel"] = 18,
 		["minLevel"] = 18,
+		["maxLevel"] = 18,
 	},
-	[2047] = {
+	[2248] = {
 		["Name"] = "Woodworker Grack",
 		["Zone"] = "Durotar",
 		["ID"] = 91264,
-		["maxLevel"] = 9,
 		["minLevel"] = 9,
+		["maxLevel"] = 9,
 	},
-	[2048] = {
+	[2249] = {
 		["Name"] = "Woodworker Rustlug",
 		["Zone"] = "Durotar",
 		["ID"] = 91265,
-		["maxLevel"] = 8,
 		["minLevel"] = 8,
+		["maxLevel"] = 8,
 	},
-	[2049] = {
+	[2250] = {
 		["Name"] = "Woodworker Shlax",
 		["Zone"] = "Durotar",
 		["ID"] = 91279,
-		["maxLevel"] = 9,
 		["minLevel"] = 9,
+		["maxLevel"] = 9,
 	},
-	[2050] = {
+	[2251] = {
 		["Name"] = "Wooly Kodo",
 		["Zone"] = "The Barrens",
 		["ID"] = 3237,
-		["maxLevel"] = 26,
 		["minLevel"] = 25,
+		["maxLevel"] = 26,
 	},
-	[2051] = {
+	[2252] = {
 		["Name"] = "Wrahk",
 		["Zone"] = "The Barrens",
 		["ID"] = 3485,
-		["maxLevel"] = 18,
 		["minLevel"] = 18,
+		["maxLevel"] = 18,
 	},
-	[2052] = {
+	[2253] = {
 		["Name"] = "Wrenix the Wretched",
 		["Zone"] = "The Barrens",
 		["ID"] = 7161,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
-	[2053] = {
+	[2254] = {
 		["Name"] = "Wrenix's Gizmotronic Apparatus",
 		["Zone"] = "The Barrens",
 		["ID"] = 7166,
-		["maxLevel"] = 20,
 		["minLevel"] = 20,
+		["maxLevel"] = 20,
 	},
-	[2054] = {
+	[2255] = {
 		["Name"] = "Wretched Lost One",
 		["Zone"] = "Blasted Lands",
 		["ID"] = 5979,
-		["maxLevel"] = 47,
 		["minLevel"] = 45,
+		["maxLevel"] = 47,
 	},
-	[2055] = {
+	[2256] = {
 		["Name"] = "Wrinkle Goodsteel",
 		["Zone"] = "Tanaris",
 		["ID"] = 8129,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[2056] = {
+	[2257] = {
 		["Name"] = "Wrix Ozzlenut",
 		["Zone"] = "Durotar",
 		["ID"] = 91200,
-		["maxLevel"] = 36,
 		["minLevel"] = 36,
+		["maxLevel"] = 36,
 	},
-	[2057] = {
+	[2258] = {
 		["Name"] = "Wuark",
 		["Zone"] = "Durotar",
 		["ID"] = 3167,
-		["maxLevel"] = 16,
 		["minLevel"] = 16,
+		["maxLevel"] = 16,
 	},
-	[2058] = {
+	[2259] = {
 		["Name"] = "Wuzgut",
 		["Zone"] = "Durotar",
 		["ID"] = 91216,
-		["maxLevel"] = 12,
 		["minLevel"] = 12,
+		["maxLevel"] = 12,
 	},
-	[2059] = {
+	[2260] = {
 		["Name"] = "X'yera",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 6014,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[2060] = {
+	[2261] = {
 		["Name"] = "Xalthix",
 		["Zone"] = "Hyjal",
 		["ID"] = 61565,
-		["maxLevel"] = 61,
 		["minLevel"] = 61,
+		["maxLevel"] = 61,
 	},
-	[2061] = {
+	[2262] = {
 		["Name"] = "Xan'tish",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 8404,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[2062] = {
+	[2263] = {
 		["Name"] = "Xanis Flameweaver",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 5906,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[2063] = {
+	[2264] = {
 		["Name"] = "Xao'tsu",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 10088,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[2064] = {
+	[2265] = {
 		["Name"] = "Xen'to",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3400,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[2065] = {
+	[2266] = {
 		["Name"] = "Xon'cha",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 9988,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[2066] = {
+	[2267] = {
 		["Name"] = "Xor'juul",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3406,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[2067] = {
+	[2268] = {
 		["Name"] = "Yagon Grimbeard",
 		["Zone"] = "Alah'Thalas",
 		["ID"] = 61870,
 		["maxLevel"] = 40,
 		["minLevel"] = 40,
 	},
-	[2068] = {
+	[2269] = {
 		["Name"] = "Yarrog Baneshadow",
 		["Zone"] = "Durotar",
 		["ID"] = 3183,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
+		["maxLevel"] = 5,
 	},
-	[2069] = {
+	[2270] = {
 		["Name"] = "Yauj Brood",
 		["Zone"] = "Ahn'Qiraj",
 		["ID"] = 15621,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[2070] = {
+	[2271] = {
 		["Name"] = "Yeh'kinya",
 		["Zone"] = "Tanaris",
 		["ID"] = 8579,
-		["maxLevel"] = 41,
 		["minLevel"] = 41,
+		["maxLevel"] = 41,
 	},
-	[2071] = {
+	[2272] = {
 		["Name"] = "Yelmak",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3347,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[2072] = {
+	[2273] = {
 		["Name"] = "Yelnagi Blackarm",
 		["Zone"] = "Durotar",
 		["ID"] = 6787,
-		["maxLevel"] = 16,
 		["minLevel"] = 16,
+		["maxLevel"] = 16,
 	},
-	[2073] = {
+	[2274] = {
 		["Name"] = "Yldan",
 		["Zone"] = "Darnassus",
 		["ID"] = 4230,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[2074] = {
+	[2275] = {
 		["Name"] = "Yonada",
 		["Zone"] = "The Barrens",
 		["ID"] = 5944,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[2075] = {
+	[2276] = {
 		["Name"] = "Yorba Screwspigot",
 		["Zone"] = "Tanaris",
 		["ID"] = 9706,
-		["maxLevel"] = 53,
 		["minLevel"] = 53,
+		["maxLevel"] = 53,
 	},
-	[2076] = {
+	[2277] = {
 		["Name"] = "Young Black Bear",
 		["Zone"] = "Dun Morogh",
 		["ID"] = 1128,
 		["minLevel"] = 5,
 		["maxLevel"] = 5,
 	},
-	[2077] = {
+	[2278] = {
+		["Name"] = "Young Diemetradon",
+		["Zone"] = "Un'Goro Crater",
+		["ID"] = 9162,
+		["minLevel"] = 49,
+		["maxLevel"] = 50,
+	},
+	[2279] = {
 		["Name"] = "Young Mesa Buzzard",
 		["Zone"] = "Arathi Highlands",
 		["ID"] = 2578,
-		["maxLevel"] = 31,
 		["minLevel"] = 31,
+		["maxLevel"] = 31,
 	},
-	[2078] = {
+	[2280] = {
 		["Name"] = "Young Panther",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 683,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[2079] = {
+	[2281] = {
 		["Name"] = "Zalashji",
 		["Zone"] = "Tanaris",
 		["ID"] = 8617,
 		["maxLevel"] = 45,
 		["minLevel"] = 45,
 	},
-	[2080] = {
+	[2282] = {
 		["Name"] = "Zalazane",
 		["Zone"] = "Durotar",
 		["ID"] = 3205,
-		["maxLevel"] = 10,
 		["minLevel"] = 10,
+		["maxLevel"] = 10,
 	},
-	[2081] = {
+	[2283] = {
 		["Name"] = "Zalsu the Wanderer",
 		["Zone"] = "Tanaris",
 		["ID"] = 62726,
-		["maxLevel"] = 46,
 		["minLevel"] = 46,
+		["maxLevel"] = 46,
 	},
-	[2082] = {
+	[2284] = {
 		["Name"] = "Zamja",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3399,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[2083] = {
+	[2285] = {
+		["Name"] = "Zan Shivsproket",
+		["Zone"] = "Alterac Mountains",
+		["ID"] = 6777,
+		["minLevel"] = 60,
+		["maxLevel"] = 60,
+	},
+	[2286] = {
 		["Name"] = "Zandalarian Emissary",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 15076,
 		["minLevel"] = 55,
 		["maxLevel"] = 55,
 	},
-	[2084] = {
+	[2287] = {
 		["Name"] = "Zando'zan",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3402,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[2085] = {
+	[2288] = {
 		["Name"] = "Zangen Stonehoof",
 		["Zone"] = "Thunder Bluff",
 		["ID"] = 4721,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[2086] = {
+	[2289] = {
 		["Name"] = "Zankaja",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5910,
-		["maxLevel"] = 15,
 		["minLevel"] = 15,
+		["maxLevel"] = 15,
 	},
-	[2087] = {
+	[2290] = {
+		["Name"] = "Zannok Hidepiercer",
+		["Zone"] = "Silithus",
+		["ID"] = 12956,
+		["minLevel"] = 59,
+		["maxLevel"] = 59,
+	},
+	[2291] = {
 		["Name"] = "Zantiki",
 		["Zone"] = "Durotar",
 		["ID"] = 60511,
 		["maxLevel"] = 15,
 		["minLevel"] = 15,
 	},
-	[2088] = {
+	[2292] = {
 		["Name"] = "Zarena Cromwind",
 		["Zone"] = "Stranglethorn Vale",
 		["ID"] = 2482,
 		["maxLevel"] = 43,
 		["minLevel"] = 43,
 	},
-	[2089] = {
+	[2293] = {
 		["Name"] = "Zargh",
 		["Zone"] = "The Barrens",
 		["ID"] = 3489,
-		["maxLevel"] = 16,
 		["minLevel"] = 16,
+		["maxLevel"] = 16,
 	},
-	[2090] = {
+	[2294] = {
 		["Name"] = "Zas'Tysh",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 7951,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[2091] = {
+	[2295] = {
 		["Name"] = "Zayus",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5994,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[2092] = {
+	[2296] = {
 		["Name"] = "Zazo",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 5609,
-		["maxLevel"] = 14,
 		["minLevel"] = 14,
+		["maxLevel"] = 14,
 	},
-	[2093] = {
+	[2297] = {
+		["Name"] = "Zeal'aya",
+		["Zone"] = "Orgrimmar",
+		["ID"] = 3405,
+		["minLevel"] = 30,
+		["maxLevel"] = 30,
+	},
+	[2298] = {
 		["Name"] = "Zeet Waxwrench",
 		["Zone"] = "Durotar",
 		["ID"] = 91205,
-		["maxLevel"] = 25,
 		["minLevel"] = 25,
+		["maxLevel"] = 25,
 	},
-	[2094] = {
+	[2299] = {
 		["Name"] = "Zel'jeb the Ancient",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 62495,
-		["maxLevel"] = 46,
 		["minLevel"] = 46,
+		["maxLevel"] = 46,
 	},
-	[2095] = {
+	[2300] = {
 		["Name"] = "Zel'mak",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3408,
-		["maxLevel"] = 40,
 		["minLevel"] = 40,
+		["maxLevel"] = 40,
 	},
-	[2096] = {
+	[2301] = {
 		["Name"] = "Zendo'jian",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3409,
-		["maxLevel"] = 30,
 		["minLevel"] = 30,
+		["maxLevel"] = 30,
 	},
-	[2097] = {
+	[2302] = {
 		["Name"] = "Zevrost",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 3326,
-		["maxLevel"] = 50,
 		["minLevel"] = 50,
+		["maxLevel"] = 50,
 	},
-	[2098] = {
+	[2303] = {
 		["Name"] = "Zhevra Charger",
 		["Zone"] = "The Barrens",
 		["ID"] = 3426,
-		["maxLevel"] = 18,
 		["minLevel"] = 17,
+		["maxLevel"] = 18,
 	},
-	[2099] = {
+	[2304] = {
 		["Name"] = "Zhevra Courser",
 		["Zone"] = "The Barrens",
 		["ID"] = 3466,
-		["maxLevel"] = 21,
 		["minLevel"] = 20,
+		["maxLevel"] = 21,
 	},
-	[2100] = {
+	[2305] = {
 		["Name"] = "Zhevra Runner",
 		["Zone"] = "The Barrens",
 		["ID"] = 3242,
-		["maxLevel"] = 14,
 		["minLevel"] = 13,
+		["maxLevel"] = 14,
 	},
-	[2101] = {
+	[2306] = {
 		["Name"] = "Zikkel",
 		["Zone"] = "The Barrens",
 		["ID"] = 8119,
-		["maxLevel"] = 45,
 		["minLevel"] = 45,
+		["maxLevel"] = 45,
 	},
-	[2102] = {
+	[2307] = {
 		["Name"] = "Zim'bwaba",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 61635,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[2103] = {
+	[2308] = {
 		["Name"] = "Zin'jashi",
 		["Zone"] = "Durotar",
 		["ID"] = 61634,
-		["maxLevel"] = 5,
 		["minLevel"] = 5,
+		["maxLevel"] = 5,
 	},
-	[2104] = {
+	[2309] = {
 		["Name"] = "Zixil",
 		["Zone"] = "Hillsbrad Foothills",
 		["ID"] = 3537,
-		["maxLevel"] = 32,
 		["minLevel"] = 32,
+		["maxLevel"] = 32,
 	},
-	[2105] = {
+	[2310] = {
 		["Name"] = "Zizzek",
 		["Zone"] = "The Barrens",
 		["ID"] = 3572,
-		["maxLevel"] = 22,
 		["minLevel"] = 22,
+		["maxLevel"] = 22,
 	},
-	[2106] = {
+	[2311] = {
 		["Name"] = "Zlagk",
 		["Zone"] = "Durotar",
 		["ID"] = 3882,
-		["maxLevel"] = 9,
 		["minLevel"] = 9,
+		["maxLevel"] = 9,
 	},
-	[2107] = {
+	[2312] = {
 		["Name"] = "Zombie Chow",
 		["Zone"] = "Naxxramas",
 		["ID"] = 16360,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[2108] = {
+	[2313] = {
 		["Name"] = "Zor Lonetree",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 4047,
-		["maxLevel"] = 62,
 		["minLevel"] = 62,
+		["maxLevel"] = 62,
 	},
-	[2109] = {
+	[2314] = {
 		["Name"] = "Zora",
 		["Zone"] = "Orgrimmar",
 		["ID"] = 51293,
-		["maxLevel"] = 35,
 		["minLevel"] = 35,
+		["maxLevel"] = 35,
 	},
-	[2110] = {
+	[2315] = {
 		["Name"] = "Zul'Farrak Zombie",
 		["Zone"] = "Zul'Farrak",
 		["ID"] = 7286,
-		["maxLevel"] = 44,
 		["minLevel"] = 43,
+		["maxLevel"] = 44,
 	},
-	[2111] = {
+	[2316] = {
 		["Name"] = "Zun'dartha",
 		["Zone"] = "Swamp of Sorrows",
 		["ID"] = 1775,
-		["maxLevel"] = 60,
 		["minLevel"] = 60,
+		["maxLevel"] = 60,
 	},
-	[2112] = {
+	[2317] = {
 		["Name"] = "Zureetha Fargaze",
 		["Zone"] = "Durotar",
 		["ID"] = 3145,
-		["maxLevel"] = 12,
 		["minLevel"] = 12,
+		["maxLevel"] = 12,
 	},
 }

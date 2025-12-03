@@ -9,6 +9,7 @@ local legendaryColor = "|cffFF8000"         -- The color we use to mark addon na
 local RogueColor = "|cFFFFF468"             -- Color my name Rogue color.
 local resetColor = "|r"                     -- Stop the coloring of text.
 local MobIdWelcome = false                  -- Used to see if we already have said "Welcome"
+local PlayerZone                            -- Used to make sure we don't load wrong NPC's and pet's when for example use Hearthstone.
 
 -- ====================================================================================================
 -- =                                 Create frame and register events                                 =
@@ -20,6 +21,8 @@ local f = CreateFrame("Frame");
     if (TURTLE_WOW_VERSION) then
         f:RegisterEvent("PLAYER_TARGET_CHANGED");
         f:RegisterEvent("UPDATE_MOUSEOVER_UNIT");
+        -- f:RegisterEvent("PLAYER_ENTERING_WORLD");
+        -- f:RegisterEvent("ZONE_CHANGED_NEW_AREA");
     end
 
 -- ====================================================================================================
@@ -47,6 +50,10 @@ f:SetScript("OnEvent", function()
         end
         -- Check if we want to show a tooltip with the ID
         AddMobIDToTooltip();
+-- ====================================================================================================
+    -- Did we have a loading screen ?
+    elseif (event == "PLAYER_ENTERING_WORLD") or (event == "ZONE_CHANGED_NEW_AREA") then
+        PlayerZone = GetRealZoneText()
     end
 end)
 
@@ -68,18 +75,56 @@ f:SetScript("OnUpdate", function()
             return;
         end
 
+        -- Sort the list alphabetically.
+        SortAlphabetic()
+
+        -- Purge duplicates.
+        PurgeDuplicateMobEntriesInPlace()
+
         -- Check if there is updates to us from Import.lua
         ImportNewMobs()
-
-        -- Split the list so we easy can add the missing ID's.
-        UpdateMobIDs()
-
-        -- A small info about how many mobs have ID and how many there is missing.
-        WhoIsMissingID()
 
     end
 
 end)
+
+-- ====================================================================================================
+-- =                        Sort the table alphabetic so it's easy to enter ID                        =
+-- ====================================================================================================
+
+function SortAlphabetic()
+    -- Check if MOB_LIST is made, if not we just stop.
+    if (not MOB_LIST) or (not type(MOB_LIST) == "table") then
+        return;
+    end
+
+    -- Check if MOB_LIST is empty.
+    if (table.getn(MOB_LIST) == 0) then
+        return;
+    end
+
+    -- Sort MOB_LIST from A to Z acording to mob name.
+    table.sort(MOB_LIST, function(a, b)
+        return a.Name < b.Name;
+    end);
+
+    -- Check if MISSING_MOB_ID is made, if not we just stop.
+    if (not MISSING_MOB_ID) or (not type(MISSING_MOB_ID) == "table") then
+        return;
+    end
+
+    -- Check if MISSING_MOB_ID is empty.
+    if (table.getn(MISSING_MOB_ID) == 0) then
+        return;
+    end
+
+    -- Sort MISSING_MOB_ID from A to Z acording to mob name.
+    table.sort(MISSING_MOB_ID, function(a, b)
+        return a.Name < b.Name;
+    end);
+    
+
+end
 
 -- ====================================================================================================
 -- =                                         Get the mob "ID"                                         =
@@ -211,37 +256,7 @@ function GetTheMobInfo(source)
                     ID = "Missing",
                 });
             end
-
--- ====================================================================================================
-
-            -- Sort the list alphabetically.
-            SortAlphabetic()
         end
-    end
-end
-
--- ====================================================================================================
--- =                        Sort the table alphabetic so it's easy to enter ID                        =
--- ====================================================================================================
-
-function SortAlphabetic()
-    -- Check if MOB_LIST is made, if not we just stop.
-    if (not MOB_LIST) or (not type(MOB_LIST) == "table") then
-        return;
-    end
-
-    -- Check if MOB_LIST is empty.
-    if (table.getn(MOB_LIST) == 0) then
-        return;
-    end
-
-    -- Sort MOB_LIST from A to Z acording to mob name.
-    table.sort(MOB_LIST, function(a, b)
-        return a.Name < b.Name;
-    end);
-
-    if (Debug) then
-        DEFAULT_CHAT_FRAME:AddMessage(legendaryColor .. AddonName .. resetColor .. ": SUCCESS:" .. "|r" .. " The mob list is now sorted alphabetically (" .. table.getn(MOB_LIST) .. " elements).");
     end
 end
 
@@ -298,7 +313,7 @@ end
 -- =                    Check how many there have ID and how many there is missing                    =
 -- ====================================================================================================
 
-function WhoIsMissingID()
+local function WhoIsMissingID()
 
     -- Locals
     local IsNumber = 0
@@ -322,7 +337,7 @@ end
 -- =                     Split what have ID and what is missing ID for easy check                     =
 -- ====================================================================================================
 
-function UpdateMobIDs()
+local function UpdateMobIDs()
 
     -- Check if MOB_LIST is created correct, if not we create it.
     if (not MOB_LIST) or (not type(MOB_LIST) == "table") then
@@ -403,6 +418,9 @@ function UpdateMobIDs()
         DEFAULT_CHAT_FRAME:AddMessage(legendaryColor .. AddonName .. resetColor .. ": " .. updatedCount .. " new ID(s) have been added to " .. AddonName .. ".");
     end
 
+    -- A small info about how many mobs have ID and how many there is missing.
+    WhoIsMissingID()
+
 end
 
 -- ====================================================================================================
@@ -411,109 +429,105 @@ end
 
 function ImportNewMobs()
 
-    -- Check if IMPORT_MOB_ID is created correct and there is some posts there, if not then we stop.
-    if (not IMPORT_MOB_ID) or (not type(IMPORT_MOB_ID) == "table") or (table.getn(IMPORT_MOB_ID) == 0) then
+    -- Validate IMPORT_MOB_ID: must be a non-empty table, otherwise stop.
+    if (not IMPORT_MOB_ID) or (type(IMPORT_MOB_ID) ~= "table") or (table.getn(IMPORT_MOB_ID) == 0) then
         return;
     end
 
-    -- Check if MOB_LIST is created correct, if not we create it.
-    if (not MOB_LIST) or (not type(MOB_LIST) == "table") then
+    -- Validate MOB_LIST: must be a table, otherwise initialize it.
+    if (not MOB_LIST) or (type(MOB_LIST) ~= "table") then
         MOB_LIST = {}
     end
 
-    -- Locals
-    local updatedCount = 0; -- If a mob is updated.
-    local addedCount = 0; -- If a mob is added.
+    local updatedCount, addedCount = 0, 0
 
-    -- Loop through IMPORT_MOB_ID and look for new info.
-    for _, importMob in ipairs(IMPORT_MOB_ID) do
+    -- Build a lookup table (mobIndex) for faster search by Name+Zone.
+    local mobIndex = {}
+    for i, mob in pairs(MOB_LIST) do
+        if (mob.Name) and (mob.Zone) then
+            mobIndex[mob.Name .. "|" .. mob.Zone] = i
+        end
+    end
 
-        -- Check that we found a mob and a zone.
+    -- Process each imported mob entry.
+    for _, importMob in pairs(IMPORT_MOB_ID) do
         if (importMob.Name) and (importMob.Zone) then
+            local key = importMob.Name .. "|" .. importMob.Zone
+            local idx = mobIndex[key]
 
-            local foundInExistingList = false;
+            -- Normalize values from import.
+            local newID    = tonumber(importMob.ID) or importMob.ID
+            local newMin   = tonumber(importMob.minLevel)
+            local newMax   = tonumber(importMob.maxLevel)
+            local newOwner = importMob.Owner  -- only set if provided
 
-            -- Loop through MOB_LIST and look if we already have the mob in our list.
-            for k, existingMob in ipairs(MOB_LIST) do
+            if (idx) then
+                -- Existing mob found in MOB_LIST.
+                local existing = MOB_LIST[idx]
+                local changed = false
 
-                -- Is it same name and zone ?
-                if (existingMob.Name == importMob.Name) and (existingMob.Zone == importMob.Zone) then
-
-                    -- We found the mob
-                    foundInExistingList = true;
-                    -- No changes found yet.
-                    local changed = false;
-
-                    -- Save in some locals.
-                    local newID = tonumber(importMob.ID) or importMob.ID;
-                    local newMinLevel = tonumber(importMob.minLevel);
-                    local newMaxLevel = tonumber(importMob.maxLevel);
-
-                    -- Is the ID a number? We don't want to overwrite the ID we manually entered with "Missing".
-                    if (tonumber(newID)) then
-                        -- Maybe someone have found the ID for us, so is if diffrent then what we have ?
-                        if (existingMob.ID ~= newID) then
-                            existingMob.ID = newID;
-                            changed = true;
-                        end
-                    end
-
-                    -- Is the new minimum level lower then the level we have found ?
-                    if (newMinLevel) and (existingMob.minLevel > newMinLevel) then
-                        existingMob.minLevel = newMinLevel;
-                        changed = true;
-                    end
-
-                    -- Is the max level higher then what we have found ?
-                    if (newMaxLevel) and (existingMob.maxLevel < newMaxLevel) then
-                        existingMob.maxLevel = newMaxLevel;
-                        changed = true;
-                    end
-
-                    -- If we changed anything, then add 1
-                    if (changed) then
-                        updatedCount = updatedCount + 1;
-                    end
-
-                    -- Match found, stop the loop!
-                    break; 
+                -- Update ID if different.
+                if (tonumber(newID)) and (existing.ID ~= newID) then
+                    existing.ID = newID
+                    changed = true
                 end
-            end
+                -- Update minLevel if lower than current.
+                if (newMin) and ((not existing.minLevel) or (existing.minLevel > newMin)) then
+                    existing.minLevel = newMin
+                    changed = true
+                end
+                -- Update maxLevel if higher than current.
+                if (newMax) and ((not existing.maxLevel) or (existing.maxLevel < newMax)) then
+                    existing.maxLevel = newMax
+                    changed = true
+                end
+                -- Update Owner only if provided and different.
+                if (newOwner) and (existing.Owner ~= newOwner) then
+                    existing.Owner = newOwner
+                    changed = true
+                end
 
-            -- Import new mobs.
-            if (not foundInExistingList) then
+                -- Count updated mobs.
+                if (changed) then
+                    updatedCount = updatedCount + 1
+                end
+            else
+                -- New mob: create entry and insert into MOB_LIST.
+                local newMob = {
+                    Name     = importMob.Name,
+                    Zone     = importMob.Zone,
+                    ID       = newID,
+                    minLevel = newMin,
+                    maxLevel = newMax,
+                }
+                -- Add Owner only if provided.
+                if (newOwner) then
+                    newMob.Owner = newOwner
+                end
 
-                -- Convert to number if possible.
-                local minL = tonumber(importMob.minLevel);
-                local maxL = tonumber(importMob.maxLevel);
-                local mobID = tonumber(importMob.ID) or importMob.ID
-
-                -- Insert to our own table.
-                table.insert(MOB_LIST, {
-                    Name = importMob.Name,
-                    minLevel = minL,
-                    maxLevel = maxL,
-                    Zone = importMob.Zone,
-                    ID = mobID,
-                });
-                addedCount = addedCount + 1;
+                table.insert(MOB_LIST, newMob)
+                mobIndex[key] = table.getn(MOB_LIST)
+                addedCount = addedCount + 1
             end
         end
-
     end
 
-    -- Inform if we added or updated something.
+    -- Inform user about the result of the import.
     if (updatedCount > 0) or (addedCount > 0) then
-        DEFAULT_CHAT_FRAME:AddMessage(legendaryColor .. AddonName .. resetColor .. ": Import completed! " .. addedCount .. " new mob(s) added - " .. updatedCount .. " mob(s) updated.");
+        DEFAULT_CHAT_FRAME:AddMessage(legendaryColor .. AddonName .. resetColor .. ": Import completed! " .. addedCount .. " new mob(s) added - " .. updatedCount .. " mob(s) updated.")
     end
 
+    -- Refresh mob IDs after import.
+    UpdateMobIDs()
 end
+
+
 
 -- ====================================================================================================
 -- =                            Add ID to tooltip when we mouseover a mob.                            =
 -- ====================================================================================================
 
-function FindMobData(mobName, zoneName)
+local function FindMobData(mobName, zoneName)
 
     -- Check if MOB_LIST is created correct, if not we create it.
     if (not MOB_LIST) or (not type(MOB_LIST) == "table") then
@@ -569,26 +583,59 @@ function AddMobIDToTooltip()
 end
 
 
+-- ====================================================================================================
+-- =                                   Purge duplicates in MOB_LIST                                   =
+-- ====================================================================================================
 
+function PurgeDuplicateMobEntriesInPlace()
+    if (not MOB_LIST) or (type(MOB_LIST) ~= "table") then
+        return; 
+    end
 
+    local seenKeys = {};         
+    local duplicateCount = 0;    
 
+    -- Go forward through the list to identify the unique positions (index)
+    for i, entry in ipairs(MOB_LIST) do
+        if (type(entry) == "table") and (entry.Name) and (entry.Zone) then
+            local uniqueKey = entry.Name .. "\001" .. entry.Zone;
+            
+            -- Record the index for the FIRST occurrence only.
+            if (not seenKeys[uniqueKey]) then
+                seenKeys[uniqueKey] = i; 
+            end
+        end
+    end
 
+    -- Go backwards through the list and remove the duplicates.
+    local i = getn(MOB_LIST);
+    
+    while i >= 1 do
+        local entry = MOB_LIST[i];
+        
+        if (type(entry) == "table") and (entry.Name) and (entry.Zone) then
+            local uniqueKey = entry.Name .. "\001" .. entry.Zone;
+            
+            -- Check if this item is a duplicate (seen before, and is not the first occurrence)
+            if (seenKeys[uniqueKey]) and (seenKeys[uniqueKey] ~= i) then
+                
+                -- REMOVE THE ITEM from the list!
+                table.remove(MOB_LIST, i);
+                duplicateCount = duplicateCount + 1;
+            end
+        end
+        
+        -- Go to the next (previous) item.
+        i = i - 1; 
+    end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    -- Inform if we had duplicates and sort the list.
+    if (duplicateCount > 0) then
+        DEFAULT_CHAT_FRAME:AddMessage(string.format(legendaryColor .. AddonName .. resetColor .. " Cleanup complete:|r %d duplicates have been removed from the list.", duplicateCount));
+        -- Sort the list alphabetically.
+        SortAlphabetic()
+    end
+end
 
 
 
